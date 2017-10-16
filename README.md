@@ -16,6 +16,10 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 * Adversary can not recover WPA password.
 * Adversary can not inject packets. *(AES-CCMP ONLY)*
 
+## Related Reading
+* https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/
+* https://www.reddit.com/r/KRaCK/comments/76pjf8/krack_megathread_check_back_often_for_updated/
+
 
 # Vendor Response
 
