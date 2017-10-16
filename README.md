@@ -154,7 +154,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | WatchGuard | https://www.watchguard.com/wgrd-blog/wpa-and-wpa2-vulnerabilities-update | Sunday, October 15, 2017:,AP120, 320, 322, 420:,Release 8.3.0-657, Cloud mode only . Monday, October 30, 2017: AP300: Release 2.0.0.9 ,AP100, 102, 200: Release 1.2.9.14, AP120, 320, 322, 420:,Release 8.3.0-657, Non-Cloud (GWC mode) | 2017-10-17 | 2017-10-17 |  |
 | WiFi Alliance | https://www.wi-fi.org/security-update-october-2017 | Users should refer to their Wi-Fi device vendor’s website or security advisories to determine if their device has been affected and has an update available. As always, Wi-Fi users should ensure they have installed the latest recommended updates from device manufacturers. | 2017-10-16 | 2017-10-16 |  |
 | Xfinity | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
-| Xirrus | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Xirrus | https://www.xirrus.com/vulnerability-statements/ | As soon as the patch is released, it will be made available through the Xirrus Support Community. | 2017-10-17 | 2017-10-17 |  |
 | Yamaha | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Yi (Xiaoyi) | No Known Official Response | "Waiting on a reply" | 2017-10-17 | 2017-10-17 |  |
 | ZTE | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
