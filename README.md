@@ -40,8 +40,6 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 
 # Vendor Response
 
-| Vendor | Official Response | Comment | Last Checked | Last Updated | Date Notified by CERT |
-|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|-----------------------|
 | Aerohive | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Android | No Known Official Response | Android 6.0 and above affected (Android uses wpa_supplicant and therefore is affected). | 2017-10-16 | 2017-10-16 |  |
 | Apple | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
@@ -56,6 +54,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | CZ.NIC Turris | https://forum.turris.cz/t/major-wpa2-vulnerability-to-be-disclosed/5363/8 | via @spike411: CZ.NIC Turris team is testing a fix (backported from hostapd upstream):https://gitlab.labs.nic.cz/turris/openwrt/commit/a60970f33f65bfb1d531ce822bfd28ee049a702f | 2017-10-16 | 2017-10-16 |  |
 | D-Link | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Debian / Ubuntu | http://seclists.org/bugtraq/2017/Oct/25 | * Add patches to fix WPA protocol vulnerabilities (CVE-2017-13077,    CVE-2017-13078, CVE-2017-13079, CVE-2017-13080, CVE-2017-13081,    CVE-2017-13082, CVE-2017-13086, CVE-2017-13087, CVE-2017-13088):    - hostapd: Avoid key reinstallation in FT handshake    - Prevent reinstallation of an already in-use group key    - Extend protection of GTK/IGTK reinstallation of WNM-Sleep Mode cases    - Fix PTK rekeying to generate a new ANonce    - TDLS: Reject TPK-TK reconfiguration    - WNM: Ignore WNM-Sleep Mode Response if WNM-Sleep Mode has not been used    - WNM: Ignore WNM-Sleep Mode Response without pending request    - FT: Do not allow multiple Reassociation Response frames    - TDLS: Ignore incoming TDLS Setup Response retries | 2017-10-16 | 2017-10-16 |  |
+| Denon | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Espressif Systems | http://espressif.com/en/media_overview/news/espressif-releases-patches-wifi-vulnerabilities-cert-vu228519 | Espressif released patches for the WiFi vulnerabilities in their products including ESP-IDF, ESP8266 RTOS and ESP8266 NON-OS. Arduino ESP32 will be updated shortly. | 2017-10-16 | 2017-10-16 | 22 Sep 2017 |
 | Fedora | https://bodhi.fedoraproject.org/updates/wpa_supplicant-2.6-11.fc27 | Status: Fixed Release: Pending (* Manual installation is possible) | 2017-10-17 | 2017-10-17 |  |
 | FortiNet | http://docs.fortinet.com/uploaded/files/3961/fortiap-v5.6.1-release-notes.pdf | FortiAP 5.6.1 is no longer vulnerable to the following CVE Reference:...CVE-2017-13077CVE-2017-13078CVE-2017-13079CVE-2017-13080CVE-2017-13081CVE-2017-13082 | 2017-10-16 | 2017-10-16 |  |
@@ -71,6 +70,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Linksys | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Linux | Patches: https://w1.fi/security/2017-1/ | wpa_supplicant version 2.4 and above is affected. Linux's wpa_supplicant v2.6 is also vulnerable to the installation of an all-zero encryption key in the 4-way handshake. | 2017-10-16 | 2017-10-16 |  |
 | Logitech | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| Marantz | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | MediaTek | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Meraki | https://documentation.meraki.com/zGeneral_Administration/Support/802.11r_Vulnerability_(CVE%3A_2017-13082)_FAQ | Fixed for Cisco Meraki in 24.11 and 25.7 | 2017-10-16 | 2017-10-16 |  |
 | Microchip Technology | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
@@ -80,8 +80,10 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Netgear | https://kb.netgear.com/000049498/Security-Advisory-for-WPA-2-Vulnerabilities-PSV-2017-2826-PSV-2017-2836-PSV-2017-2837 | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nikon | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nintendo | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| Onkyo | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | OpenBSD | https://marc.info/?l=openbsd-announce&m=150410604407872&w=2 | Errata patches for the wireless stack have been released for OpenBSD 6.1 and 6.0. State transition errors could cause reinstallation of old WPA keys. Binary updates for the amd64 and i386 platforms are available via the syspatch utility. Source code patches can be found on the respective errata pages. As this affects the kernel, a reboot will be needed after patching. | 2017-10-16 | 2017-10-16 |  |
 | Pakedge | No Known Official Response | Via @spike411 "They have acknowledged they have received my enquiry but don’t have any info about the state of this vulnerability in their products." | 2017-10-16 | 2017-10-16 |  |
+| Pioneer | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Qualcomm Atheros | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Red Hat, Inc. | This issue affects the versions of wpa_supplicant as shipped with Red Hat Enterprise Linux 6 and 7. https://access.redhat.com/security/cve/cve-2017-13087 | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Ruckus Wireless | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
