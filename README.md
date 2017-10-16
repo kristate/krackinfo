@@ -56,6 +56,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Synology |  | X |  |
 | Turris Omnia |  | X |  |
 | Ubiquiti | X |  |  |
+| Ubuntu | X |  |  |
 | UniFi | X |  |  |
 | VMware |  |  | X |
 | Watchguard Cloud | X |  |  |
