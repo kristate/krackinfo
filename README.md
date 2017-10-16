@@ -59,7 +59,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | UniFi | X |  |  |
 | VMware |  |  | X |
 | Watchguard Cloud | X |  |  |
-| Watchguard |  |  | X |
+| Watchguard |  | X | |
 | Windows 10 | X |  |  |
 | WPA_supplicant | X |  |  |
 
