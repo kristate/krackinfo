@@ -25,6 +25,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 
 | Vendor | Official Response | Comment | Last Checked | Last Updated | Date Notified by CERT |
 |--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|-----------------------|
+| Aerohive | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Android | No Known Official Response | Android 6.0 and above affected (Android uses wpa_supplicant and therefore is affected). | 2017-10-16 | 2017-10-16 |  |
 | Apple | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Arch Linux | [wpa_supplicant](https://git.archlinux.org/svntogit/packages.git/commit/trunk?h=packages/wpa_supplicant&id=9c1bda00a846ff3b60e7c4b4f60b28ff4a8f7768), [hostapd](https://git.archlinux.org/svntogit/community.git/commit/trunk?h=packages/hostapd&id=d31735a09b4c25eaa69fb13b1031910ca3c29ee5) | N/A | 2017-10-16 | 2017-10-16 |  |
@@ -39,6 +40,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | D-Link | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Debian / Ubuntu | http://seclists.org/bugtraq/2017/Oct/25 | * Add patches to fix WPA protocol vulnerabilities (CVE-2017-13077,    CVE-2017-13078, CVE-2017-13079, CVE-2017-13080, CVE-2017-13081,    CVE-2017-13082, CVE-2017-13086, CVE-2017-13087, CVE-2017-13088):    - hostapd: Avoid key reinstallation in FT handshake    - Prevent reinstallation of an already in-use group key    - Extend protection of GTK/IGTK reinstallation of WNM-Sleep Mode cases    - Fix PTK rekeying to generate a new ANonce    - TDLS: Reject TPK-TK reconfiguration    - WNM: Ignore WNM-Sleep Mode Response if WNM-Sleep Mode has not been used    - WNM: Ignore WNM-Sleep Mode Response without pending request    - FT: Do not allow multiple Reassociation Response frames    - TDLS: Ignore incoming TDLS Setup Response retries | 2017-10-16 | 2017-10-16 |  |
 | Espressif Systems | http://espressif.com/en/media_overview/news/espressif-releases-patches-wifi-vulnerabilities-cert-vu228519 | Espressif released patches for the WiFi vulnerabilities in their products including ESP-IDF, ESP8266 RTOS and ESP8266 NON-OS. Arduino ESP32 will be updated shortly. | 2017-10-16 | 2017-10-16 | 22 Sep 2017 |
+| Fedora | https://bodhi.fedoraproject.org/updates/wpa_supplicant-2.6-11.fc27 | Status: Fixed Release: Pending (* Manual installation is possible) | 2017-10-17 | 2017-10-17 |  |
 | FortiNet | http://docs.fortinet.com/uploaded/files/3961/fortiap-v5.6.1-release-notes.pdf | FortiAP 5.6.1 is no longer vulnerable to the following CVE Reference:...CVE-2017-13077CVE-2017-13078CVE-2017-13079CVE-2017-13080CVE-2017-13081CVE-2017-13082 | 2017-10-16 | 2017-10-16 |  |
 | FreeBSD Project | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Google | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
@@ -48,6 +50,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Intel Corporation | https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00101&languageid=en-fr | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | IO DATA | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Juniper Networks | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
+| KPN | https://overons.kpn/nl/nieuws/2017/beveiligingsonderzoekers-vinden-kwetsbaarheid-in-wifi-protocol | No Fix as of yet | 2017-10-17 | 2017-10-17 |  |
 | Linksys | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Linux | Patches: https://w1.fi/security/2017-1/ | wpa_supplicant version 2.4 and above is affected. Linux's wpa_supplicant v2.6 is also vulnerable to the installation of an all-zero encryption key in the 4-way handshake. | 2017-10-16 | 2017-10-16 |  |
 | Logitech | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
@@ -64,16 +67,21 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Pakedge | No Known Official Response | Via @spike411 "They have acknowledged they have received my enquiry but don’t have any info about the state of this vulnerability in their products." | 2017-10-16 | 2017-10-16 |  |
 | Qualcomm Atheros | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Red Hat, Inc. | This issue affects the versions of wpa_supplicant as shipped with Red Hat Enterprise Linux 6 and 7. https://access.redhat.com/security/cve/cve-2017-13087 | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
+| Ruckus Wireless | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Samsung Mobile | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Sharp | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Sony | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| Sophos AP | https://community.sophos.com/kb/en-us/127658 | N/A | 2017-10-17 | 2017-10-17 |  |
 | SUSE / openSUSE | https://bugzilla.suse.com/show_bug.cgi?id=1063479 |  | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Toshiba Commerce Solutions | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 15 Sep 2017 |
 | Toshiba Electronic Devices & Storage Corporation | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Toshiba Memory Corporation | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
+| TP-Link | No Known Official Response | TP-Link suggested to follow their official website for news: http://www.tp-link.com/us/news.html | 2017-10-17 | 2017-10-17 |  |
 | Ubiquiti Networks | https://community.ubnt.com/t5/UniFi-Updates-Blog/FIRMWARE-3-9-3-7537-for-UAP-USW-has-been-released/ba-p/2099365 | Ubiquiti has released 3.9.3.7537 in beta to mitigate these vulnerabilities in UniFi APs that have a client mode. mFi devices are likely vulnerable and [no statement or patch](https://community.ubnt.com/t5/mFi/KRACK-WPA2-broken-Plans-for-mFi-hardware-fixes/m-p/2099826) has been released. | 2017-10-16 | 2017-10-16 |  |
 | WatchGuard | https://www.watchguard.com/wgrd-blog/wpa-and-wpa2-vulnerabilities-update | Sunday, October 15, 2017:,AP120, 320, 322, 420:,Release 8.3.0-657, Cloud mode only . Monday, October 30, 2017: AP300: Release 2.0.0.9 ,AP100, 102, 200: Release 1.2.9.14, AP120, 320, 322, 420:,Release 8.3.0-657, Non-Cloud (GWC mode) | 2017-10-17 | 2017-10-17 |  |
 | WiFi Alliance | https://www.wi-fi.org/security-update-october-2017 | Users should refer to their Wi-Fi device vendor’s website or security advisories to determine if their device has been affected and has an update available. As always, Wi-Fi users should ensure they have installed the latest recommended updates from device manufacturers. | 2017-10-16 | 2017-10-16 |  |
 | Xfinity | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Xirrus | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Yamaha | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| ZTE | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | ZyXEL | http://www.zyxel.com/support/announcement_wpa2_key_management.shtml | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
