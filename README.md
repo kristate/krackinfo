@@ -5,6 +5,20 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 
 ***Unless a known patch has been applied, assume that all WPA2 enabled Wi-fi devices are vulnerable.***
 
+## The Good
+* Should a vendor take responsibility, devices are for the most part updatable.
+
+## The Bad
+* Many devices do not have an easy way to apply updates.
+* A huge burden is placed on the consumer to keep their devices up to date
+  * It may not be easy to search for all updates to all devices.
+* The attack is works for both clients and access points
+  * Updating an access point does not keep clients protected!
+
+## The Ugly
+* Attacks against Android 6.0+ devices are very easy to accomplish.
+  * It is advised to disable Wi-Fi and only use 4G for the time being.
+* Updates may never come for many IoT devices.
 
 ### Attacks that can be made (できること)
 * Adversary can decrypt arbitrary packets.
@@ -60,7 +74,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | MediaTek | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Meraki | https://documentation.meraki.com/zGeneral_Administration/Support/802.11r_Vulnerability_(CVE%3A_2017-13082)_FAQ | Fixed for Cisco Meraki in 24.11 and 25.7 | 2017-10-16 | 2017-10-16 |  |
 | Microchip Technology | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
-| Microsoft | [Windows Related](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-13080) | N/A | 2017-10-16 | 2017-10-16 |  |
+| Microsoft | [Windows Related](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-13080) | When clicking the link, accept the EULA then click the link again | 2017-10-16 | 2017-10-16 |  |
 | Mikrotik | https://forum.mikrotik.com/viewtopic.php?f=21&t=126695 | We released fixed versions last week, so if you upgrade your devices routinely, no further action is required. | 2017-10-16 | 2017-10-16 |  |
 | NEC | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Netgear | https://kb.netgear.com/000049498/Security-Advisory-for-WPA-2-Vulnerabilities-PSV-2017-2826-PSV-2017-2836-PSV-2017-2837 | N/A | 2017-10-16 | 2017-10-16 |  |
