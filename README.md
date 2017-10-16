@@ -1,6 +1,19 @@
 # Krack Info
 Information Regarding KRACK
 
+## Unless a known patch has been applied, assume that all WPA2 enabled Wi-fi devices are attackable.
+
+## Attacks that can be made (できること)
+* Adversary can decrypt arbitrary packets.
+* Adversary can replay broadcast and multicast frames.
+* Adversary can both decrypt and inject arbitrary packets. *(TKIP or GCMP ONLY)*
+* Adversary can force the client into using a predictable all-zero encryption key. *(ANDROID 6.0+ and LINUX)*
+
+## Attacks that can not be made (できないこと)
+* Adversary can not recover WPA password.
+* Adversary can not inject packets. *(AES-CCMP ONLY)*
+
+
 # Vendor Response
 
 | Vendor          | Official Response                                           | Comment                                                                                                                                                                                                                                                                           | Last Checked | Last Updated |
