@@ -14,7 +14,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 * Adversary can force the client into using a predictable all-zero encryption key. *(ANDROID 6.0+ and LINUX)*
 
 
-### Attacks that can not be made (できないこと)
+### Attacks that cannot be made (できないこと)
 * Adversary can not recover WPA password.
 * Adversary can not inject packets. *(AES-CCMP ONLY)*
 
