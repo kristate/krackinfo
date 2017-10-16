@@ -111,6 +111,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Juniper Networks | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | KPN | https://overons.kpn/nl/nieuws/2017/beveiligingsonderzoekers-vinden-kwetsbaarheid-in-wifi-protocol | No Fix as of yet | 2017-10-17 | 2017-10-17 |  |
 | Kyocera Communications | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| LEDE | http://lists.infradead.org/pipermail/lede-dev/2017-October/009349.html | Fixed snapshots for master available. 17.01.4 pending release. | 2017-10-17 | 2017-10-17 | |
 | LineageOS | https://review.lineageos.org/#/q/topic:krack-n | N/A | 2017-10-17 | 2017-10-17 |  |
 | Linux | Patches: https://w1.fi/security/2017-1/ | wpa_supplicant version 2.4 and above is affected. Linux's wpa_supplicant v2.6 is also vulnerable to the installation of an all-zero encryption key in the 4-way handshake. | 2017-10-16 | 2017-10-16 |  |
 | Logitech | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
