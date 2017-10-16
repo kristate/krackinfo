@@ -29,7 +29,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 
 
 ### Attacks that cannot be made (できないこと)
-* Adversary can not recover WPA password.
+* Adversary can not directly recover WPA password.
 * Adversary can not inject packets. *(AES-CCMP ONLY)*
 
 
