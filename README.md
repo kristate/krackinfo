@@ -1,9 +1,9 @@
-# *K*ey *R*einstallation *A*tta*ck*s (KRACK)
+# KRACK: (K)ey (R)einstallation (A)tta(ck)
 
 From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 > In a key reinstallation attack, the adversary tricks a victim into reinstalling an already-in-use key. This is achieved by manipulating and replaying cryptographic handshake messages. When the victim reinstalls the key, associated parameters such as the incremental transmit packet number (i.e. nonce) and receive packet number (i.e. replay counter) are reset to their initial value. Essentially, to guarantee security, a key should only be installed and used once. Unfortunately, we found this is not guaranteed by the WPA2 protocol. By manipulating cryptographic handshakes, we can abuse this weakness in practice.
 
-## Unless a known patch has been applied, assume that all WPA2 enabled Wi-fi devices are vulnerable.
+***Unless a known patch has been applied, assume that all WPA2 enabled Wi-fi devices are vulnerable.***
 
 ## The Good
 * Should a vendor take responsibility, devices are for the most part updatable.
@@ -20,18 +20,20 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
   * It is advised to disable Wi-Fi and only use 4G for the time being.
 * Updates may never come for many IoT devices.
 
-## Attacks that can be made (できること)
+### Attacks that can be made (できること)
 * Adversary can decrypt arbitrary packets.
   * This allows an adversary to obtain the TCP sequence numbers of a connection, and <a href="https://en.wikipedia.org/wiki/TCP_sequence_prediction_attack">hijack TCP connections</a>.
 * Adversary can replay broadcast and multicast frames.
 * Adversary can both decrypt and inject arbitrary packets. *(TKIP or GCMP ONLY)*
 * Adversary can force the client into using a predictable all-zero encryption key. *(ANDROID 6.0+ and LINUX)*
 
-## Attacks that can not be made (できないこと)
+
+### Attacks that cannot be made (できないこと)
 * Adversary can not recover WPA password.
 * Adversary can not inject packets. *(AES-CCMP ONLY)*
 
-## Related Reading
+
+### Related Reading
 * https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/
 * https://www.reddit.com/r/KRaCK/comments/76pjf8/krack_megathread_check_back_often_for_updated/
 
