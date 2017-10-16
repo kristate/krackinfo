@@ -42,38 +42,51 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 
 | Vendor | Official Response | Comment | Last Checked | Last Updated | Date Notified by CERT |
 |--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|-----------------------|
+| 3com Inc | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Actiontec | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Aerohive | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Alcatel-Lucent | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Android | No Known Official Response | Android 6.0 and above affected (Android uses wpa_supplicant and therefore is affected). | 2017-10-16 | 2017-10-16 |  |
 | Apple | No Known Official Response; See comment for unofficial response | Via twitter : "Apple has confirmed to me that #wpa2 #KRACK exploit has already been patched in iOS, tvOS, watchOS, macOS betas." https://twitter.com/reneritchie/status/919988216501030914 | 2017-10-17 | 2017-10-17 |  |
 | Arch Linux | [wpa_supplicant](https://git.archlinux.org/svntogit/packages.git/commit/trunk?h=packages/wpa_supplicant&id=9c1bda00a846ff3b60e7c4b4f60b28ff4a8f7768), [hostapd](https://git.archlinux.org/svntogit/community.git/commit/trunk?h=packages/hostapd&id=d31735a09b4c25eaa69fb13b1031910ca3c29ee5) | N/A | 2017-10-16 | 2017-10-16 |  |
 | Arduino | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Asus | No Known Official Response | According to https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/ at the time of this commit no statement from Asus | 2017-10-17 | 2017-10-17 |  |
+| Barracuda Networks | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Broadcom | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Buffalo / MELCO | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Canon | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| CentOS | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Cisco | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171016-wpa | Multiple Cisco wireless products are affected by these vulnerabilities. | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Comcast | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | CZ.NIC Turris | https://forum.turris.cz/t/major-wpa2-vulnerability-to-be-disclosed/5363/8 | via @spike411: CZ.NIC Turris team is testing a fix (backported from hostapd upstream):https://gitlab.labs.nic.cz/turris/openwrt/commit/a60970f33f65bfb1d531ce822bfd28ee049a702f | 2017-10-16 | 2017-10-16 |  |
 | D-Link | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Debian / Ubuntu | http://seclists.org/bugtraq/2017/Oct/25 | * Add patches to fix WPA protocol vulnerabilities (CVE-2017-13077,    CVE-2017-13078, CVE-2017-13079, CVE-2017-13080, CVE-2017-13081,    CVE-2017-13082, CVE-2017-13086, CVE-2017-13087, CVE-2017-13088):    - hostapd: Avoid key reinstallation in FT handshake    - Prevent reinstallation of an already in-use group key    - Extend protection of GTK/IGTK reinstallation of WNM-Sleep Mode cases    - Fix PTK rekeying to generate a new ANonce    - TDLS: Reject TPK-TK reconfiguration    - WNM: Ignore WNM-Sleep Mode Response if WNM-Sleep Mode has not been used    - WNM: Ignore WNM-Sleep Mode Response without pending request    - FT: Do not allow multiple Reassociation Response frames    - TDLS: Ignore incoming TDLS Setup Response retries | 2017-10-16 | 2017-10-16 |  |
 | Denon | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Edimax | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| EMC Corporation | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Espressif Systems | http://espressif.com/en/media_overview/news/espressif-releases-patches-wifi-vulnerabilities-cert-vu228519 | Espressif released patches for the WiFi vulnerabilities in their products including ESP-IDF, ESP8266 RTOS and ESP8266 NON-OS. Arduino ESP32 will be updated shortly. | 2017-10-16 | 2017-10-16 | 22 Sep 2017 |
+| Extreme Networks | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| F5 Networks | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Fedora | https://bodhi.fedoraproject.org/updates/wpa_supplicant-2.6-11.fc27 | Status: Fixed Release: Pending (* Manual installation is possible) | 2017-10-17 | 2017-10-17 |  |
 | FortiNet | http://docs.fortinet.com/uploaded/files/3961/fortiap-v5.6.1-release-notes.pdf | FortiAP 5.6.1 is no longer vulnerable to the following CVE Reference:...CVE-2017-13077CVE-2017-13078CVE-2017-13079CVE-2017-13080CVE-2017-13081CVE-2017-13082 | 2017-10-16 | 2017-10-16 |  |
+| Foundry Brocade | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | FreeBSD Project | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Google | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| Hewlett Packard Enterprise | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Honeywell | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | HPE Aruba | http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007.txt | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Huawei | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| IBM | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Intel Corporation | https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00101&languageid=en-fr | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | IO DATA | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Juniper Networks | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | KPN | https://overons.kpn/nl/nieuws/2017/beveiligingsonderzoekers-vinden-kwetsbaarheid-in-wifi-protocol | No Fix as of yet | 2017-10-17 | 2017-10-17 |  |
-| LEDE | http://lists.infradead.org/pipermail/lede-dev/2017-October/009349.html | Fixed snapshots for master available. 17.01.4 pending release. | 2017-10-17 | 2017-10-17 | |
+| Kyocera Communications | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Linksys | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Linux | Patches: https://w1.fi/security/2017-1/ | wpa_supplicant version 2.4 and above is affected. Linux's wpa_supplicant v2.6 is also vulnerable to the installation of an all-zero encryption key in the 4-way handshake. | 2017-10-16 | 2017-10-16 |  |
 | Logitech | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Marantz | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Marvell Semiconductor | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | MediaTek | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Meraki | https://documentation.meraki.com/zGeneral_Administration/Support/802.11r_Vulnerability_(CVE%3A_2017-13082)_FAQ | Fixed for Cisco Meraki in 24.11 and 25.7 | 2017-10-16 | 2017-10-16 |  |
 | Microchip Technology | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
