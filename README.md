@@ -137,6 +137,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Netgear | [LINK](https://kb.netgear.com/000049498/Security-Advisory-for-WPA-2-Vulnerabilities-PSV-2017-2826-PSV-2017-2836-PSV-2017-2837) | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nikon | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nintendo | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| OnePlus | No Known Official Response | "We encouraged you to stay tuned and keep track on our Community Forums and official website and other social media channels." | 2017-10-17 | 2017-10-16 |  |
 | Onkyo | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Open-Mesh / CloudTrax | [LINK](https://help.cloudtrax.com/hc/en-us/articles/115001567804-KRACK-Bulletin) | An update is expected to be delivered to all of those that use automatic updates by the end over October 17th. | 2017-10-17 | 2017-10-17 |  |
 | OpenBSD | [LINK](https://marc.info/?l=openbsd-announce&m=150410604407872&w=2) | Errata patches for the wireless stack have been released for OpenBSD 6.1 and 6.0. State transition errors could cause reinstallation of old WPA keys. Binary updates for the amd64 and i386 platforms are available via the syspatch utility. Source code patches can be found on the respective errata pages. As this affects the kernel, a reboot will be needed after patching. | 2017-10-16 | 2017-10-16 |  |
