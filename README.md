@@ -59,7 +59,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | MikroTik | X |  |  |
 | Synology |  | X |  |
 | Turris Omnia |  | X |  |
-| Ubiquiti | X (https://community.ubnt.com/t5/UniFi-Updates-Blog/bg-p/Blog_UniFi) |  |  |
+| Ubiquiti | [X](https://community.ubnt.com/t5/UniFi-Updates-Blog/bg-p/Blog_UniFi) |  |  |
 | Ubuntu | [X](https://usn.ubuntu.com/usn/usn-3455-1/) |  |  |
 | UniFi | X |  |  |
 | VMware |  |  | X |
