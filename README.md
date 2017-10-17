@@ -47,6 +47,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Cisco |  | X |  |
 | DD-WRT | X |  |  |
 | Debian | X |  |  |
+| Extreme Networks |  | X |  |
 | Fedora | X |  |  |
 | FreeBSD |  | X |  |
 | Lenovo |  |  | X |
@@ -96,7 +97,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Edimax | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | EMC Corporation | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Espressif Systems | http://espressif.com/en/media_overview/news/espressif-releases-patches-wifi-vulnerabilities-cert-vu228519 | Espressif released patches for the WiFi vulnerabilities in their products including ESP-IDF, ESP8266 RTOS and ESP8266 NON-OS. Arduino ESP32 will be updated shortly. | 2017-10-16 | 2017-10-16 | 22 Sep 2017 |
-| Extreme Networks | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Extreme Networks | https://extremeportal.force.com/ExtrArticleDetail?n=000018005 | N/A | 2017-10-16 | 2017-10-16 | 2017-08-28 |
 | F5 Networks | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Fedora | https://bodhi.fedoraproject.org/updates/wpa_supplicant-2.6-11.fc27 | Status: Fixed Release: Pending (* Manual installation is possible) | 2017-10-17 | 2017-10-17 |  |
 | FortiNet | http://docs.fortinet.com/uploaded/files/3961/fortiap-v5.6.1-release-notes.pdf | FortiAP 5.6.1 is no longer vulnerable to the following CVE Reference:...CVE-2017-13077CVE-2017-13078CVE-2017-13079CVE-2017-13080CVE-2017-13081CVE-2017-13082 | 2017-10-16 | 2017-10-16 |  |
