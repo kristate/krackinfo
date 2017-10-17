@@ -139,7 +139,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Qualcomm Atheros | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Red Hat, Inc. | This issue affects the versions of wpa_supplicant as shipped with Red Hat Enterprise Linux 6 and 7. https://access.redhat.com/security/cve/cve-2017-13087 | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Ring | No Known Official Response | Per support "They promise to update public shortly, actively working with developers." | 2017-10-17 | 2017-10-17 |  |
-| Ruckus Wireless | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Ruckus Wireless | Refer to Ruckus Support. Security patches from Ruckus are forthcoming and will be posted as they are available. https://theruckusroom.ruckuswireless.com/wi-fi/2017/10/16/commonsense-approach-uncommon-problem/ | N/A | 2017-10-17 | 2017-10-17 |  |
 | Samsung Mobile | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Sharp | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Sonicwall | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
