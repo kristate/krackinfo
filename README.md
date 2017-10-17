@@ -12,7 +12,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 * Many devices do not have an easy way to apply updates.
 * A huge burden is placed on the consumer to keep their devices up to date
   * It may not be easy to search for all updates to all devices.
-* The attack is works for both clients and access points
+* The attack works for both clients and access points
   * Updating an access point does not keep clients protected!
 
 ## The Ugly
