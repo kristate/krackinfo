@@ -142,6 +142,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Open-Mesh / CloudTrax | [LINK](https://help.cloudtrax.com/hc/en-us/articles/115001567804-KRACK-Bulletin) | An update is expected to be delivered to all of those that use automatic updates by the end over October 17th. | 2017-10-17 | 2017-10-17 |  |
 | OpenBSD | [LINK](https://marc.info/?l=openbsd-announce&m=150410604407872&w=2) | Errata patches for the wireless stack have been released for OpenBSD 6.1 and 6.0. State transition errors could cause reinstallation of old WPA keys. Binary updates for the amd64 and i386 platforms are available via the syspatch utility. Source code patches can be found on the respective errata pages. As this affects the kernel, a reboot will be needed after patching. | 2017-10-16 | 2017-10-16 |  |
 | Pakedge | No Known Official Response | Via @spike411 "They have acknowledged they have received my enquiry but don’t have any info about the state of this vulnerability in their products." | 2017-10-16 | 2017-10-16 |  |
+| Peplink | [LINK](https://forum.peplink.com/t/security-advisory-krack-wpa2-vulnerability-vu-228519/12715) | "We are developing firmware to address the vulnerability." ... "ETA for the firmware releases is within two weeks." | 2017-10-17 | 2017-10-17 | 2017-08-28 |
 | pfSense | [LINK](https://redmine.pfsense.org/issues/7951) | N/A | 2017-10-17 | 2017-10-17 |  |
 | Pioneer | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Qualcomm Atheros | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
