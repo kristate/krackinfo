@@ -80,6 +80,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Arch Linux | [wpa_supplicant](https://git.archlinux.org/svntogit/packages.git/commit/trunk?h=packages/wpa_supplicant&id=9c1bda00a846ff3b60e7c4b4f60b28ff4a8f7768), [hostapd](https://git.archlinux.org/svntogit/community.git/commit/trunk?h=packages/hostapd&id=d31735a09b4c25eaa69fb13b1031910ca3c29ee5) | N/A | 2017-10-16 | 2017-10-16 |  |
 | Arduino | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Asus | No Known Official Response | According to https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/ at the time of this commit no statement from Asus | 2017-10-17 | 2017-10-17 |  |
+| AVM | https://en.avm.de/service/current-security-notifications/ | They are currently investigating this security issue and will release updates if needed. Also EOM and EOS products will be updated, according to https://twitter.com/ikkerus/status/920217085502001152 | 2017-10-17 | 2017-10-17 |  |
 | Barracuda Networks | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Belkin, Linksys, and Wemo | No Known Official Response | "Belkin Linksys, and Wemo are aware of the WPA vulnerability.  Our security teams are verifying details and we will advise accordingly.  Also know that we are committed to putting the customer first and are planning to post instructions on our security advisory page on what customers can do to update their products, if and when required." | 2017-10-16 | 2017-10-16 |  |
 | Broadcom | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
