@@ -95,6 +95,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Debian | https://www.debian.org/security/2017/dsa-3999 | * Add patches to fix WPA protocol vulnerabilities (CVE-2017-13077,    CVE-2017-13078, CVE-2017-13079, CVE-2017-13080, CVE-2017-13081,    CVE-2017-13082, CVE-2017-13086, CVE-2017-13087, CVE-2017-13088):    - hostapd: Avoid key reinstallation in FT handshake    - Prevent reinstallation of an already in-use group key    - Extend protection of GTK/IGTK reinstallation of WNM-Sleep Mode cases    - Fix PTK rekeying to generate a new ANonce    - TDLS: Reject TPK-TK reconfiguration    - WNM: Ignore WNM-Sleep Mode Response if WNM-Sleep Mode has not been used    - WNM: Ignore WNM-Sleep Mode Response without pending request    - FT: Do not allow multiple Reassociation Response frames    - TDLS: Ignore incoming TDLS Setup Response retries | 2017-10-16 | 2017-10-16 |  |
 | Dell | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Denon | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| DrayTek | http://www.draytek.co.uk/information/our-technology/wpa2-krack-vulnerability | DrayTek are investigating solutions for this and plan to issue appropriate updates (firmware) as soon as possible. We will update this page in due course. | 2017-10-17 | 2017-10-17 |  |
 | Edimax | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | EMC Corporation | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Espressif Systems | http://espressif.com/en/media_overview/news/espressif-releases-patches-wifi-vulnerabilities-cert-vu228519 | Espressif released patches for the WiFi vulnerabilities in their products including ESP-IDF, ESP8266 RTOS and ESP8266 NON-OS. Arduino ESP32 will be updated shortly. | 2017-10-16 | 2017-10-16 | 22 Sep 2017 |
@@ -139,12 +140,14 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | pfSense | https://redmine.pfsense.org/issues/7951 | N/A | 2017-10-17 | 2017-10-17 |  |
 | Pioneer | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Qualcomm Atheros | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| Raspbian (Raspberry Pi) | No Known Official Response | "wpasupplicant has now been patched in Raspbian." | 2017-10-17 | 2017-10-17 |  |
 | Red Hat, Inc. | This issue affects the versions of wpa_supplicant as shipped with Red Hat Enterprise Linux 6 and 7. https://access.redhat.com/security/cve/cve-2017-13087 | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Ring | No Known Official Response | Per support "They promise to update public shortly, actively working with developers." | 2017-10-17 | 2017-10-17 |  |
 | Ruckus Wireless | Refer to Ruckus Support. Security patches from Ruckus are forthcoming and will be posted as they are available. https://theruckusroom.ruckuswireless.com/wi-fi/2017/10/16/commonsense-approach-uncommon-problem/ https://ruckus-www.s3.amazonaws.com/pdf/security/faq-security-advisory-id-101617-v1.0.pdf | N/A | 2017-10-17 | 2017-10-17 |  |
 | Samsung Mobile | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Sharp | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
-| Sonicwall | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Sonicwall | https://www.sonicwall.com/en-us/support/product-notification/wpa2-krack-exploit-a-sonicwall-alert | N/A | 2017-10-17 | 2017-10-17 |  |
+| Sonos | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Sony | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Sophos AP | https://community.sophos.com/kb/en-us/127658 | N/A | 2017-10-17 | 2017-10-17 |  |
 | SUSE / openSUSE | https://bugzilla.suse.com/show_bug.cgi?id=1063479 |  | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
