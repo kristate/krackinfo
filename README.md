@@ -154,6 +154,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Sony | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Sophos AP | [LINK](https://community.sophos.com/kb/en-us/127658) | N/A | 2017-10-17 | 2017-10-17 |  |
 | SUSE / openSUSE | [LINK](https://bugzilla.suse.com/show_bug.cgi?id=1063479) |  | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
+| Swisscom | [LINK](https://supportcommunity.swisscom.ch/t5/Diskussionen-%C3%BCber-Ger%C3%A4te-und/WPA2-Leack-wirklich-oder-wieder-nur-Baitfishing/m-p/511992#M18540) | Swisscom routers not affected | 2017-10-17 | 2017-10-17 | |
 | Synology | [LINK](https://www.synology.com/en-us/support/security/Synology_SA_17_60_KRACK) | Synology DiskStation Manager (DSM) with attached WiFi dongle and Synology Router Manager (SRM) are vulnerable to Krack. According to Synology, updates for affected products will be released soon. | 2017-10-17 | 2017-10-17 |  |
 | Toshiba Commerce Solutions | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 15 Sep 2017 |
 | Toshiba Electronic Devices & Storage Corporation | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
