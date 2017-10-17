@@ -111,7 +111,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Google | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Hewlett Packard Enterprise | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Honeywell | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
-| HPE Aruba | [LINK](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007.txt) | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
+| HPE Aruba | [Patch Info](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007.txt) - [FAQ](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007_FAQ_Rev-1.pdf) | N/A | 2017-10-17 | 2017-10-17 | 28 Aug 2017 |
 | Huawei | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | IBM | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Intel Corporation | [LINK](https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00101&languageid=en-fr) | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
