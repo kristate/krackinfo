@@ -99,6 +99,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Dell | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Denon | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | DrayTek | [LINK](http://www.draytek.co.uk/information/our-technology/wpa2-krack-vulnerability) | DrayTek are investigating solutions for this and plan to issue appropriate updates (firmware) as soon as possible. We will update this page in due course. | 2017-10-17 | 2017-10-17 |  |
+| ecobee | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Edimax | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | EMC Corporation | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Espressif Systems | [LINK](http://espressif.com/en/media_overview/news/espressif-releases-patches-wifi-vulnerabilities-cert-vu228519) | Espressif released patches for the WiFi vulnerabilities in their products including ESP-IDF, ESP8266 RTOS and ESP8266 NON-OS. Arduino ESP32 will be updated shortly. | 2017-10-16 | 2017-10-16 | 22 Sep 2017 |
@@ -143,6 +144,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | pfSense | [LINK](https://redmine.pfsense.org/issues/7951) | N/A | 2017-10-17 | 2017-10-17 |  |
 | Pioneer | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Qualcomm Atheros | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| Rachio | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Raspbian (Raspberry Pi) | No Known Official Response | Update (20171002 01:38): The fixes for raspbian Jessie and Stretch should now be in the public raspbian repo. The fix for raspbian buster should follow in a few hours. I do not know if/when there will be a fix for wheezy. source: [LINK](https://raspberrypi.stackexchange.com/questions/73879/rpi-vulnerable-for-wi-fi-wpa2-krack-attack/73908#73908) | 2017-10-17 | 2017-10-17 |  |
 | Red Hat, Inc. | This issue affects the versions of wpa_supplicant as shipped with Red Hat Enterprise Linux 6 and 7. [LINK](https://access.redhat.com/security/cve/cve-2017-13087) | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Ring | No Known Official Response | Per support "They promise to update public shortly, actively working with developers." | 2017-10-17 | 2017-10-17 |  |
