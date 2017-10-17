@@ -87,7 +87,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Barracuda Networks | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Belkin, Linksys, and Wemo | No Known Official Response | "Belkin Linksys, and Wemo are aware of the WPA vulnerability.  Our security teams are verifying details and we will advise accordingly.  Also know that we are committed to putting the customer first and are planning to post instructions on our security advisory page on what customers can do to update their products, if and when required." | 2017-10-16 | 2017-10-16 |  |
 | Broadcom | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
-| Buffalo / MELCO | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| Buffalo / MELCO | [LINK(JA)](http://buffalo.jp/support_s/t20171017.html) | N/A | 2017-10-18 | 2017-10-18 |  |
 | Canon | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | CentOS | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Cisco | [LINK](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171016-wpa) | Multiple Cisco wireless products are affected by these vulnerabilities. | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
@@ -116,7 +116,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Huawei | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | IBM | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Intel Corporation | [LINK](https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00101&languageid=en-fr) | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
-| IO DATA | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| I-O DATA | [LINK(JA)](http://www.iodata.jp/support/information/2017/wpa2/) | N/A | 2017-10-18 | 2017-10-18 |  |
 | Jolla | [LINK](https://together.jolla.com/question/170073/krack-attacks-wpa2-is-not-secure-anymore/?answer=170198#post-id-170198) | N/A | 2017-10-17 | 2017-10-17 |  |
 | Juniper Networks | [LINK](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10827) | Patches for WLAN available; patches for SRX and SSG outstanding | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | KPN | [LINK](https://overons.kpn/nl/nieuws/2017/beveiligingsonderzoekers-vinden-kwetsbaarheid-in-wifi-protocol) | No Fix as of yet | 2017-10-17 | 2017-10-17 |  |
