@@ -1,5 +1,7 @@
 # KRACK: (K)ey (R)einstallation (A)tta(ck)
 
+# 各ベンダーの反応について[こちらをご覧ください](https://github.com/kristate/krackinfo/tree/master#vendor-patch-matrix-non-complete)(英語)
+
 ## KRACKとは
 * 攻撃手法の特徴から「Key Reinstallation AttaCKs(KRACK)」と呼ばれる
 * WiFiでセキュアに接続する際、暗号の鍵を再インストールできる脆弱性です。
