@@ -52,7 +52,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Debian | X |  |  |
 | Extreme Networks |  | X |  |
 | Fedora | X |  |  |
-| FreeBSD |  | X |  |
+| FreeBSD | [X](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001806.html) |  |  |
 | Lenovo |  |  | X |
 | LineageOS |  | X |  |
 | LXDE |  | X |  |
@@ -108,7 +108,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Fedora | [LINK](https://bodhi.fedoraproject.org/updates/wpa_supplicant-2.6-11.fc27) | Status: Fixed Release: Pending (* Manual installation is possible) | 2017-10-17 | 2017-10-17 |  |
 | FortiNet | [LINK](http://docs.fortinet.com/uploaded/files/3961/fortiap-v5.6.1-release-notes.pdf) | FortiAP 5.6.1 is no longer vulnerable to the following CVE Reference:...CVE-2017-13077CVE-2017-13078CVE-2017-13079CVE-2017-13080CVE-2017-13081CVE-2017-13082 | 2017-10-16 | 2017-10-16 |  |
 | Foundry Brocade | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
-| FreeBSD Project | [LINK](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001805.html) | `wpa_supplicant` 2.5 in base. Recommended to use wired connection or install the `security/wpa_supplicant` port or package until base is patched. | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
+| FreeBSD Project | [Response](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001805.html), [patch](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001806.html) | Binary and source updates to base system available. Alternatively one can install the `security/wpa_supplicant` port or package in lieu of the same in base. | 2017-10-17 | 2017-10-17 | (?) |
 | Google | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Hewlett Packard Enterprise | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Honeywell | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
