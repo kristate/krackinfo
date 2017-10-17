@@ -112,6 +112,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | IBM | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Intel Corporation | https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00101&languageid=en-fr | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | IO DATA | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| Jolla | https://together.jolla.com/question/170073/krack-attacks-wpa2-is-not-secure-anymore/?answer=170198#post-id-170198 | N/A | 2017-10-17 | 2017-10-17 |  |
 | Juniper Networks | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | KPN | https://overons.kpn/nl/nieuws/2017/beveiligingsonderzoekers-vinden-kwetsbaarheid-in-wifi-protocol | No Fix as of yet | 2017-10-17 | 2017-10-17 |  |
 | Kyocera Communications | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
