@@ -5,6 +5,8 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 
 ***Unless a known patch has been applied, assume that all WPA2 enabled Wi-fi devices are vulnerable.***
 
+## 日本人の皆さまへ： [こちらをご覧ください](/krackinfo_JA-JP.md)(日本語)
+
 ## The Good
 * Should a vendor take responsibility, devices are for the most part updatable.
 
@@ -20,7 +22,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
   * It is advised to disable Wi-Fi and only use 4G for the time being.
 * Updates may never come for many IoT devices.
 
-### Attacks that can be made (できること)
+### Attacks that can be made
 * Adversary can decrypt arbitrary packets.
   * This allows an adversary to obtain the TCP sequence numbers of a connection, and <a href="https://en.wikipedia.org/wiki/TCP_sequence_prediction_attack">hijack TCP connections</a>.
 * Adversary can replay broadcast and multicast frames.
@@ -28,7 +30,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 * Adversary can force the client into using a predictable all-zero encryption key. *(ANDROID 6.0+ and LINUX)*
 
 
-### Attacks that cannot be made (できないこと)
+### Attacks that cannot be made
 * Adversary can not recover WPA password.
 * Adversary can not inject packets. *(AES-CCMP ONLY)*
 
