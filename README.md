@@ -112,7 +112,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Espressif Systems | [LINK](http://espressif.com/en/media_overview/news/espressif-releases-patches-wifi-vulnerabilities-cert-vu228519) | Espressif released patches for the WiFi vulnerabilities in their products including ESP-IDF, ESP8266 RTOS and ESP8266 NON-OS. Arduino ESP32 will be updated shortly. | 2017-10-16 | 2017-10-16 | 22 Sep 2017 |
 | Extreme Networks | [LINK](https://extremeportal.force.com/ExtrArticleDetail?n=000018005) | N/A | 2017-10-16 | 2017-10-16 | 2017-08-28 |
 | F5 Networks | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
-| Fedora | [LINK](https://bodhi.fedoraproject.org/updates/wpa_supplicant-2.6-11.fc27) | Status: Fixed Release: Pending (* Manual installation is possible) | 2017-10-17 | 2017-10-17 |  |
+| Fedora | [LINK](https://bodhi.fedoraproject.org/updates/wpa_supplicant-2.6-11.fc27) | Status: Fixed Release: Stable (* Manual installation is possible) | 2017-10-17 | 2017-10-19 |  |
 | FortiNet | [LINK](http://docs.fortinet.com/uploaded/files/3961/fortiap-v5.6.1-release-notes.pdf) | FortiAP 5.6.1 is no longer vulnerable to the following CVE Reference:...CVE-2017-13077CVE-2017-13078CVE-2017-13079CVE-2017-13080CVE-2017-13081CVE-2017-13082 | 2017-10-16 | 2017-10-16 |  |
 | Foundry Brocade | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | FreeBSD Project | [Response](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001805.html), [patch](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001806.html) | Binary and source updates to base system available. Alternatively one can install the `security/wpa_supplicant` port or package in lieu of the same in base. | 2017-10-17 | 2017-10-17 | (?) |
@@ -125,6 +125,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Icotera | No Known Official Response | Icotera is investigating it's products against the vulnerability and possible fix. A software update for each affected product(firmware) will be made available as soon as possible. All our direct customers will be updated invidualy. | 2017-10-18 | 2017-10-18 |  |
 | Intel Corporation | [LINK](https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00101&languageid=en-fr) | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | I-O DATA | [LINK(JA)](http://www.iodata.jp/support/information/2017/wpa2/) | N/A | 2017-10-18 | 2017-10-18 |  |
+| IPFire | [LINK](https://planet.ipfire.org/post/krack-attack-patches-are-on-their-way) | Update: packages for all architectures are now available | 2017-10-19 | 2017-10-19 |  |
 | iRobot (Roomba) | No Known Official Response | Chat support: "So far as we can tell, we haven't been impacted. So that's good news lol." [IMG](https://user-images.githubusercontent.com/271922/31730055-05bd1658-b431-11e7-84fc-0b5ef663905b.png) | 2017-10-17 | 2017-10-17 |  |
 | Jolla | [LINK](https://together.jolla.com/question/170073/krack-attacks-wpa2-is-not-secure-anymore/?answer=170198#post-id-170198) | N/A | 2017-10-17 | 2017-10-17 |  |
 | Juniper Networks | [LINK](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10827) | Patches for WLAN available; patches for SRX and SSG outstanding | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
@@ -165,7 +166,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Ring | No Known Official Response | Per support "They promise to update public shortly, actively working with developers." | 2017-10-17 | 2017-10-17 |  |
 | Ruckus Wireless | [Security Advisory Bulletin](https://ruckus-www.s3.amazonaws.com/pdf/security/faq-security-advisory-id-101617-v1.0.pdf)  | More forthcoming. [LINK](https://theruckusroom.ruckuswireless.com/wi-fi/2017/10/16/commonsense-approach-uncommon-problem/) | 2017-10-17 | 2017-10-17 |  |
 | Sagemcom | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 | |
-| Samsung Mobile | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
+| Samsung Electronics | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Sharp | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | SnapAV | No Known Official Response (See comment for unofficial response) | An email from G Paul Hess, Chief Product Officer states that Araknis Networks Wireless Access Points and Autonomic 1e Music Streamer are affected. "We are currently working on a firmware update, which will be available on SnapAV’s website, as well as OvrC." | 2017-10-16 | 2017-10-17 |  |
 | Sonicwall | [LINK](https://www.sonicwall.com/en-us/support/product-notification/wpa2-krack-exploit-a-sonicwall-alert) | N/A | 2017-10-17 | 2017-10-17 |  |
