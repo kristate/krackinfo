@@ -170,7 +170,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Toshiba Commerce Solutions | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 15 Sep 2017 |
 | Toshiba Electronic Devices & Storage Corporation | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Toshiba Memory Corporation | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
-| TP-Link | [LINK](http://forum.tp-link.com/showthread.php?101094-Security-Flaws-Severe-flaws-called-quot-KRACK-quot-are-discovered-in-the-WPA2-protocol) | N/A | 2017-10-17 | 2017-10-17 |  |
+| TP-Link | [LINK](http://forum.tp-link.com/showthread.php?101094-Security-Flaws-Severe-flaws-called-quot-KRACK-quot-are-discovered-in-the-WPA2-protocol), [LINK2](http://www.tp-link.com/en/faq-1970.html) | TP-Link has been working on affected models and will release firmware over the next few weeks on our official website. | 2017-10-18 | 2017-10-18 |  |
 | Turris Omnia | [LINK](https://forum.turris.cz/t/major-wpa2-vulnerability-to-be-disclosed/5363/9) | N/A | 2017-10-17 | 2017-10-17 |  |
 | Ubiquiti Networks | [LINK](https://community.ubnt.com/t5/UniFi-Updates-Blog/FIRMWARE-3-9-3-7537-for-UAP-USW-has-been-released/ba-p/2099365) | Ubiquiti has released 3.9.3.7537 in beta to mitigate these vulnerabilities in UniFi APs that have a client mode. mFi devices are likely vulnerable and [no statement or patch](https://community.ubnt.com/t5/mFi/KRACK-WPA2-broken-Plans-for-mFi-hardware-fixes/m-p/2099826) has been released. | 2017-10-16 | 2017-10-16 |  |
 | Ubuntu | [LINK](https://usn.ubuntu.com/usn/usn-3455-1/) | Updates are available for wpasupplicant and hostapd in Ubuntu 17.04, Ubuntu 16.04 LTS, and Ubuntu 14.04 LTS. | 2017-10-16 | 2017-10-16 |  |
