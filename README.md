@@ -166,7 +166,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Ring | No Known Official Response | Per support "They promise to update public shortly, actively working with developers." | 2017-10-17 | 2017-10-17 |  |
 | Ruckus Wireless | [Security Advisory Bulletin](https://ruckus-www.s3.amazonaws.com/pdf/security/faq-security-advisory-id-101617-v1.0.pdf)  | More forthcoming. [LINK](https://theruckusroom.ruckuswireless.com/wi-fi/2017/10/16/commonsense-approach-uncommon-problem/) | 2017-10-17 | 2017-10-17 |  |
 | Sagemcom | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 | |
-| Samsung Mobile | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
+| Samsung Electronics | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Sharp | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | SnapAV | No Known Official Response (See comment for unofficial response) | An email from G Paul Hess, Chief Product Officer states that Araknis Networks Wireless Access Points and Autonomic 1e Music Streamer are affected. "We are currently working on a firmware update, which will be available on SnapAV’s website, as well as OvrC." | 2017-10-16 | 2017-10-17 |  |
 | Sonicwall | [LINK](https://www.sonicwall.com/en-us/support/product-notification/wpa2-krack-exploit-a-sonicwall-alert) | N/A | 2017-10-17 | 2017-10-17 |  |
