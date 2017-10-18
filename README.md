@@ -46,7 +46,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 |--------|-----------------|----------------|-----------------------|
 | Arch Linux | X |  |  |
 | Arista |  |  | X |
-| Aruba | X |  |  |
+| Aruba | [X](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007_FAQ_Rev-1.pdf) |  |  |
 | Asus |  | X | X |
 | Cisco |  | X |  |
 | DD-WRT | X |  |  |
