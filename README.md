@@ -58,6 +58,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | LXDE |  | X |  |
 | Meraki | X |  |  |
 | MikroTik | X |  |  |
+| Mojo Networks | X |  |  |
 | Ruckus |  | X |  |
 | Synology |  | X |  |
 | Turris Omnia |  | X |  |
@@ -133,6 +134,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Microchip Technology | [LINK](http://www.microchip.com/design-centers/wireless-connectivity/embedded-wi-fi/wpa2-protocol-vulnerability) | N/A | 2017-10-17 | 2017-10-17 | 28 Aug 2017 |
 | Microsoft | [Windows Related](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-13080) | When clicking the link, accept the EULA then click the link again | 2017-10-16 | 2017-10-16 |  |
 | Mikrotik | [LINK](https://forum.mikrotik.com/viewtopic.php?f=21&t=126695) | We released fixed versions last week, so if you upgrade your devices routinely, no further action is required. | 2017-10-16 | 2017-10-16 |  |
+| Mojo Networks | [LINK](https://www.mojonetworks.com/wpa2-vulnerability) | Update to cloud management platform completed. In order to mitigate client-side vulnerabilities, Mojo recommends upgrading AP software to version 8.5, and enabling MAC Spoofing and Man-in-the-middle attack prevention with built-in WIPs. | 2017-10-17 | 2017-10-17 |  |
 | NEC | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nest Labs | No Known Official Response | Nest Tweeted: "We plan to roll out patches to our products in the coming weeks.  These won't require any action on the part of the user." | 2017-10-17 | 2017-10-17 |  |
 | Netgear | [LINK](https://kb.netgear.com/000049498/Security-Advisory-for-WPA-2-Vulnerabilities-PSV-2017-2826-PSV-2017-2836-PSV-2017-2837) | N/A | 2017-10-16 | 2017-10-16 |  |
