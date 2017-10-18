@@ -14,8 +14,8 @@ Thank-you again to everyone who is working hard helping others with this issue.
 
 | Vendor | Series | Model | Year | Patch Available | Status | First Created | Last Updated |
 |--------|--------|-------|------|-----------------|--------|---------------|--------------|
-| Tesco | Hudl | 1 | 2014 | NO | Denied Responsibility | 2017-10-19 | 2017-10-19 |
-| Tesco | Hudl | 2 | 20?? | NO | Denied Responsibility | 2017-10-19 | 2017-10-19 |
+| Tesco | Hudl | 1 | 2014 | NO | Denied Responsibility [LINK](https://twitter.com/Tesco/status/920254455135854592) | 2017-10-19 | 2017-10-19 |
+| Tesco | Hudl | 2 | 20?? | NO | Denied Responsibility [LINK](https://twitter.com/Tesco/status/920254455135854592) | 2017-10-19 | 2017-10-19 |
 
 ## Kiosks
 
