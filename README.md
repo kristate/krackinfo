@@ -118,6 +118,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | HPE Aruba | [Patch Info](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007.txt) - [FAQ](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007_FAQ_Rev-1.pdf) | N/A | 2017-10-17 | 2017-10-17 | 28 Aug 2017 |
 | Huawei | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | IBM | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Icotera | No Known Official Response | Icotera is investigating it's products against the vulnerability and possible fix. A software update for each affected product(firmware) will be made available as soon as possible. All our direct customers will be updated invidualy. | 2017-10-18 | 2017-10-18 |  |
 | Intel Corporation | [LINK](https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00101&languageid=en-fr) | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | I-O DATA | [LINK(JA)](http://www.iodata.jp/support/information/2017/wpa2/) | N/A | 2017-10-18 | 2017-10-18 |  |
 | Jolla | [LINK](https://together.jolla.com/question/170073/krack-attacks-wpa2-is-not-secure-anymore/?answer=170198#post-id-170198) | N/A | 2017-10-17 | 2017-10-17 |  |
