@@ -91,7 +91,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Broadcom | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Buffalo / MELCO | [LINK(JA)](http://buffalo.jp/support_s/t20171017.html) | N/A | 2017-10-18 | 2017-10-18 |  |
 | Canon | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
-| CentOS | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| CentOS | [LINK](https://lists.centos.org/pipermail/centos-announce/2017-October/022569.html) | From upstream Red Hat Security Advisory [RHSA-2017:2907](https://access.redhat.com/errata/RHSA-2017:2907) | 2017-10-17 | 2017-10-17 |  |
 | Cisco | [LINK](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171016-wpa) | Multiple Cisco wireless products are affected by these vulnerabilities. | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Comcast | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | CZ.NIC Turris | [LINK](https://forum.turris.cz/t/major-wpa2-vulnerability-to-be-disclosed/5363/8) | via @spike411: CZ.NIC Turris team is testing a fix (backported from hostapd upstream): [LINK](https://gitlab.labs.nic.cz/turris/openwrt/commit/a60970f33f65bfb1d531ce822bfd28ee049a702f) | 2017-10-16 | 2017-10-16 |  |
