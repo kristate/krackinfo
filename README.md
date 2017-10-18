@@ -47,6 +47,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Arch Linux | X |  |  |
 | Arista |  |  | X |
 | Aruba | X |  |  |
+| Asus |  | X | X |
 | Cisco |  | X |  |
 | DD-WRT | X |  |  |
 | Debian | X |  |  |
@@ -84,7 +85,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Apple | No Known Official Response; See comment for unofficial response | Via twitter : "Apple has confirmed to me that #wpa2 #KRACK exploit has already been patched in iOS, tvOS, watchOS, macOS betas." [LINK](https://twitter.com/reneritchie/status/919988216501030914) | 2017-10-17 | 2017-10-17 |  |
 | Arch Linux | [wpa_supplicant](https://git.archlinux.org/svntogit/packages.git/commit/trunk?h=packages/wpa_supplicant&id=9c1bda00a846ff3b60e7c4b4f60b28ff4a8f7768), [hostapd](https://git.archlinux.org/svntogit/community.git/commit/trunk?h=packages/hostapd&id=d31735a09b4c25eaa69fb13b1031910ca3c29ee5) | N/A | 2017-10-16 | 2017-10-16 |  |
 | Arduino | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
-| Asus | No Known Official Response | According to [LINK](https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/) at the time of this commit no statement from Asus | 2017-10-17 | 2017-10-17 |  |
+| Asus | No Known Official Response (See comment for unofficial response) | An email response from "security@asus.com" says that they are "co-working with chipset vendors for solutions and will release patched firmware for affected routers soon. If your router is RT-N12 D1, RT-N66U, RT-AC66U, RT-AC68U, RT-AC3200, RT-AC88U, RT-AC3100, RT-AC5300 or GT-AC5300 then your router is not affected by the WPA2 vulnerability in router and AP mode." According to [LINK](https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/) at the time of this commit no official statement from Asus | 2017-10-17 | 2017-10-17 |  |
 | AVM | [LINK](https://en.avm.de/service/current-security-notifications/) | They are currently investigating this security issue and will release updates if needed. Also EOM and EOS products will be updated, according to [LINK](https://twitter.com/ikkerus/status/920217085502001152) | 2017-10-17 | 2017-10-17 |  |
 | Barracuda Networks | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Belkin, Linksys, and Wemo | [LINK(Linksys)](https://www.linksys.com/us/support-article?articleNum=246427) | "Belkin Linksys, and Wemo are aware of the WPA vulnerability.  Our security teams are verifying details and we will advise accordingly.  Also know that we are committed to putting the customer first and are planning to post instructions on our security advisory page on what customers can do to update their products, if and when required." | 2017-10-17 | 2017-10-17 |  |
