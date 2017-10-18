@@ -6,6 +6,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 ***Unless a known patch has been applied, assume that all WPA2 enabled Wi-fi devices are vulnerable.***
 
 ## Go Directly to [Vendor Response Matrix](#vendor-response-complete)
+## For Android devices please check the [Android Response Matrix](ANDROID.md)
 ## 日本人の皆さまへ： [こちらをご覧ください](/krackinfo_JA-JP.md)(日本語)
 
 ## The Good
@@ -47,7 +48,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Arch Linux | X |  |  |
 | Arista |  |  | X |
 | Aruba | [X](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007_FAQ_Rev-1.pdf) |  |  |
-| Asus |  | X | X |
+| Asus |  | [X](https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/) | X |
 | Cisco |  | X |  |
 | DD-WRT | X |  |  |
 | Debian | X |  |  |
@@ -61,7 +62,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | MikroTik | X |  |  |
 | Mojo Networks | X |  |  |
 | Ruckus |  | X |  |
-| Synology |  | X |  |
+| Synology | [X](https://www.synology.com/en-us/releaseNote/DS414) |  |  |
 | Turris Omnia |  | X |  |
 | Ubiquiti | [X](https://community.ubnt.com/t5/UniFi-Updates-Blog/bg-p/Blog_UniFi) |  |  |
 | Ubuntu | [X](https://usn.ubuntu.com/usn/usn-3455-1/) |  |  |
@@ -85,11 +86,11 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Apple | No Known Official Response; See comment for unofficial response | Via twitter : "Apple has confirmed to me that #wpa2 #KRACK exploit has already been patched in iOS, tvOS, watchOS, macOS betas." [LINK](https://twitter.com/reneritchie/status/919988216501030914) | 2017-10-17 | 2017-10-17 |  |
 | Arch Linux | [wpa_supplicant](https://git.archlinux.org/svntogit/packages.git/commit/trunk?h=packages/wpa_supplicant&id=9c1bda00a846ff3b60e7c4b4f60b28ff4a8f7768), [hostapd](https://git.archlinux.org/svntogit/community.git/commit/trunk?h=packages/hostapd&id=d31735a09b4c25eaa69fb13b1031910ca3c29ee5) | N/A | 2017-10-16 | 2017-10-16 |  |
 | Arduino | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
-| Asus | No Known Official Response (See comment for unofficial response) | An email response from "security@asus.com" says that they are "co-working with chipset vendors for solutions and will release patched firmware for affected routers soon. If your router is RT-N12 D1, RT-N66U, RT-AC66U, RT-AC68U, RT-AC3200, RT-AC88U, RT-AC3100, RT-AC5300 or GT-AC5300 then your router is not affected by the WPA2 vulnerability in router and AP mode." According to [LINK](https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/) at the time of this commit no official statement from Asus | 2017-10-17 | 2017-10-17 |  |
+| Asus | [LINK](https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/) | Additionally, an email response from "security@asus.com" says that they are "co-working with chipset vendors for solutions and will release patched firmware for affected routers soon. If your router is RT-N12 D1, RT-N66U, RT-AC66U, RT-AC68U, RT-AC3200, RT-AC88U, RT-AC3100, RT-AC5300 or GT-AC5300 then your router is not affected by the WPA2 vulnerability in router and AP mode." | 2017-10-17 | 2017-10-18 |  |
 | AVM (FRITZ!Box)  | [LINK](https://en.avm.de/news/short-notes/2017/wpa2-flaw-fritzbox-on-broadband-connections-are-secure/) | WPA2 flaw – FRITZ!Box on broadband connections are secure. AVM will provide updates for its wireless repeaters. | 2017-10-18 | 2017-10-18 |  |
 | Barracuda Networks | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Belkin, Linksys, and Wemo | [LINK(Linksys)](https://www.linksys.com/us/support-article?articleNum=246427) | "Belkin Linksys, and Wemo are aware of the WPA vulnerability.  Our security teams are verifying details and we will advise accordingly.  Also know that we are committed to putting the customer first and are planning to post instructions on our security advisory page on what customers can do to update their products, if and when required." | 2017-10-17 | 2017-10-17 |  |
-| Broadcom | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| Broadcom / Cypress | [LINK](https://community.cypress.com/docs/DOC-13871) (Cypress community login required) | WICED Studio, `wpa_supplicant`, and linux releases in late October will address the relevant CVEs. | 2017-10-18 | 2017-10-18 |  |
 | Buffalo / MELCO | [LINK(JA)](http://buffalo.jp/support_s/t20171017.html) | N/A | 2017-10-18 | 2017-10-18 |  |
 | Canon | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | CentOS | [LINK](https://lists.centos.org/pipermail/centos-announce/2017-October/022569.html) | From upstream Red Hat Security Advisory [RHSA-2017:2907](https://access.redhat.com/errata/RHSA-2017:2907) | 2017-10-17 | 2017-10-17 |  |
@@ -102,9 +103,10 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Dell | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Denon | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | DrayTek | [LINK](http://www.draytek.co.uk/information/our-technology/wpa2-krack-vulnerability) | DrayTek are investigating solutions for this and plan to issue appropriate updates (firmware) as soon as possible. We will update this page in due course. | 2017-10-17 | 2017-10-17 |  |
-| ecobee | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| ecobee | No Known Official Response | Twitter response [1](https://twitter.com/ecobee/status/920316685193707521) and [2](https://twitter.com/ecobee/status/920316741334552576): "ecobee is aware of the industry-wide vulnerability in WPA2 referred to as KRACK.   The security of our customers is very important to us and we have confirmed that ecobee device security is not impacted by this issue." Likely this means ecobee considers underlying https / ssl to be secure despite KRACK | 2017-10-17 | 2017-10-17 |  |
 | Edimax | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | EMC Corporation | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| EnGenius | [LINK](https://helpcenter.engeniustech.com/hc/en-us/articles/115002197872-EnGenius-Advisory-on-the-WPA2-KRACK-vulnerability) | "EnGenius software developers are currently working on security patches and will issue firmware releases as soon as possible." | 2017-10-18 | 2017-10-18 |  |
 | Espressif Systems | [LINK](http://espressif.com/en/media_overview/news/espressif-releases-patches-wifi-vulnerabilities-cert-vu228519) | Espressif released patches for the WiFi vulnerabilities in their products including ESP-IDF, ESP8266 RTOS and ESP8266 NON-OS. Arduino ESP32 will be updated shortly. | 2017-10-16 | 2017-10-16 | 22 Sep 2017 |
 | Extreme Networks | [LINK](https://extremeportal.force.com/ExtrArticleDetail?n=000018005) | N/A | 2017-10-16 | 2017-10-16 | 2017-08-28 |
 | F5 Networks | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
@@ -118,14 +120,15 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | HPE Aruba | [Patch Info](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007.txt) - [FAQ](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007_FAQ_Rev-1.pdf) | N/A | 2017-10-17 | 2017-10-17 | 28 Aug 2017 |
 | Huawei | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | IBM | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Icotera | No Known Official Response | Icotera is investigating it's products against the vulnerability and possible fix. A software update for each affected product(firmware) will be made available as soon as possible. All our direct customers will be updated invidualy. | 2017-10-18 | 2017-10-18 |  |
 | Intel Corporation | [LINK](https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00101&languageid=en-fr) | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | I-O DATA | [LINK(JA)](http://www.iodata.jp/support/information/2017/wpa2/) | N/A | 2017-10-18 | 2017-10-18 |  |
 | Jolla | [LINK](https://together.jolla.com/question/170073/krack-attacks-wpa2-is-not-secure-anymore/?answer=170198#post-id-170198) | N/A | 2017-10-17 | 2017-10-17 |  |
 | Juniper Networks | [LINK](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10827) | Patches for WLAN available; patches for SRX and SSG outstanding | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | KPN | [LINK](https://overons.kpn/nl/nieuws/2017/beveiligingsonderzoekers-vinden-kwetsbaarheid-in-wifi-protocol) | No Fix as of yet | 2017-10-17 | 2017-10-17 |  |
 | Kyocera Communications | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
-| LEDE | [LINK](http://lists.infradead.org/pipermail/lede-dev/2017-October/009349.html) | Fixed snapshots for master available. 17.01.4 pending release. | 2017-10-17 | 2017-10-17 | |
-| LineageOS | [LINK](https://review.lineageos.org/#/q/topic:krack-n) | N/A | 2017-10-17 | 2017-10-17 |  |
+| LEDE | [LINK](https://lede-project.org/releases/17.01/notes-17.01.4) | Released fix in version 17.01.4. | 2017-10-18 | 2017-10-18 | |
+| LineageOS | [LINK](https://review.lineageos.org/#/q/topic:krack-n) | "All official 14.1 builds built after this tweet have been patched for KRACK.":[LINK](https://twitter.com/LineageAndroid/status/920143977256382464) | 2017-10-17 | 2017-10-17 |  |
 | Linux | Patches: [LINK](https://w1.fi/security/2017-1/) | wpa_supplicant version 2.4 and above is affected. Linux's wpa_supplicant v2.6 is also vulnerable to the installation of an all-zero encryption key in the 4-way handshake. | 2017-10-16 | 2017-10-16 |  |
 | Logitech | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Luxul | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
@@ -147,11 +150,12 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Open-Mesh / CloudTrax | [LINK](https://help.cloudtrax.com/hc/en-us/articles/115001567804-KRACK-Bulletin) | An update is expected to be delivered to all of those that use automatic updates by the end over October 17th. | 2017-10-17 | 2017-10-17 |  |
 | OpenBSD | [LINK](https://marc.info/?l=openbsd-announce&m=150410604407872&w=2) | Errata patches for the wireless stack have been released for OpenBSD 6.1 and 6.0. State transition errors could cause reinstallation of old WPA keys. Binary updates for the amd64 and i386 platforms are available via the syspatch utility. Source code patches can be found on the respective errata pages. As this affects the kernel, a reboot will be needed after patching. | 2017-10-16 | 2017-10-16 |  |
 | Pakedge | No Known Official Response | Via @spike411 "They have acknowledged they have received my enquiry but don’t have any info about the state of this vulnerability in their products." | 2017-10-16 | 2017-10-16 |  |
+| Particle | [LINK](https://community.particle.io/t/krack-patch-eta/36759/5?u=zachary) | Once Cypress releases updates to WICED Studio, Particle will create system firmware releases. Users can then build their apps on the new system versions. | 2017-10-18 | 2017-10-18 |  |
 | Peplink | [LINK](https://forum.peplink.com/t/security-advisory-krack-wpa2-vulnerability-vu-228519/12715) | "We are developing firmware to address the vulnerability." ... "ETA for the firmware releases is within two weeks." | 2017-10-17 | 2017-10-17 | 2017-08-28 |
 | pfSense | [LINK](https://redmine.pfsense.org/issues/7951) | N/A | 2017-10-17 | 2017-10-17 |  |
 | Pioneer | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Qualcomm Atheros | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
-| Rachio | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Rachio | No Known Official Response | Support response: "When it boils down into it, the KRACK attack can only target improperly done HTTPS / SSL connections, and we are perfectly safe in that regard. There is no need for our controller to get an update due to the leak itself, due to the massive lack of a GUI there is nothing at risk from our controller. <br/> From what I can see in my research and testing, KRACK vulnerability cannot potentially modify data on the network, or even eavesdrop from our controller. <br/> The absolute only thing at risk, after thorough testing, that a KRACK attacker would be able to *potentially* see is that you have a Rachio on your network. And even then, the only way they have the slightest ability to get any further would be via timing analysis, and even then it only would be your watering times." [LINK](https://twitter.com/Fezmid/status/920261178852630530)  | 2017-10-17 | 2017-10-17 |  |
 | Raspbian (Raspberry Pi) | No Known Official Response | Update (20171002 01:38): The fixes for raspbian Jessie and Stretch should now be in the public raspbian repo. The fix for raspbian buster should follow in a few hours. I do not know if/when there will be a fix for wheezy. source: [LINK](https://raspberrypi.stackexchange.com/questions/73879/rpi-vulnerable-for-wi-fi-wpa2-krack-attack/73908#73908) | 2017-10-17 | 2017-10-17 |  |
 | Red Hat, Inc. | This issue affects the versions of wpa_supplicant as shipped with Red Hat Enterprise Linux 6 and 7. [LINK](https://access.redhat.com/security/cve/cve-2017-13087) | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Ring | No Known Official Response | Per support "They promise to update public shortly, actively working with developers." | 2017-10-17 | 2017-10-17 |  |
@@ -167,13 +171,14 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | SUSE / openSUSE | [LINK](https://bugzilla.suse.com/show_bug.cgi?id=1063479) |  | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Swisscom | [LINK](https://supportcommunity.swisscom.ch/t5/Diskussionen-%C3%BCber-Ger%C3%A4te-und/WPA2-Leack-wirklich-oder-wieder-nur-Baitfishing/m-p/511992#M18540) | Internet Box routers not affected. Centro routers and AirTies repeaters to be clarified. | 2017-10-17 | 2017-10-17 | |
 | Synology | [LINK](https://www.synology.com/en-us/support/security/Synology_SA_17_60_KRACK) | Synology DiskStation Manager (DSM) with attached WiFi dongle and Synology Router Manager (SRM) are vulnerable to Krack. According to Synology, updates for affected products will be released soon. | 2017-10-17 | 2017-10-17 |  |
+| Tesco | [LINK](https://twitter.com/Tesco/status/920254455135854592) | Tesco has chosen not to patch the Hudl: "There will be no further updates to the hudl software" | 2017-10-17 | 2017-10-17 |  |
 | Toshiba Commerce Solutions | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 15 Sep 2017 |
 | Toshiba Electronic Devices & Storage Corporation | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Toshiba Memory Corporation | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
-| TP-Link | [LINK](http://forum.tp-link.com/showthread.php?101094-Security-Flaws-Severe-flaws-called-quot-KRACK-quot-are-discovered-in-the-WPA2-protocol) | N/A | 2017-10-17 | 2017-10-17 |  |
+| TP-Link | [LINK](http://forum.tp-link.com/showthread.php?101094-Security-Flaws-Severe-flaws-called-quot-KRACK-quot-are-discovered-in-the-WPA2-protocol), [LINK2](http://www.tp-link.com/en/faq-1970.html) | TP-Link has been working on affected models and will release firmware over the next few weeks on our official website. | 2017-10-18 | 2017-10-18 |  |
 | Turris Omnia | [LINK](https://forum.turris.cz/t/major-wpa2-vulnerability-to-be-disclosed/5363/9) | N/A | 2017-10-17 | 2017-10-17 |  |
 | Ubiquiti Networks | [LINK](https://community.ubnt.com/t5/UniFi-Updates-Blog/FIRMWARE-3-9-3-7537-for-UAP-USW-has-been-released/ba-p/2099365) | Ubiquiti has released 3.9.3.7537 in beta to mitigate these vulnerabilities in UniFi APs that have a client mode. mFi devices are likely vulnerable and [no statement or patch](https://community.ubnt.com/t5/mFi/KRACK-WPA2-broken-Plans-for-mFi-hardware-fixes/m-p/2099826) has been released. | 2017-10-16 | 2017-10-16 |  |
-| Ubuntu | [LINK](https://usn.ubuntu.com/usn/usn-3455-1/) | Updates are available for wpasupplicant and hostapd in Ubuntu 17.04, Ubuntu 16.04 LTS, and Ubuntu 14.04 LTS. | 2017-10-16 | 2017-10-16 |  |
+| Ubuntu | [LINK](https://usn.ubuntu.com/usn/usn-3455-1/) | Updates are available for wpasupplicant and hostapd in Ubuntu 17.04, Ubuntu 16.04 LTS, and Ubuntu 14.04 LTS. wpasupplicant and hostapd were updated before the release of Ubuntu 17.10. | 2017-10-16 | 2017-10-16 |  |
 | WatchGuard | [LINK](https://www.watchguard.com/wgrd-blog/wpa-and-wpa2-vulnerabilities-update) | Sunday, October 15, 2017:,AP120, 320, 322, 420:,Release 8.3.0-657, Cloud mode only . Monday, October 30, 2017: AP300: Release 2.0.0.9 ,AP100, 102, 200: Release 1.2.9.14, AP120, 320, 322, 420:,Release 8.3.0-657, Non-Cloud (GWC mode) | 2017-10-17 | 2017-10-17 |  |
 | WiFi Alliance | [LINK](https://www.wi-fi.org/security-update-october-2017) | Users should refer to their Wi-Fi device vendor’s website or security advisories to determine if their device has been affected and has an update available. As always, Wi-Fi users should ensure they have installed the latest recommended updates from device manufacturers. | 2017-10-16 | 2017-10-16 |  |
 | Xfinity | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
