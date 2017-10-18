@@ -113,7 +113,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Extreme Networks | [LINK](https://extremeportal.force.com/ExtrArticleDetail?n=000018005) | N/A | 2017-10-16 | 2017-10-16 | 2017-08-28 |
 | F5 Networks | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Fedora | [LINK](https://bodhi.fedoraproject.org/updates/wpa_supplicant-2.6-11.fc27) | Status: Fixed Release: Pending (* Manual installation is possible) | 2017-10-17 | 2017-10-17 |  |
-| FortiNet | [LINK](http://docs.fortinet.com/uploaded/files/3961/fortiap-v5.6.1-release-notes.pdf) | FortiAP 5.6.1 is no longer vulnerable to the following CVE Reference:...CVE-2017-13077CVE-2017-13078CVE-2017-13079CVE-2017-13080CVE-2017-13081CVE-2017-13082 | 2017-10-16 | 2017-10-16 |  |
+| FortiNet | [LINK](http://www.fortiguard.com/psirt/FG-IR-17-196) | FortiAP 5.6.1 has been patched. All other patches are upcoming. | 2017-10-16 | 2017-10-18 |  |
 | Foundry Brocade | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | FreeBSD Project | [Response](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001805.html), [patch](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001806.html) | Binary and source updates to base system available. Alternatively one can install the `security/wpa_supplicant` port or package in lieu of the same in base. | 2017-10-17 | 2017-10-17 | (?) |
 | Google | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
