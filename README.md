@@ -6,6 +6,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 ***Unless a known patch has been applied, assume that all WPA2 enabled Wi-fi devices are vulnerable.***
 
 ## Go Directly to [Vendor Response Matrix](#vendor-response-complete)
+## For Android devices please check the [Android Response Matrix](ANDROID.md)
 ## 日本人の皆さまへ： [こちらをご覧ください](/krackinfo_JA-JP.md)(日本語)
 
 ## The Good
