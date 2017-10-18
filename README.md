@@ -67,7 +67,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Turris Omnia |  | X |  |
 | Ubiquiti | [X](https://community.ubnt.com/t5/UniFi-Updates-Blog/bg-p/Blog_UniFi) |  |  |
 | Ubuntu | [X](https://usn.ubuntu.com/usn/usn-3455-1/) |  |  |
-| UniFi | X |  |  |
+| UniFi | [X](https://community.ubnt.com/t5/UniFi-Updates-Blog/FIRMWARE-3-9-3-7537-for-UAP-USW-has-been-released/ba-p/2099365) |  |  |
 | VMware |  |  | X |
 | Watchguard Cloud | X |  |  |
 | Watchguard |  | X | |
