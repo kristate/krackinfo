@@ -158,7 +158,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Samsung Mobile | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Sharp | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Sonicwall | [LINK](https://www.sonicwall.com/en-us/support/product-notification/wpa2-krack-exploit-a-sonicwall-alert) | N/A | 2017-10-17 | 2017-10-17 |  |
-| Sonos | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Sonos | [LINK](https://en.community.sonos.com/ask-a-question-228987/is-sonos-vulnerable-to-the-krack-attack-6792188) | We're aware of the issues with WPA2 and our team is working to determine any ramifications this may have for Sonos players. | 2017-10-18 | 2017-10-18 |  |
 | Sony | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Sophos AP | [LINK](https://community.sophos.com/kb/en-us/127658) | N/A | 2017-10-17 | 2017-10-17 |  |
 | SUSE / openSUSE | [LINK](https://bugzilla.suse.com/show_bug.cgi?id=1063479) |  | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
