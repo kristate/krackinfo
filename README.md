@@ -49,6 +49,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Arista |  |  | X |
 | Aruba | [X](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007_FAQ_Rev-1.pdf) |  |  |
 | Asus |  | [X](https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/) | X |
+| CentOS | X |  |  |
 | Cisco |  | X |  |
 | DD-WRT | X |  |  |
 | Debian | X |  |  |
@@ -93,7 +94,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Broadcom / Cypress | [LINK](https://community.cypress.com/docs/DOC-13871) (Cypress community login required) | WICED Studio, `wpa_supplicant`, and linux releases in late October will address the relevant CVEs. | 2017-10-18 | 2017-10-18 |  |
 | Buffalo / MELCO | [LINK(JA)](http://buffalo.jp/support_s/t20171017.html) | N/A | 2017-10-18 | 2017-10-18 |  |
 | Canon | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
-| CentOS | [LINK](https://lists.centos.org/pipermail/centos-announce/2017-October/022569.html) | From upstream Red Hat Security Advisory [RHSA-2017:2907](https://access.redhat.com/errata/RHSA-2017:2907) | 2017-10-17 | 2017-10-17 |  |
+| CentOS | [CentOS 6](https://lists.centos.org/pipermail/centos-announce/2017-October/022570.html), [CentOS 7](https://lists.centos.org/pipermail/centos-announce/2017-October/022569.html) | From upstream Red Hat Security Advisories [RHSA-2017:2911](https://access.redhat.com/errata/RHSA-2017:2911), and [RHSA-2017:2907](https://access.redhat.com/errata/RHSA-2017:2907) | 2017-10-18 | 2017-10-18 |  |
 | Cisco | [LINK](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171016-wpa) | Multiple Cisco wireless products are affected by these vulnerabilities. | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Comcast | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | CZ.NIC Turris | [LINK](https://forum.turris.cz/t/major-wpa2-vulnerability-to-be-disclosed/5363/8) | via @spike411: CZ.NIC Turris team is testing a fix (backported from hostapd upstream): [LINK](https://gitlab.labs.nic.cz/turris/openwrt/commit/a60970f33f65bfb1d531ce822bfd28ee049a702f) | 2017-10-16 | 2017-10-16 |  |
