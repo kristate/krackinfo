@@ -6,8 +6,8 @@
 | Nabi | 2S Tablet | nabi2S | SNB02-NV7A |  |  | 2017-10-19 | 2017-10-19 |
 | Nabi | American Girl Tablet | NBTY07SMKG | NBTY07SMKG |  |  | 2017-10-19 | 2017-10-19 |
 | Nabi | Barbie Tablet | NBTY07SMKG | NBTY07SMKG |  |  | 2017-10-19 | 2017-10-19 |
-| Nabi | Big Tab HD\xe2\x84\xa2 20" | DMTAB-NV20A | DMTAB-NV20A |  |  | 2017-10-19 | 2017-10-19 |
-| Nabi | Big Tab HD\xe2\x84\xa2 24" | DMTAB-NV24A | DMTAB-NV24A |  |  | 2017-10-19 | 2017-10-19 |
+| Nabi | Big Tab HD™ 20" | DMTAB-NV20A | DMTAB-NV20A |  |  | 2017-10-19 | 2017-10-19 |
+| Nabi | Big Tab HD™ 24" | DMTAB-NV24A | DMTAB-NV24A |  |  | 2017-10-19 | 2017-10-19 |
 | Nabi | DreamTab HD8 Tablet | DMTAB | DMTAB-IN08A |  |  | 2017-10-19 | 2017-10-19 |
 | Nabi | DreamTab HD8 Tablet | t8400n | DMTAB-NV08B |  |  | 2017-10-19 | 2017-10-19 |
 | Nabi | Fisher Price Learning Tablet | NBFP07PMKG | NBFP07PMKG |  |  | 2017-10-19 | 2017-10-19 |
@@ -39,7 +39,7 @@
 | NAXA | NID_7010 | NID_7010 | NID_7010 |  |  | 2017-10-19 | 2017-10-19 |
 | Ncredible | NV8 | NV8 | NV8 |  |  | 2017-10-19 | 2017-10-19 |
 | Ncredible | NV8-HD | NV8-HD | NV8 |  |  | 2017-10-19 | 2017-10-19 |
-| NEC | 101T \xe3\x80\x80MEDIAS | NEC-101 | NEC-101T |  |  | 2017-10-19 | 2017-10-19 |
+| NEC | 101T MEDIAS | NEC-101 | NEC-101T |  |  | 2017-10-19 | 2017-10-19 |
 | NEC | AGT10 D000-000039-001 | D000000039 | NEC-STR |  |  | 2017-10-19 | 2017-10-19 |
 | NEC | AGT10 | AGT10 | N8730-411 |  |  | 2017-10-19 | 2017-10-19 |
 | NEC | AGT10 | AGT10 | N8730-41101 |  |  | 2017-10-19 | 2017-10-19 |
@@ -47,9 +47,9 @@
 | NEC | CASIO G\'zOne Commando 4G LTE | C811 | C811 4G |  |  | 2017-10-19 | 2017-10-19 |
 | NEC | Casio G\'zOne Commando | C771 | C771 |  |  | 2017-10-19 | 2017-10-19 |
 | NEC | Disney Mobile on docomoN-03E | N-03E | N-03E |  |  | 2017-10-19 | 2017-10-19 |
-| NEC | G\'z One IS11CA | IS11CA | IS11CA |  |  | 2017-10-19 | 2017-10-19 |
-| NEC | G\'zOne TYPE-L CAL21 | CAL21 | CAL21 |  |  | 2017-10-19 | 2017-10-19 |
-| NEC | G\xe2\x80\x99zOne CA-201L | CA201L | CA-201L |  |  | 2017-10-19 | 2017-10-19 |
+| NEC | G'z One IS11CA | IS11CA | IS11CA |  |  | 2017-10-19 | 2017-10-19 |
+| NEC | G'zOne TYPE-L CAL21 | CAL21 | CAL21 |  |  | 2017-10-19 | 2017-10-19 |
+| NEC | G'z CA-201L | CA201L | CA-201L |  |  | 2017-10-19 | 2017-10-19 |
 | NEC | LaVieTab PC-TE508BAW | TE508BAW | PC-TE508BAW |  |  | 2017-10-19 | 2017-10-19 |
 | NEC | LaVieTab PC-TE508S1W/LaVieTab PC-TE508S1L | PC-TE508S1_nec | LaVieTab PC-TE508S1 |  |  | 2017-10-19 | 2017-10-19 |
 | NEC | LaVieTab PC-TE510S1L | PC-TE510S1_nec | LaVieTab PC-TE510S1 |  |  | 2017-10-19 | 2017-10-19 |
@@ -286,7 +286,7 @@
 | Obi | MV1 | yam | OBI MV1 |  |  | 2017-10-19 | 2017-10-19 |
 | Obi | MV1 | yam | Obi MV1 |  |  | 2017-10-19 | 2017-10-19 |
 | Obi | OBJ SJ1.5 | SJ1-5 | SJ1-5 |  |  | 2017-10-19 | 2017-10-19 |
-| Oceusnetworks | Xiphos\xc2\xaeTMD | granite | Xiphos(R)TMD |  |  | 2017-10-19 | 2017-10-19 |
+| Oceusnetworks | Xiphos®TMD | granite | Xiphos(R)TMD |  |  | 2017-10-19 | 2017-10-19 |
 | ODYS | PACE 10 | PACE10 | PACE10 |  |  | 2017-10-19 | 2017-10-19 |
 | Odys | UNO X10 | UNO_X10 | UNO X10 |  |  | 2017-10-19 | 2017-10-19 |
 | Odys | UNO X8 | UNO_X8 | UNO_X8 |  |  | 2017-10-19 | 2017-10-19 |
@@ -580,7 +580,7 @@
 | Oukitel | K6000 Plus | K6000_Plus | K6000 Plus |  |  | 2017-10-19 | 2017-10-19 |
 | Oukitel | U20_Plus | U20_Plus | U20_Plus |  |  | 2017-10-19 | 2017-10-19 |
 | OwnMobile | FUN VALUE 4G | FUNVALUE4G | FUN VALUE 4G |  |  | 2017-10-19 | 2017-10-19 |
-| OwnMobile | OWN Smart \xc3\x962 | SMART_O2 | SMART_O2 |  |  | 2017-10-19 | 2017-10-19 |
+| OwnMobile | OWN Smart Ö2 | SMART_O2 | SMART_O2 |  |  | 2017-10-19 | 2017-10-19 |
 | OwnMobile | SMART 8 | Smart8 | Smart8 |  |  | 2017-10-19 | 2017-10-19 |
 | OwnMobile | Smart Plus Lte | SMART_PLUS_LTE | SMART PLUS LTE |  |  | 2017-10-19 | 2017-10-19 |
 | Oysters | T72HM3G | T72HM3G | T72HM3G |  |  | 2017-10-19 | 2017-10-19 |
@@ -795,7 +795,7 @@
 | Pantech | PLANET | mini | PLANET |  |  | 2017-10-19 | 2017-10-19 |
 | Pantech | Pocket | mini | PantechP9060 |  |  | 2017-10-19 | 2017-10-19 |
 | Pantech | PTL21 | maruko | PTL21 |  |  | 2017-10-19 | 2017-10-19 |
-| Pantech | SIRIUS \xce\xb1 | jmasai | IS06 |  |  | 2017-10-19 | 2017-10-19 |
+| Pantech | SIRIUS α | jmasai | IS06 |  |  | 2017-10-19 | 2017-10-19 |
 | Pantech | Sirius | ef10s | SKY IM-A600S |  |  | 2017-10-19 | 2017-10-19 |
 | Pantech | v950 | HS8929QC | Pantech V950 |  |  | 2017-10-19 | 2017-10-19 |
 | Pantech | V955 | HS8929QC | Pantech V955 |  |  | 2017-10-19 | 2017-10-19 |
@@ -838,12 +838,12 @@
 | Philips |  | Philips_GGC3 | SA3CNT |  |  | 2017-10-19 | 2017-10-19 |
 | Philips |  | Philips_PI5000 | Philips_PI5000 |  |  | 2017-10-19 | 2017-10-19 |
 | Philips |  | SA2CNTxx | Philips GoGear Connect |  |  | 2017-10-19 | 2017-10-19 |
-| Philips | 4K & Full HD Slim LED TV powered by Android\xe2\x84\xa2 | philips_MT5593FHT_EU | QM152E |  |  | 2017-10-19 | 2017-10-19 |
-| Philips | 4K & Full HD Slim LED TV powered by Android\xe2\x84\xa2 | philips_MT5593HT_LT | QM152E |  |  | 2017-10-19 | 2017-10-19 |
+| Philips | 4K & Full HD Slim LED TV powered by Android™ | philips_MT5593FHT_EU | QM152E |  |  | 2017-10-19 | 2017-10-19 |
+| Philips | 4K & Full HD Slim LED TV powered by Android™ | philips_MT5593HT_LT | QM152E |  |  | 2017-10-19 | 2017-10-19 |
 | Philips | 4K LED TV powered by Android | PH7M_EU_5596 | TPM171E |  |  | 2017-10-19 | 2017-10-19 |
-| Philips | 4K Razor Slim LED TV powered by Android TV\xe2\x84\xa2 | MT5593Uplus | QM151E |  |  | 2017-10-19 | 2017-10-19 |
+| Philips | 4K Razor Slim LED TV powered by Android TV™ | MT5593Uplus | QM151E |  |  | 2017-10-19 | 2017-10-19 |
 | Philips | 4K Razor Slim OLED TV powered by Android TV | QM16XE_UB | QM161E |  |  | 2017-10-19 | 2017-10-19 |
-| Philips | 4K UHD Razor Slim LED TV powered by Android\xe2\x84\xa2 | QV151E | QV151E |  |  | 2017-10-19 | 2017-10-19 |
+| Philips | 4K UHD Razor Slim LED TV powered by Android™ | QV151E | QV151E |  |  | 2017-10-19 | 2017-10-19 |
 | Philips | 4K Ultra Slim LED TV powered by Android | QM16XE_U | QM163E |  |  | 2017-10-19 | 2017-10-19 |
 | Philips | Android 2014 | philipstv | AND1E |  |  | 2017-10-19 | 2017-10-19 |
 | Philips | FHD Ultra Slim LED TV Powered by Android | QM16XE_F | QM164E |  |  | 2017-10-19 | 2017-10-19 |
@@ -909,8 +909,8 @@
 | Philips | X818 | X818_RU | Philips X818 |  |  | 2017-10-19 | 2017-10-19 |
 | Philips | Xenium S386 | S386 | Philips S386 |  |  | 2017-10-19 | 2017-10-19 |
 | Philips | Xenium V377 | Philips_V377 | Philips V377 |  |  | 2017-10-19 | 2017-10-19 |
-| Pioneer | B.PRO\xe3\x82\xab\xe3\x83\xbc\xe3\x83\x8a\xe3\x83\x93 | AVIC_BX500 | jupiter |  |  | 2017-10-19 | 2017-10-19 |
-| Pioneer | B.PRO\xe3\x82\xab\xe3\x83\xbc\xe3\x83\x8a\xe3\x83\x93 | AVIC_BZ500 | jupiter |  |  | 2017-10-19 | 2017-10-19 |
+| Pioneer | B.PROカーナビ | AVIC_BX500 | jupiter |  |  | 2017-10-19 | 2017-10-19 |
+| Pioneer | B.PROカーナビ | AVIC_BZ500 | jupiter |  |  | 2017-10-19 | 2017-10-19 |
 | Pioneer | CyberNavi | AVIC_CE900 | jupiter |  |  | 2017-10-19 | 2017-10-19 |
 | Pioneer | CyberNavi | AVIC_CE901 | jupiter |  |  | 2017-10-19 | 2017-10-19 |
 | Pioneer | CyberNavi | AVIC_CL900 | jupiter |  |  | 2017-10-19 | 2017-10-19 |
@@ -925,7 +925,7 @@
 | Pioneer | XDP-300R | Fu_Zin2R_32 | XDP-300R |  |  | 2017-10-19 | 2017-10-19 |
 | Pixela | KSTB5043 | KSTB5043 | KSTB5043 |  |  | 2017-10-19 | 2017-10-19 |
 | Plaisio | A2 | Turbo-X_A2 | Turbo-X_A2 |  |  | 2017-10-19 | 2017-10-19 |
-| Plaisio | Calltab 7\xe2\x80\x9d | Calltab7inch | Calltab7inch |  |  | 2017-10-19 | 2017-10-19 |
+| Plaisio | Calltab 7” | Calltab7inch | Calltab7inch |  |  | 2017-10-19 | 2017-10-19 |
 | Plaisio | Calltab2GB10.1" | Calltab2GB10 | Calltab2GB10 |  |  | 2017-10-19 | 2017-10-19 |
 | Plaisio | CalltabII 10.1 | E1031H2C | Calltab10.1 |  |  | 2017-10-19 | 2017-10-19 |
 | Plaisio | Coral II | CoralII | Turbo-X Coral II |  |  | 2017-10-19 | 2017-10-19 |
@@ -1071,7 +1071,7 @@
 | Positivo | Twist | S520 | Positivo Twist S |  |  | 2017-10-19 | 2017-10-19 |
 | Positivo | Union US2070 | US2070 | Positivo US2070 |  |  | 2017-10-19 | 2017-10-19 |
 | Positivo | X400 | X400 | X400 |  |  | 2017-10-19 | 2017-10-19 |
-| Positivo | Ypy 07FTB | YPY_07FTB | POSITIVO TABLET YPY 07FTB PM BEL\xc3\x89M |  |  | 2017-10-19 | 2017-10-19 |
+| Positivo | Ypy 07FTB | YPY_07FTB | POSITIVO TABLET YPY 07FTB PM BELÉM |  |  | 2017-10-19 | 2017-10-19 |
 | Positivo | Ypy 07FTB | YPY_07FTB | YPY_07FTB |  |  | 2017-10-19 | 2017-10-19 |
 | Positivo | Ypy 07FTBF | YPY_07FTBF | YPY_07FTBF |  |  | 2017-10-19 | 2017-10-19 |
 | Positivo | Ypy 07STB | YPY_07STB | YPY_07STB |  |  | 2017-10-19 | 2017-10-19 |

@@ -774,10 +774,10 @@
 | Asus |  | EP71 | ME171 |  |  | 2017-10-19 | 2017-10-19 |
 | Asus |  | TF300T | ASUS Transformer Pad TF300T |  |  | 2017-10-19 | 2017-10-19 |
 | Asus |  | ventana | Transformer TF101 |  |  | 2017-10-19 | 2017-10-19 |
-| Asus | \xe9\xa3\x9b\xe9\xa6\xac (T500KLC) | ASUS_X003 | ASUS_X003 |  |  | 2017-10-19 | 2017-10-19 |
-| Asus | \xe9\xa3\x9b\xe9\xa6\xac (T500TLT) | ASUS_X002 | ASUS_X002 |  |  | 2017-10-19 | 2017-10-19 |
-| Asus | \xe9\xa3\x9b\xe9\xa6\xac 5000 (T551TLC) | ASUS_X005 | ASUS_X005 |  |  | 2017-10-19 | 2017-10-19 |
-| Asus | \xe9\xa3\x9b\xe9\xa6\xac2 Plus (T550KLC) | ASUS_X550 | ASUS_X550 |  |  | 2017-10-19 | 2017-10-19 |
+| Asus | 飛馬 (T500KLC) | ASUS_X003 | ASUS_X003 |  |  | 2017-10-19 | 2017-10-19 |
+| Asus | 飛馬 (T500TLT) | ASUS_X002 | ASUS_X002 |  |  | 2017-10-19 | 2017-10-19 |
+| Asus | 飛馬 5000 (T551TLC) | ASUS_X005 | ASUS_X005 |  |  | 2017-10-19 | 2017-10-19 |
+| Asus | 飛馬2 Plus (T550KLC) | ASUS_X550 | ASUS_X550 |  |  | 2017-10-19 | 2017-10-19 |
 | Asus | ASUS Chromebook Flip C302 | cave_cheets | ASUS Chromebook Flip C302 |  |  | 2017-10-19 | 2017-10-19 |
 | Asus | ASUS Live (G500TG) | ASUS_Z00YD | ASUS_Z00YD |  |  | 2017-10-19 | 2017-10-19 |
 | Asus | ASUSPRO Tablet (M1000C) | P023_M | P023 |  |  | 2017-10-19 | 2017-10-19 |
@@ -1178,13 +1178,13 @@
 | Barel | Cavion Solid 4.5 | Cavion_Solid_4_5 | Cavion_Solid_4_5 |  |  | 2017-10-19 | 2017-10-19 |
 | Barnes and Noble | HD | hummingbird | BNTV400 |  |  | 2017-10-19 | 2017-10-19 |
 | Barnes and Noble | HD+ | ovation | BNTV600 |  |  | 2017-10-19 | 2017-10-19 |
-| Barnes and Noble | NOOK\xc2\xae HD | hummingbird | BNTV400 |  |  | 2017-10-19 | 2017-10-19 |
-| Barnes and Noble | NOOK\xc2\xae HD+ | ovation | BNTV600 |  |  | 2017-10-19 | 2017-10-19 |
+| Barnes and Noble | NOOK® HD | hummingbird | BNTV400 |  |  | 2017-10-19 | 2017-10-19 |
+| Barnes and Noble | NOOK® HD+ | ovation | BNTV600 |  |  | 2017-10-19 | 2017-10-19 |
 | Becrypt | Convex 430 | granite | Becrypt Convex 430 |  |  | 2017-10-19 | 2017-10-19 |
 | Becrypt | Convex 430 | granite | Becrypt Indigo 430 |  |  | 2017-10-19 | 2017-10-19 |
-| Beeline | Beeline\xc2\xa0Pro 4 | Beeline_Pro_4 | Beeline Pro 4 |  |  | 2017-10-19 | 2017-10-19 |
-| Beeline | Beeline\xc2\xa0Tab Fast 2 | z701 | Beeline Tab Fast 2 |  |  | 2017-10-19 | 2017-10-19 |
-| Beeline | Beeline\xc2\xa0Tab\xc2\xa0Pro | BeelineTabPro | Beeline Tab Pro |  |  | 2017-10-19 | 2017-10-19 |
+| Beeline | Beeline Pro 4 | Beeline_Pro_4 | Beeline Pro 4 |  |  | 2017-10-19 | 2017-10-19 |
+| Beeline | Beeline Tab Fast 2 | z701 | Beeline Tab Fast 2 |  |  | 2017-10-19 | 2017-10-19 |
+| Beeline | Beeline Tab Pro | BeelineTabPro | Beeline Tab Pro |  |  | 2017-10-19 | 2017-10-19 |
 | Beeline | Fast HD | Beeline_Fast_HD | Beeline Fast HD |  |  | 2017-10-19 | 2017-10-19 |
 | Beeline | Fast | Fast | Beeline Fast |  |  | 2017-10-19 | 2017-10-19 |
 | Beeline | Fast-Plus | Fast_Plus | Beeline Fast + |  |  | 2017-10-19 | 2017-10-19 |
@@ -1312,7 +1312,7 @@
 | Blu | ADVANCE 5.0 HD | Advance_5_0_HD | Advance 5.0 HD |  |  | 2017-10-19 | 2017-10-19 |
 | Blu | Advance A5 LTE | A0010WW | Advance A5 LTE |  |  | 2017-10-19 | 2017-10-19 |
 | Blu | Advance A6 | A190 | Advance A6 |  |  | 2017-10-19 | 2017-10-19 |
-| Blu | Advance\xc2\xa0A5\xc2\xa0Plus\xc2\xa0LTE | A0031WW | Advance A5 Plus LTE |  |  | 2017-10-19 | 2017-10-19 |
+| Blu | Advance A5 Plus LTE | A0031WW | Advance A5 Plus LTE |  |  | 2017-10-19 | 2017-10-19 |
 | Blu | Dash 4.5 | D730 | Dash 4.5 |  |  | 2017-10-19 | 2017-10-19 |
 | Blu | Dash G | Dash_G | Dash G |  |  | 2017-10-19 | 2017-10-19 |
 | Blu | DASH L2 | BLU_DASH_L2 | BLU DASH L2 |  |  | 2017-10-19 | 2017-10-19 |
@@ -1529,7 +1529,7 @@
 | BQru | BQ-5202 | BQru-5202 | BQru-5202 |  |  | 2017-10-19 | 2017-10-19 |
 | BQru | BQ-5203 Shark | BQru-5203 | BQru-5203 |  |  | 2017-10-19 | 2017-10-19 |
 | BQru | BQ-5204 Strike Selfie | BQru-5204 | BQru-5204 |  |  | 2017-10-19 | 2017-10-19 |
-| BQru | BQ-5504\xc2\xa0Strike\xc2\xa0Selfie\xc2\xa0Max | BQru_5504 | BQru-5504 |  |  | 2017-10-19 | 2017-10-19 |
+| BQru | BQ-5504 Strike Selfie Max | BQru_5504 | BQru-5504 |  |  | 2017-10-19 | 2017-10-19 |
 | BQru | BQ-5510 Strike Power Max 4G | BQru_5510 | BQru-5510 |  |  | 2017-10-19 | 2017-10-19 |
 | BQru | BQ-5521 STRIKE POWER MAX | BQru-5521 | BQru-5521 |  |  | 2017-10-19 | 2017-10-19 |
 | BQru | BQ-5590 Spring | BQru_5590 | BQru_5590 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2227,8 +2227,8 @@
 | DL | i-Player_KIDS | Tablet_DL_3910 | Tablet_DL_3910 |  |  | 2017-10-19 | 2017-10-19 |
 | DL | Mobi Tab | Tablet_DL_2810 | Tablet_DL_2810 |  |  | 2017-10-19 | 2017-10-19 |
 | DL | Mobi Tab | Tablet_DL_2811 | Tablet_DL_2811 |  |  | 2017-10-19 | 2017-10-19 |
-| DL | Sabich\xc3\xb5es | Tablet_DL_3722 | Tablet_DL_3722 |  |  | 2017-10-19 | 2017-10-19 |
-| DL | TabF\xc3\xa1cil | Tablet_DL_2820 | Tablet_DL_2820 |  |  | 2017-10-19 | 2017-10-19 |
+| DL | Sabichões | Tablet_DL_3722 | Tablet_DL_3722 |  |  | 2017-10-19 | 2017-10-19 |
+| DL | TabFácil | Tablet_DL_2820 | Tablet_DL_2820 |  |  | 2017-10-19 | 2017-10-19 |
 | DL | TabKids Plus | TabKids_Plus | Tablet DL 3411 |  |  | 2017-10-19 | 2017-10-19 |
 | DL | TabPhone 710 pro | Tablet_DL_3421 | Tablet DL 3421 |  |  | 2017-10-19 | 2017-10-19 |
 | DL | X_Quad_Pro | X_Quad_Pro | Tablet DL 3410 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2785,7 +2785,7 @@
 | Garmin | nuvi 3595 | scorpio | nuvi 3595 |  |  | 2017-10-19 | 2017-10-19 |
 | Garmin | Nuvifone | a50 | Garmin-Asus A50 |  |  | 2017-10-19 | 2017-10-19 |
 | Garmin | Nuvifone | a50 | Garminfone |  |  | 2017-10-19 | 2017-10-19 |
-| Garmin | Nuvifone | a50 | n\xc3\xbcvifone A50 |  |  | 2017-10-19 | 2017-10-19 |
+| Garmin | Nuvifone | a50 | nüvifone A50 |  |  | 2017-10-19 | 2017-10-19 |
 | Garmin | Nuvifone | a50 | nuvifone A50 |  |  | 2017-10-19 | 2017-10-19 |
 | GD Classbook | TA80CA1 | TA80CA1_2 | TA80CA1 |  |  | 2017-10-19 | 2017-10-19 |
 | Geanee | FXC-5A | FXC-5A | FXC-5A |  |  | 2017-10-19 | 2017-10-19 |
@@ -2805,7 +2805,7 @@
 | General Mobile | GM5 Plus | gm5plus_s_sprout | GM 5 Plus |  |  | 2017-10-19 | 2017-10-19 |
 | GeneralMobile | E-Tab10 | blue_eye | E-Tab10 |  |  | 2017-10-19 | 2017-10-19 |
 | Geniatech | Enjoy TV Quad-Core Box | ATV581 | Enjoy TV Quad-Core Box |  |  | 2017-10-19 | 2017-10-19 |
-| Gesellschaft f\xc3\xbcr SMK mBH | Tough Mobile | granite | CP600 |  |  | 2017-10-19 | 2017-10-19 |
+| Gesellschaft für SMK mBH | Tough Mobile | granite | CP600 |  |  | 2017-10-19 | 2017-10-19 |
 | Getac | MX50 | mx50 | mx50 |  |  | 2017-10-19 | 2017-10-19 |
 | Getac | Z710 | z710 | Getac Z710 |  |  | 2017-10-19 | 2017-10-19 |
 | Getac | ZX70 | zx70 | ZX70 |  |  | 2017-10-19 | 2017-10-19 |

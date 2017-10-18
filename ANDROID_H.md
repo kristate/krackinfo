@@ -1048,7 +1048,7 @@
 | HTC | Desire 825 | htc_a56uhl | HTC 2PUK2 |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | Desire 825 | htc_a56uhl | HTC Desire 825 |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | Desire 825 | htc_a56uhl | HTC_D825u |  |  | 2017-10-19 | 2017-10-19 |
-| HTC | Desire 826 4G \xe7\xa7\xbb\xe5\x8b\x95\xe5\x85\xac\xe9\x96\x8b\xe7\x89\x88(\xe5\x8f\x8c\xe5\x8d\xa1\xe5\x8f\x8c\xe5\xbe\x85) | htc_a52dtul | HTC D826t |  |  | 2017-10-19 | 2017-10-19 |
+| HTC | Desire 826 4G 移動公開版(双卡双待) | htc_a52dtul | HTC D826t |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | Desire 826 dual sim | htc_a52dtul | HTC Desire 826 dual sim |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | Desire 826 dual sim | htc_a52dwgl | HTC Desire 826 dual sim |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | Desire 826 | htc_a52dtul | HTC D826w |  |  | 2017-10-19 | 2017-10-19 |
@@ -1212,9 +1212,9 @@
 | HTC | Nexus 9 LTE | flounder_lte | Nexus 9 |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | Nexus 9 | flounder | Nexus 9 |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | Nexus One | passion | Nexus One |  |  | 2017-10-19 | 2017-10-19 |
-| HTC | One (E8) \xe6\x97\xb6\xe5\xb0\x9a\xe7\x89\x88   4G LTE\xe5\x8f\x8c\xe5\x8d\xa1\xe5\x8f\x8c\xe5\xbe\x85\xe8\x81\x94\xe9\x80\x9a\xe7\x89\x88 | htc_mecdug | HTC M8Sw |  |  | 2017-10-19 | 2017-10-19 |
-| HTC | One (E8) \xe6\x97\xb6\xe5\xb0\x9a\xe7\x89\x88 | htc_mectl | HTC M8St |  |  | 2017-10-19 | 2017-10-19 |
-| HTC | One (E8) \xe6\x99\x82\xe5\xb0\x9a\xe7\x89\x884G LTE \xe7\xa7\xbb\xe5\x8a\xa8\xe7\x89\x88 | htc_mectl | HTC M8Ss |  |  | 2017-10-19 | 2017-10-19 |
+| HTC | One (E8) 时尚版   4G LTE双卡双待联通 | htc_mecdug | HTC M8Sw |  |  | 2017-10-19 | 2017-10-19 |
+| HTC | One (E8) 时尚版 | htc_mectl | HTC M8St |  |  | 2017-10-19 | 2017-10-19 |
+| HTC | One (E8) 時尚版4G LTE 移动版 | htc_mectl | HTC M8Ss |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | One (E8) dual sim | htc_mecdug | HTC One_E8 dual sim |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | One (E8) dual sim | htc_mecdug | HTC_M8Sy |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | One (E8) dual sim | htc_mecdwg | HTC 0PAJ4 |  |  | 2017-10-19 | 2017-10-19 |
@@ -1230,7 +1230,7 @@
 | HTC | One (M8 EYE) | htc_melsuhl | HTC 0P6B900 |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | One (M8 EYE) | htc_melsuhl | HTC One_M8 Eye |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | One (M8 Eye) | htc_melsuhl | HTC One_M8 Eye |  |  | 2017-10-19 | 2017-10-19 |
-| HTC | One (M8) (4G LTE \xe5\x8f\x8c\xe5\x8d\xa1\xe5\x8f\x8c\xe5\xbe\x85 \xe8\x81\x94\xe9\x80\x9a\xe7\x89\x88) | htc_m8dug | HTC M8e |  |  | 2017-10-19 | 2017-10-19 |
+| HTC | One (M8) (4G LTE 双卡双待 联通版) | htc_m8dug | HTC M8e |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | One (M8) | htc_m8 | HTC M8w |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | One (M8) | htc_m8 | HTC One_M8 |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | One (M8) | htc_m8 | HTC_0P6B |  |  | 2017-10-19 | 2017-10-19 |
@@ -1381,7 +1381,7 @@
 | HTC | Sensation XL with Beats Audio X315e | runnymede | Sensation XL with Beats Audio |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | T329d | protodcg | HTC T329d |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | T528w | cp2dug | HTC Desire L dual sim |  |  | 2017-10-19 | 2017-10-19 |
-| HTC | Telstra Signature\xe2\x84\xa2 Premium | htc_hiaeuhl | HTC 2PQ910 |  |  | 2017-10-19 | 2017-10-19 |
+| HTC | Telstra Signature™ Premium | htc_hiaeuhl | HTC 2PQ910 |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | Thunderbolt | mecha | ADR6400L |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | Thunderbolt | mecha | HTC Mecha |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | U Play | htc_alpine_dugl | HTC U Play |  |  | 2017-10-19 | 2017-10-19 |
@@ -1678,75 +1678,75 @@
 | Huawei |  | U8500 | HUAWEI IDEOS U8500 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei |  | U8500 | MTC_EVO |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei |  | u8800 | u8800 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbfM3\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 (8\xe8\x8b\xb1\xe5\xaf\xb8\xef\xbc\x89 | HWCPN-Q | 701HW |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbfM3\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 (8\xe8\x8b\xb1\xe5\xaf\xb8\xef\xbc\x89 | HWCPN-Q | CPN-AL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbfM3\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 (8\xe8\x8b\xb1\xe5\xaf\xb8\xef\xbc\x89 | HWCPN-Q | CPN-L09 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbfM3\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 (8\xe8\x8b\xb1\xe5\xaf\xb8\xef\xbc\x89 | HWCPN-Q | CPN-W09 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe6\x8f\xbd\xe9\x98\x85M2\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x887.0 | hwple703l | PLE-701L |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe6\x8f\xbd\xe9\x98\x85M2\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x887.0 | hwple703l | PLE-703L |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab6 | HWNCE-L6750 | NCE-AL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab6 | HWNCE-L6750 | NCE-AL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab6 | HWNCE-L6750 | NCE-TL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab6S | HWDIG-L8940 | DIG-AL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab6S | HWDIG-L8940 | DIG-TL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab7 | HWSLA-Q | SLA-AL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab7 | HWSLA-Q | SLA-TL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xbaG9\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWVNS-H | HUAWEI VNS-DL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe5\x8d\x8e\xe4\xb8\xbaG9\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWVNS-H | HUAWEI VNS-TL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80 V9 play | HWJMM-Q | JMM-AL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80 V9 play | HWJMM-Q | JMM-AL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80 V9 play | HWJMM-Q | JMM-TL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80 V9 play | HWJMM-Q | JMM-TL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x804A | hwSCL-Q | SCL-AL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x805X | HNKIW-Q | KIW-AL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x805X | HNKIW-Q | KIW-AL20 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x805X | HNKIW-Q | KIW-CL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x805X | HNKIW-Q | KIW-TL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x805X | HNKIW-Q | KIW-UL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWPRA-H | PRA-AL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWPRA-H | PRA-AL00X |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWPRA-H | PRA-TL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe4\xba\xab7 Plus | HWTRT-Q | TRT-AL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe4\xba\xab7 Plus | HWTRT-Q | TRT-AL00A |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe4\xba\xab7 Plus | HWTRT-Q | TRT-TL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe4\xba\xab7 Plus | HWTRT-Q | TRT-TL10A |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9 6X | HWBLN-H | BLN-AL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9 6X | HWBLN-H | BLN-AL20 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9 6X | HWBLN-H | BLN-AL30 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9 6X | HWBLN-H | BLN-AL40 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9 6X | HWBLN-H | BLN-TL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9 6X | HWBLN-H | BLN-TL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa94C | hwCHM-H | CHM-TL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa94C | hwCHM-H | CHM-TL00H |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa94C | hwCHM-H | CHM-UL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa94X | hnCHE-H | CHE-TL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa94X | hnCHE-H | CHE-TL00H |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa95A | HNCAM-H | CAM-TL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa95A | HNCAM-H | CAM-TL00H |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa95A | HNCAM-H | CAM-UL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa95A | HNCAM-Q | CAM-AL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa95A | HNCAM-Q | CAM-CL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa95A | HWCAM-H | CAM-TL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa95A | HWCAM-H | CAM-TL00H |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa95A | HWCAM-H | CAM-UL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa95A | HWCAM-Q | CAM-AL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa95C | HNNEM-H | NEM-AL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa95C | HNNEM-H | NEM-TL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa95C | HNNEM-H | NEM-TL00H |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa95C | HNNEM-H | NEM-UL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa96 | HWMYA-L6737 | MYA-AL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa96 | HWMYA-L6737 | MYA-TL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa96A | HWDLI-Q | DLI-AL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9\xe5\xb9\xb3\xe6\x9d\xbf2 9.6 | HWAGS-Q | AGS-L03 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9\xe5\xb9\xb3\xe6\x9d\xbf2 9.6 | HWAGS-Q | AGS-L09 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9\xe5\xb9\xb3\xe6\x9d\xbf2 9.6 | HWAGS-Q | AGS-W09 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80Note8 | hwedison | EDI-AL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe8\x8d\xa3\xe8\x80\x80Note8 | hwedison | EDI-DL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe9\xba\xa6\xe8\x8a\x924 | hwRIO-AL00 | HUAWEI RIO-AL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe9\xba\xa6\xe8\x8a\x925 | HWMLA | HUAWEI MLA-AL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe9\xba\xa6\xe8\x8a\x925 | HWMLA | HUAWEI MLA-AL10 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe9\xba\xa6\xe8\x8a\x925 | HWMLA | MLA-AL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | \xe9\xba\xa6\xe8\x8a\x925 | HWMLA | MLA-AL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为平板M3青春版 (8英寸) | HWCPN-Q | 701HW |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为平板M3青春版 (8英寸) | HWCPN-Q | CPN-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为平板M3青春版 (8英寸) | HWCPN-Q | CPN-L09 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为平板M3青春版 (8英寸) | HWCPN-Q | CPN-W09 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为揽阅M2青春版7.0 | hwple703l | PLE-701L |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为揽阅M2青春版7.0 | hwple703l | PLE-703L |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为畅享6 | HWNCE-L6750 | NCE-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为畅享6 | HWNCE-L6750 | NCE-AL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为畅享6 | HWNCE-L6750 | NCE-TL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为畅享6S | HWDIG-L8940 | DIG-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为畅享6S | HWDIG-L8940 | DIG-TL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为畅享7 | HWSLA-Q | SLA-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为畅享7 | HWSLA-Q | SLA-TL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为G9青春版 | HWVNS-H | HUAWEI VNS-DL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 华为G9青春版 | HWVNS-H | HUAWEI VNS-TL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀 V9 play | HWJMM-Q | JMM-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀 V9 play | HWJMM-Q | JMM-AL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀 V9 play | HWJMM-Q | JMM-TL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀 V9 play | HWJMM-Q | JMM-TL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀4A | hwSCL-Q | SCL-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀5X | HNKIW-Q | KIW-AL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀5X | HNKIW-Q | KIW-AL20 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀5X | HNKIW-Q | KIW-CL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀5X | HNKIW-Q | KIW-TL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀5X | HNKIW-Q | KIW-UL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀8青春版 | HWPRA-H | PRA-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀8青春版 | HWPRA-H | PRA-AL00X |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀8青春版 | HWPRA-H | PRA-TL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅享7 Plus | HWTRT-Q | TRT-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅享7 Plus | HWTRT-Q | TRT-AL00A |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅享7 Plus | HWTRT-Q | TRT-TL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅享7 Plus | HWTRT-Q | TRT-TL10A |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩 6X | HWBLN-H | BLN-AL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩 6X | HWBLN-H | BLN-AL20 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩 6X | HWBLN-H | BLN-AL30 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩 6X | HWBLN-H | BLN-AL40 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩 6X | HWBLN-H | BLN-TL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩 6X | HWBLN-H | BLN-TL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩4C | hwCHM-H | CHM-TL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩4C | hwCHM-H | CHM-TL00H |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩4C | hwCHM-H | CHM-UL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩4X | hnCHE-H | CHE-TL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩4X | hnCHE-H | CHE-TL00H |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩5A | HNCAM-H | CAM-TL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩5A | HNCAM-H | CAM-TL00H |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩5A | HNCAM-H | CAM-UL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩5A | HNCAM-Q | CAM-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩5A | HNCAM-Q | CAM-CL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩5A | HWCAM-H | CAM-TL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩5A | HWCAM-H | CAM-TL00H |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩5A | HWCAM-H | CAM-UL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩5A | HWCAM-Q | CAM-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩5C | HNNEM-H | NEM-AL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩5C | HNNEM-H | NEM-TL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩5C | HNNEM-H | NEM-TL00H |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩5C | HNNEM-H | NEM-UL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩6 | HWMYA-L6737 | MYA-AL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩6 | HWMYA-L6737 | MYA-TL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩6A | HWDLI-Q | DLI-AL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩平板2 9.6 | HWAGS-Q | AGS-L03 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩平板2 9.6 | HWAGS-Q | AGS-L09 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀畅玩平板2 9.6 | HWAGS-Q | AGS-W09 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀Note8 | hwedison | EDI-AL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 荣耀Note8 | hwedison | EDI-DL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 麦芒4 | hwRIO-AL00 | HUAWEI RIO-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 麦芒5 | HWMLA | HUAWEI MLA-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 麦芒5 | HWMLA | HUAWEI MLA-AL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 麦芒5 | HWMLA | MLA-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | 麦芒5 | HWMLA | MLA-AL10 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | A199 | hwa199 | HUAWEI A199 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Ascend D | hwu9500 | U9500 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Ascend G510 | hwG510-0251 | HUAWEI G510-0251 |  |  | 2017-10-19 | 2017-10-19 |
@@ -1922,7 +1922,7 @@
 | Huawei | G9 Plus | HWMLA | HUAWEI MLA-UL00 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | G9 Plus | HWMLA | MLA-TL00 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | G9 Plus | HWMLA | MLA-UL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | G9\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWVNS-Q | HUAWEI VNS-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | G9青春版 | HWVNS-Q | HUAWEI VNS-AL00 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | GR3 2017 | HWDIG-L8940 | DIG-L01 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | GR3 2017 | HWDIG-L8940 | DIG-L21 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | GR3 2017 | HWDIG-L8940 | DIG-L22 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2178,8 +2178,8 @@
 | Huawei | nova 2 Plus | HWBAC | BAC-TL00 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | nova 2 | HWPIC | PIC-AL00 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | nova 2 | HWPIC | PIC-TL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | nova \xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88\xe6\x9c\xac | HWWAS-H | WAS-AL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | nova \xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88\xe6\x9c\xac | HWWAS-H | WAS-TL10 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | nova 青春版本 | HWWAS-H | WAS-AL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | nova 青春版本 | HWWAS-H | WAS-TL10 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | nova lite | HWPRA-H | PRA-LX2 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | nova lite | HWPRA-H | PRA-LX3 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | nova plus | HWMLA | HUAWEI MLA-L01 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2237,8 +2237,8 @@
 | Huawei | P7 | hwp7 | HUAWEI P7-L11 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | P7 | hwp7 | HUAWEI P7-L12 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | P7-L09 | hwp7 | HUAWEI P7-L09 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | P8 \xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | hwALE-H | ALE-TL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | P8 \xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | hwALE-H | ALE-UL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | P8 青春版 | hwALE-H | ALE-TL00 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | P8 青春版 | hwALE-H | ALE-UL00 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | P8 lite 2017 | HWPRA-H | PRA-LA1 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | P8 lite 2017 | HWPRA-H | PRA-LX1 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | P8 Lite | hwALE-H | 503HW |  |  | 2017-10-19 | 2017-10-19 |
@@ -2491,7 +2491,7 @@
 | Huawei | Y5II | HWCUN-U6582 | HUAWEI CUN-U29 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Y6 2017 | HWMYA-L6737 | MYA-L11 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Y6 2017 | HWMYA-L6737 | MYA-L41 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | Y6 \xe2\x85\xa1 Compact | HWLYO-L6735 | HUAWEI LYO-L01 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | Y6 II Compact | HWLYO-L6735 | HUAWEI LYO-L01 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Y6 Elite | HWLYO-L6735 | HUAWEI LYO-L02 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Y6 Pro | HWTIT-AL00 | HUAWEI TIT-AL00 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Y6 Pro | HWTIT-L6735 | HUAWEI TIT-AL00 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2537,7 +2537,7 @@
 | Huawei | Y635-L21 | hwY635 | Y635-L21 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Y635-TL00 | hwY635 | HUAWEI Y635-TL00 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Y635-TL00 | hwY635 | Y635-TL00 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | Y6\xe2\x85\xa1Compact | HWLYO-L6735 | HUAWEI LYO-L03 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | Y6 II Compact | HWLYO-L6735 | HUAWEI LYO-L03 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Y6II | HWCAM-H | CAM-L03 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Y6II | HWCAM-H | CAM-L21 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Y6II | HWCAM-H | CAM-L23 |  |  | 2017-10-19 | 2017-10-19 |

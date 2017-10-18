@@ -222,7 +222,7 @@
 | INQ Mobile |  | msm7627_surf | INQ Mayfair (EU) |  |  | 2017-10-19 | 2017-10-19 |
 | Insignia | Flex 10.1 | ns_14t004 | NS-14T004 |  |  | 2017-10-19 | 2017-10-19 |
 | Insignia | Flex 8" | ns_15at08 | NS-15AT08 |  |  | 2017-10-19 | 2017-10-19 |
-| Insignia | FLEX 8\xe2\x80\x99\xe2\x80\x99 LTE Android Tablet | ns_15t8lte | NS-15T8LTE |  |  | 2017-10-19 | 2017-10-19 |
+| Insignia | FLEX 8" LTE Android Tablet | ns_15t8lte | NS-15T8LTE |  |  | 2017-10-19 | 2017-10-19 |
 | Insignia | MID7802RA | MID7802RA | NS-P16AT785HD |  |  | 2017-10-19 | 2017-10-19 |
 | Insignia | NS-14T002 | ns_14t002 | NS-14T002 |  |  | 2017-10-19 | 2017-10-19 |
 | Insignia | NS-15AT07 | NS-15AT07 | NS-15AT07 |  |  | 2017-10-19 | 2017-10-19 |
@@ -569,7 +569,7 @@
 | Kruger&Matz | KM1066 | EAGLE_1066 | KM1066 |  |  | 2017-10-19 | 2017-10-19 |
 | Kruger&Matz | KM1067 | EAGLE_1067 | KM1067 |  |  | 2017-10-19 | 2017-10-19 |
 | Kruger&Matz | LIVE 5 PLUS | LIVE_5_PLUS | LIVE 5 PLUS |  |  | 2017-10-19 | 2017-10-19 |
-| Kruger&Matz | LIVE 5 | LIVE_5 | Kr\xc3\xbcger&Matz _LIVE5_KM0450 |  |  | 2017-10-19 | 2017-10-19 |
+| Kruger&Matz | LIVE 5 | LIVE_5 | Krüger&Matz _LIVE5_KM0450 |  |  | 2017-10-19 | 2017-10-19 |
 | Kruger&Matz | MOVE 7 | MOVE_7 | MOVE_7 |  |  | 2017-10-19 | 2017-10-19 |
 | KT Tech |  | s120 | KM-S120 |  |  | 2017-10-19 | 2017-10-19 |
 | KT Tech |  | s200 | KM-S200 |  |  | 2017-10-19 | 2017-10-19 |
@@ -1226,11 +1226,11 @@
 | Lenovo | LenovoTB-X304F/Lenovo TAB4 | X304F | Lenovo TB-X304F |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | LenovoTB-X304F/Lenovo TAB4 | X304F | TB-X304F |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | LenovoTB-X704F/Lenovo TAB4 10 Plus | X704F | Lenovo TB-X704F |  |  | 2017-10-19 | 2017-10-19 |
-| Lenovo | LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\xef\xbc\x9bAQUOS 58U1; AQUOS 60LX765A | jazz | AQUOS 58U1 |  |  | 2017-10-19 | 2017-10-19 |
-| Lenovo | LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\xef\xbc\x9bAQUOS 58U1; AQUOS 60LX765A | jazz | AQUOS 60LX765A |  |  | 2017-10-19 | 2017-10-19 |
-| Lenovo | LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\xef\xbc\x9bAQUOS 58U1; AQUOS 60LX765A | jazz | AQUOS 60UE20A |  |  | 2017-10-19 | 2017-10-19 |
-| Lenovo | LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\xef\xbc\x9bAQUOS 58U1; AQUOS 60LX765A | jazz | LenovoTV 40S9 |  |  | 2017-10-19 | 2017-10-19 |
-| Lenovo | LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\xef\xbc\x9bAQUOS 58U1; AQUOS 60LX765A | jazz | LenovoTV 58S9 |  |  | 2017-10-19 | 2017-10-19 |
+| Lenovo | LenovoTV 40S9; LenovoTV 50S9; AQUOS 40U1; AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A | jazz | AQUOS 58U1 |  |  | 2017-10-19 | 2017-10-19 |
+| Lenovo | LenovoTV 40S9; LenovoTV 50S9; AQUOS 40U1; AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A | jazz | AQUOS 60LX765A |  |  | 2017-10-19 | 2017-10-19 |
+| Lenovo | LenovoTV 40S9; LenovoTV 50S9; AQUOS 40U1; AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A | jazz | AQUOS 60UE20A |  |  | 2017-10-19 | 2017-10-19 |
+| Lenovo | LenovoTV 40S9; LenovoTV 50S9; AQUOS 40U1; AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A | jazz | LenovoTV 40S9 |  |  | 2017-10-19 | 2017-10-19 |
+| Lenovo | LenovoTV 40S9; LenovoTV 50S9; AQUOS 40U1; AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A | jazz | LenovoTV 58S9 |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | LenovoTV 50S52;AQUOS LCD-50S1A | bumblebee | AQUOS 50S1 |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | LenovoTV 50S52;AQUOS LCD-50S1A | bumblebee | LenovoTV 50S52 |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | Lenvo S960 | S960_ROW | Lenovo S960 |  |  | 2017-10-19 | 2017-10-19 |
@@ -1648,16 +1648,16 @@
 | LGE | G pad 8.0 LTE | e8lte | LG-V490 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | G Pad 8.0 | e8wifi | LG-V480 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | G pad 8.0 | e8wifi | LG-V480 |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | G Pad \xe2\x85\xa1 10.1 FHD 4G LTE | t1lte | LG-V935 |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | G Pad \xe2\x85\xa1 10.1 FHD 4G LTE | t1lte | LG-V935T |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | G Pad \xe2\x85\xa1 10.1 | t1lte | LGUK932 |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | G Pad II 10.1 FHD 4G LTE | t1lte | LG-V935 |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | G Pad II 10.1 FHD 4G LTE | t1lte | LG-V935T |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | G Pad II 10.1 | t1lte | LGUK932 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | G Pad II 8.0 | t8wifi | LG-V498 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | G Pad II 8.0 | t8wifi | LG-V498S1 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | G Pad II 8.0 | t8wifi | LG-V498S2 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | G Pad III 8.0 Homeboy | b6 | LG-P451L |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | G PAD\xe2\x85\xa2 10.1 | th10 | LG-X760 |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | G PAD\xe2\x85\xa2 10.1 | th10 | LG-X760E |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | G PAD\xe2\x85\xa2 10.1 | th10 | LG-X760W |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | G PAD III 10.1 | th10 | LG-X760 |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | G PAD III 10.1 | th10 | LG-X760E |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | G PAD III 10.1 | th10 | LG-X760W |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | G Pro Lite | luv90ds | LG-D685 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | G Pro Lite | luv90ds | LG-D686 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | G Pro Lite | luv90nfc | LG-D683 |  |  | 2017-10-19 | 2017-10-19 |
@@ -1846,8 +1846,8 @@
 | LGE | LG G Pad F 8.0 | t8lte | LG-V496 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG G Pad F 8.0 | t8lte | LG-V499 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG G Pad F7.0 | e7iilte | LGLK430 |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | LG G Pad F\xe2\x84\xa2 8.0 2nd Gen | t8lte | LG-AK495 |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | LG G Pad F\xe2\x84\xa2 8.0 2nd Gen | t8lte | LG-UK495 |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | LG G Pad F™ 8.0 2nd Gen | t8lte | LG-AK495 |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | LG G Pad F™ 8.0 2nd Gen | t8lte | LG-UK495 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG G Pad II 10.1 FHD | t1wifi | LG-V940 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG G Pad II 10.1 FHD | t1wifin | LG-V940n |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG G Pad II 8.0LTE | t8lte | LG-V497 |  |  | 2017-10-19 | 2017-10-19 |
@@ -1863,8 +1863,8 @@
 | LGE | LG G Pad X 8.0 | b3 | LG-V521 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG G Pad X 8.3 | altev2 | VK815 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG G Pad X2 8.0 PLUS | tf840 | LG-V530 |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | LG G Pad X\xc2\xae II 10.1 | b5 | LGUK750 |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | LG G Pad\xe2\x84\xa2 X 8.0 | b3 | LG-V520 |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | LG G Pad X® II 10.1 | b5 | LGUK750 |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | LG G Pad™ X 8.0 | b3 | LG-V520 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG G Stylo | g4stylus | LG-H634 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG G Stylo | g4stylusc | LGLS770 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG G Stylo | g4stylusds | LG-H630D |  |  | 2017-10-19 | 2017-10-19 |
@@ -1975,7 +1975,7 @@
 | LGE | LG G6 | lucye | VS988 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Gentle | cfm | LG-F660L |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Gpad X 10.1 | t1lte | LG-V930 |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | LG GRACE\xe2\x84\xa2 LTE | lv517 | LGL59BL |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | LG GRACE™ LTE | lv517 | LGL59BL |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Gx | omega | LG-F310L |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Gx | omegar | LG-F310LR |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Harmony | lv517 | LG-M257 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2045,14 +2045,14 @@
 | LGE | LG Leon | my50 | LG-H320 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Leon | my50ds | LG-H324 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Leon | my50ds | LG-H326 |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | LG LEON\xe2\x84\xa2 LTE | c50 | LG-H345 |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | LG LEON™ LTE | c50 | LG-H345 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Logos | c70 | LGUS550 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Lucid 2 | l1v | VS870 4G |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Lucid 3 | x5 | VS876 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Lucid | cayman | VS840 4G |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Lucid | cayman | VS840PP |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG M1 | m1ds | LG-K332 |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | LG Mach\xe2\x84\xa2 | l2s | LG-LS860 |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | LG Mach™ | l2s | LG-LS860 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Magna LTE | mc90 | LG-H520 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Magna | my90 | LG-H500 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Magna | my90 | LG-T540 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2066,7 +2066,7 @@
 | LGE | LG Optimus 3D | cosmopolitan | LG-SU760 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Optimus Elite | m3s | LG Optimus Elite |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Optimus Elite | m3s | LG-LS696 |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | LG Optimus ELITE\xe2\x84\xa2 | m3s | LG-VM696 |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | LG Optimus ELITE™ | m3s | LG-VM696 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Optimus F3Q | fx3q | LG-D520 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Optimus F7 | fx1 | LG-AS780 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Optimus F7 | fx1 | LG-LG870 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2264,7 +2264,7 @@
 | LGE | LG Thrill 4G | cosmopolitan | LG-P925 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Treasure | m1 | LGL51AL |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Treasure | m1 | LGL52VL |  |  | 2017-10-19 | 2017-10-19 |
-| LGE | LG Tribute 2\xe2\x84\xa2 | c50 | LGLS665 |  |  | 2017-10-19 | 2017-10-19 |
+| LGE | LG Tribute 2™ | c50 | LGLS665 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Tribute 5 | m1 | LGLS675 |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG U | bbg | LG-F820L |  |  | 2017-10-19 | 2017-10-19 |
 | LGE | LG Venice | u0_cdma | LG-LG730 |  |  | 2017-10-19 | 2017-10-19 |
