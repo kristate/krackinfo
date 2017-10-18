@@ -62,7 +62,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | MikroTik | X |  |  |
 | Mojo Networks | X |  |  |
 | Ruckus |  | X |  |
-| Synology |  | X |  |
+| Synology | [X](https://www.synology.com/en-us/releaseNote/DS414) |  |  |
 | Turris Omnia |  | X |  |
 | Ubiquiti | [X](https://community.ubnt.com/t5/UniFi-Updates-Blog/bg-p/Blog_UniFi) |  |  |
 | Ubuntu | [X](https://usn.ubuntu.com/usn/usn-3455-1/) |  |  |
