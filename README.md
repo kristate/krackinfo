@@ -128,6 +128,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | LineageOS | [LINK](https://review.lineageos.org/#/q/topic:krack-n) | N/A | 2017-10-17 | 2017-10-17 |  |
 | Linux | Patches: [LINK](https://w1.fi/security/2017-1/) | wpa_supplicant version 2.4 and above is affected. Linux's wpa_supplicant v2.6 is also vulnerable to the installation of an all-zero encryption key in the 4-way handshake. | 2017-10-16 | 2017-10-16 |  |
 | Logitech | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| Luxul | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Marantz | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Marvell Semiconductor | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | MediaTek | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
@@ -146,6 +147,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Open-Mesh / CloudTrax | [LINK](https://help.cloudtrax.com/hc/en-us/articles/115001567804-KRACK-Bulletin) | An update is expected to be delivered to all of those that use automatic updates by the end over October 17th. | 2017-10-17 | 2017-10-17 |  |
 | OpenBSD | [LINK](https://marc.info/?l=openbsd-announce&m=150410604407872&w=2) | Errata patches for the wireless stack have been released for OpenBSD 6.1 and 6.0. State transition errors could cause reinstallation of old WPA keys. Binary updates for the amd64 and i386 platforms are available via the syspatch utility. Source code patches can be found on the respective errata pages. As this affects the kernel, a reboot will be needed after patching. | 2017-10-16 | 2017-10-16 |  |
 | Pakedge | No Known Official Response | Via @spike411 "They have acknowledged they have received my enquiry but don’t have any info about the state of this vulnerability in their products." | 2017-10-16 | 2017-10-16 |  |
+| Peplink | [LINK](https://forum.peplink.com/t/security-advisory-krack-wpa2-vulnerability-vu-228519/12715) | "We are developing firmware to address the vulnerability." ... "ETA for the firmware releases is within two weeks." | 2017-10-17 | 2017-10-17 | 2017-08-28 |
 | pfSense | [LINK](https://redmine.pfsense.org/issues/7951) | N/A | 2017-10-17 | 2017-10-17 |  |
 | Pioneer | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Qualcomm Atheros | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
@@ -157,6 +159,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Sagemcom | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 | |
 | Samsung Mobile | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Sharp | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| SnapAV | No Known Official Response (See comment for unofficial response) | An email from G Paul Hess, Chief Product Officer states that Araknis Networks Wireless Access Points and Autonomic 1e Music Streamer are affected. "We are currently working on a firmware update, which will be available on SnapAV’s website, as well as OvrC." | 2017-10-16 | 2017-10-17 |  |
 | Sonicwall | [LINK](https://www.sonicwall.com/en-us/support/product-notification/wpa2-krack-exploit-a-sonicwall-alert) | N/A | 2017-10-17 | 2017-10-17 |  |
 | Sonos | [LINK](https://en.community.sonos.com/ask-a-question-228987/is-sonos-vulnerable-to-the-krack-attack-6792188) | We're aware of the issues with WPA2 and our team is working to determine any ramifications this may have for Sonos players. | 2017-10-18 | 2017-10-18 |  |
 | Sony | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
