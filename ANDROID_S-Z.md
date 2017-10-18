@@ -2107,7 +2107,7 @@
 | Sharp | LCD-V3A | v3a | LCD-V3A |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | LCD-xxBEL6A | lcd_xxbel6a | LCD-xxBEL6A |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | LCD-xxBEL8A | lcd_xxbel8a | LCD-xxBEL8A |  |  | 2017-10-19 | 2017-10-19 |
-| Sharp | LCD-xxSX970A,LCD-xxMY9100A | lcd_xxdem9a | LCD-xxDEM9A |  |  | 2017-10-19 | 2017-10-19 |
+| Sharp | LCD-xxSX970A, LCD-xxMY9100A | lcd_xxdem9a | LCD-xxDEM9A |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | lcd_xxbel7a_c | lcd_xxbel7a_c | LCD-xxBEL7A-C |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | LYNX 3D SH-03C | SH03C | SH-03C |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | LYNX SH-10B | SH10B | SH-10B |  |  | 2017-10-19 | 2017-10-19 |
