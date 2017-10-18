@@ -887,7 +887,7 @@
 | Philips | S337 | S337_AG | Philips S337 |  |  | 2017-10-19 | 2017-10-19 |
 | Philips | S337 | S337_BG | Philips S337 |  |  | 2017-10-19 | 2017-10-19 |
 | Philips | S337 | scx35_sp7731gea_hd | Philips S337 |  |  | 2017-10-19 | 2017-10-19 |
-| Philips | Screeneo Smart LED Projector | HDP1690/F7 | HDP1690/F7 |  | 2017-10-19 | 2017-10-19 |
+| Philips | Screeneo Smart LED Projector | HDP1690/F7 | HDP1690/F7 |  |  | 2017-10-19 | 2017-10-19 |
 | Philips | T8 PI7000 | Tablet_8 | PI7000 |  |  | 2017-10-19 | 2017-10-19 |
 | Philips | V377 | Philips_V377 | Philips V377 |  |  | 2017-10-19 | 2017-10-19 |
 | Philips | V387 | V387 | Philips V387 |  |  | 2017-10-19 | 2017-10-19 |
