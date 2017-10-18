@@ -123,7 +123,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Icotera | No Known Official Response | Icotera is investigating it's products against the vulnerability and possible fix. A software update for each affected product(firmware) will be made available as soon as possible. All our direct customers will be updated invidualy. | 2017-10-18 | 2017-10-18 |  |
 | Intel Corporation | [LINK](https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00101&languageid=en-fr) | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | I-O DATA | [LINK(JA)](http://www.iodata.jp/support/information/2017/wpa2/) | N/A | 2017-10-18 | 2017-10-18 |  |
-| iRobot (Roomba) | No Known Official Response | Chat support: So far as we can tell, we haven't been impacted. So that's good news lol. [IMG](https://user-images.githubusercontent.com/271922/31730055-05bd1658-b431-11e7-84fc-0b5ef663905b.png) | 2017-10-17 | 2017-10-17 |  |
+| iRobot (Roomba) | No Known Official Response | Chat support: "So far as we can tell, we haven't been impacted. So that's good news lol." [IMG](https://user-images.githubusercontent.com/271922/31730055-05bd1658-b431-11e7-84fc-0b5ef663905b.png) | 2017-10-17 | 2017-10-17 |  |
 | Jolla | [LINK](https://together.jolla.com/question/170073/krack-attacks-wpa2-is-not-secure-anymore/?answer=170198#post-id-170198) | N/A | 2017-10-17 | 2017-10-17 |  |
 | Juniper Networks | [LINK](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10827) | Patches for WLAN available; patches for SRX and SSG outstanding | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | KPN | [LINK](https://overons.kpn/nl/nieuws/2017/beveiligingsonderzoekers-vinden-kwetsbaarheid-in-wifi-protocol) | No Fix as of yet | 2017-10-17 | 2017-10-17 |  |
