@@ -111,7 +111,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | EnGenius | [LINK](https://helpcenter.engeniustech.com/hc/en-us/articles/115002197872-EnGenius-Advisory-on-the-WPA2-KRACK-vulnerability) | "EnGenius software developers are currently working on security patches and will issue firmware releases as soon as possible." | 2017-10-18 | 2017-10-18 |  |
 | Espressif Systems | [LINK](http://espressif.com/en/media_overview/news/espressif-releases-patches-wifi-vulnerabilities-cert-vu228519) | Espressif released patches for the WiFi vulnerabilities in their products including ESP-IDF, ESP8266 RTOS and ESP8266 NON-OS. Arduino ESP32 will be updated shortly. | 2017-10-16 | 2017-10-16 | 22 Sep 2017 |
 | Extreme Networks | [LINK](https://extremeportal.force.com/ExtrArticleDetail?n=000018005) | N/A | 2017-10-16 | 2017-10-16 | 2017-08-28 |
-| F5 Networks | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| F5 Networks | [LINK](https://support.f5.com/csp/article/K23642330) | There is no impact; F5 products are not affected by this vulnerability. | 2017-10-19 | 2017-10-19 |  |
 | Fedora | [LINK](https://bodhi.fedoraproject.org/updates/wpa_supplicant-2.6-11.fc27) | Status: Fixed Release: Stable (* Manual installation is possible) | 2017-10-17 | 2017-10-19 |  |
 | FortiNet | [LINK](http://www.fortiguard.com/psirt/FG-IR-17-196) | FortiAP 5.6.1 has been patched. All other patches are upcoming. | 2017-10-16 | 2017-10-18 |  |
 | Foundry Brocade | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
