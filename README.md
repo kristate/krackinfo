@@ -57,7 +57,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Fedora | X |  |  |
 | FreeBSD | [X](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001806.html) |  |  |
 | Lenovo |  |  | X |
-| LineageOS |  | X |  |
+| LineageOS | [X](https://mobile.twitter.com/LineageAndroid/status/920143977256382464) |  |  |
 | LXDE |  | X |  |
 | Meraki | X |  |  |
 | MikroTik | X |  |  |
