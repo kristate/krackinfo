@@ -57,7 +57,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Fedora | X |  |  |
 | FreeBSD | [X](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001806.html) |  |  |
 | Lenovo |  |  | X |
-| LineageOS |  | X |  |
+| LineageOS | [X](https://mobile.twitter.com/LineageAndroid/status/920143977256382464) |  |  |
 | LXDE |  | X |  |
 | Meraki | X |  |  |
 | MikroTik | X |  |  |
@@ -149,6 +149,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Netgear | [LINK](https://kb.netgear.com/000049498/Security-Advisory-for-WPA-2-Vulnerabilities-PSV-2017-2826-PSV-2017-2836-PSV-2017-2837) | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nikon | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nintendo | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| OmniROM | [LINK](https://blog.omnirom.org/development/2017/10/17/omni-builds-updated-krack/) | "all official OmniROM N builds have the fix included." | 2017-10-19 | 2017-10-19 |  |
 | OnePlus | No Known Official Response | "We encouraged you to stay tuned and keep track on our Community Forums and official website and other social media channels." | 2017-10-17 | 2017-10-16 |  |
 | Onkyo | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Open-Mesh / CloudTrax | [LINK](https://help.cloudtrax.com/hc/en-us/articles/115001567804-KRACK-Bulletin) | An update is expected to be delivered to all of those that use automatic updates by the end over October 17th. | 2017-10-17 | 2017-10-17 |  |
