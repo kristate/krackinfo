@@ -1933,15 +1933,15 @@
 | Sharp | 306SH | SG306SH | 306SH |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | 401SH | SG401SH | 401SH |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | 507SH | eve_sprout | 507SH |  |  | 2017-10-19 | 2017-10-19 |
-| Sharp | \xe3\x82\xb7\xe3\x83\xb3\xe3\x83\x97\xe3\x83\xab\xe3\x82\xb9\xe3\x83\x9e\xe3\x83\x9b\xef\xbc\x93 | SG509SH | 509SH |  |  | 2017-10-19 | 2017-10-19 |
-| Sharp | \xe3\x83\xad\xe3\x83\x9c\xe3\x83\x9b\xe3\x83\xb3 | SR01MW | SR01MW |  |  | 2017-10-19 | 2017-10-19 |
-| Sharp | \xe3\x83\xad\xe3\x83\x9c\xe3\x83\x9b\xe3\x83\xb3 | SR02MW | SR02MW |  |  | 2017-10-19 | 2017-10-19 |
+| Sharp | シンプルスマホ３ | SG509SH | 509SH |  |  | 2017-10-19 | 2017-10-19 |
+| Sharp | ロボホン | SR01MW | SR01MW |  |  | 2017-10-19 | 2017-10-19 |
+| Sharp | ロボホン | SR02MW | SR02MW |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | A01SH | A01SH | A01SH |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | A1 | TSL | FS8002 |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | ADS1 | ADS1 | SHARP-ADS1 |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | AN-NP40 | an_np40 | AN-NP40 |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | Android One S1 | kaleido_sprout | S1 |  |  | 2017-10-19 | 2017-10-19 |
-| Sharp | AQUOS \xe3\x82\xb1\xe3\x83\xbc\xe3\x82\xbf\xe3\x82\xa4 SH-06G | SH-06G | SH-06G |  |  | 2017-10-19 | 2017-10-19 |
+| Sharp | AQUOS ケータイ SH-06G | SH-06G | SH-06G |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | AQUOS Compact SH-02H | SH-02H | SH-02H |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | AQUOS CRYSTAL 2 | SG403SH | 403SH |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | AQUOS CRYSTAL X | SG402SH | 402SH |  |  | 2017-10-19 | 2017-10-19 |
@@ -2598,24 +2598,24 @@
 | Sony | Xperia ZR | C5306 | C5306 |  |  | 2017-10-19 | 2017-10-19 |
 | Sony | Xperia ZR | C5502 | C5502 |  |  | 2017-10-19 | 2017-10-19 |
 | Sony | Xperia ZR | C5503 | C5503 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 C4 Dual | E5333 | E5333 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 C4 Dual | E5343 | E5343 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 C4 Dual | E5363 | E5363 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 C4 | E5303 | E5303 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 C4 | E5306 | E5306 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 C4 | E5353 | E5353 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 E4 Dual | E2115 | E2115 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 E4 Dual | E2124 | E2124 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 E4 | E2104 | E2104 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 E4 | E2105 | E2105 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 E4g | E2003 | E2003 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 E4g | E2006 | E2006 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 M4 Aqua Dual | E2312 | E2312 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 M4 Aqua Dual | E2333 | E2333 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 M4 Aqua Dual | E2363 | E2363 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 M4 Aqua | E2303 | E2303 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 M4 Aqua | E2306 | E2306 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia\xe2\x84\xa2 M4 Aqua | E2353 | E2353 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ C4 Dual | E5333 | E5333 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ C4 Dual | E5343 | E5343 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ C4 Dual | E5363 | E5363 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ C4 | E5303 | E5303 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ C4 | E5306 | E5306 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ C4 | E5353 | E5353 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ E4 Dual | E2115 | E2115 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ E4 Dual | E2124 | E2124 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ E4 | E2104 | E2104 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ E4 | E2105 | E2105 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ E4g | E2003 | E2003 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ E4g | E2006 | E2006 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ M4 Aqua Dual | E2312 | E2312 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ M4 Aqua Dual | E2333 | E2333 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ M4 Aqua Dual | E2363 | E2363 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ M4 Aqua | E2303 | E2303 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ M4 Aqua | E2306 | E2306 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia™ M4 Aqua | E2353 | E2353 |  |  | 2017-10-19 | 2017-10-19 |
 | Sophix_Digix | TAB-750_G | TAB-750_G | TAB-750_G |  |  | 2017-10-19 | 2017-10-19 |
 | SOSMART | T5 | SOSMART_T5 | SOSMART_T5 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | Connect 451 | Connect451 | Connect 451 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2647,7 +2647,7 @@
 | Southern Telecom | M10 | ST1009 | M10 |  |  | 2017-10-19 | 2017-10-19 |
 | Southern Telecom | M10 | ST1009 | M10/Q1010 |  |  | 2017-10-19 | 2017-10-19 |
 | Southern Telecom | M11H/Q1100 | M11H | M11H/Q1100 |  |  | 2017-10-19 | 2017-10-19 |
-| Southern Telecom | Nook Tablet 7\xe2\x80\x9d | st16c7bnn | BNTV450 |  |  | 2017-10-19 | 2017-10-19 |
+| Southern Telecom | Nook Tablet 7" | st16c7bnn | BNTV450 |  |  | 2017-10-19 | 2017-10-19 |
 | Southern Telecom | P709/P716 | P709 | P709/P716 |  |  | 2017-10-19 | 2017-10-19 |
 | Southern Telecom | P7100 | P7100 | P7100 |  |  | 2017-10-19 | 2017-10-19 |
 | Southern Telecom | P909 | P909 | P909 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2712,8 +2712,8 @@
 | STK(Santok) | Sync 5e | STK_Sync_5e | STK_Sync_5e |  |  | 2017-10-19 | 2017-10-19 |
 | STK(Santok) | Sync 5z | STK_Sync_5z | STK Sync 5z |  |  | 2017-10-19 | 2017-10-19 |
 | STK(Santok) | Transporter 1 | STK_Transporter_1 | STK_Transporter_1 |  |  | 2017-10-19 | 2017-10-19 |
-| Storex | eZee\'Tab7Q11-M | Tab7Q11 | Tab7Q11 |  |  | 2017-10-19 | 2017-10-19 |
-| Storex | eZee\xe2\x80\x99Tab7D14-S | STOREX7526 | NID_7010 |  |  | 2017-10-19 | 2017-10-19 |
+| Storex | eZee'Tab7Q11-M | Tab7Q11 | Tab7Q11 |  |  | 2017-10-19 | 2017-10-19 |
+| Storex | eZee'Tab7D14-S | STOREX7526 | NID_7010 |  |  | 2017-10-19 | 2017-10-19 |
 | Storex | eZeeTab10D12-S | eZeeTab10D12-S | eZeeTab10D12-S |  |  | 2017-10-19 | 2017-10-19 |
 | Storex | eZeeTab7D15-M | eZeeTab7D15-M | eZeeTab7D15-M |  |  | 2017-10-19 | 2017-10-19 |
 | Stream | B1 | B1 | B1 |  |  | 2017-10-19 | 2017-10-19 |
@@ -3288,7 +3288,7 @@
 | TCT (Alcatel) | ALCATEL ONETOUCH PIXI 4 (4) | Pixi4-4 | 4034X |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | ALCATEL ONETOUCH PIXI 4 (4) | Pixi4-4 | Alcatel_4034F |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | ALCATEL ONETOUCH PIXI 4 (4) | Pixi4-4 | DIGICEL DL 1 lite |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | ALCATEL ONETOUCH PIXI\xe2\x84\xa2 3 (4.5) | PIXI3_45_4G | 5017O |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | ALCATEL ONETOUCH PIXI™ 3 (4.5) | PIXI3_45_4G | 5017O |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | ALCATEL ONETOUCH POP 3 (5) | PIXI3-5 | 5015A |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | ALCATEL ONETOUCH POP 3 (5) | PIXI3-5 | 5015D |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | ALCATEL ONETOUCH POP 3 (5) | PIXI3-5 | 5015E |  |  | 2017-10-19 | 2017-10-19 |
@@ -3577,7 +3577,7 @@
 | TCT (Alcatel) | PIXI4 (3.5) | PIXI4-35 | 4017S |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | PIXI4 (3.5) | PIXI4-35 | 4017X |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | Pixi4-4 3G Telus | PIXI4_4TF | A466T |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | PIXI\xe2\x84\xa24 | Pixi445CAN | 4060S |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | PIXI™4 | Pixi445CAN | 4060S |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | Pixo 7 | PIXO7 | I211 |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | Pixo 7 | PIXO7 | I212 |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | Pixo 7 | PIXO7 | I213 |  |  | 2017-10-19 | 2017-10-19 |
@@ -3769,8 +3769,8 @@
 | TCT (Alcatel) | U5 | BUZZ6T4G | 5044A |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | U5 | BUZZ6T4G | 5044P |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | U5 | BUZZ6T4G | 5044Y |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | U50\xe2\x84\xa2 | BUZZ6T4GTELUS | 5044G |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | U50\xe2\x84\xa2 | BUZZ6T4GTELUS | 5044S |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | U50™ | BUZZ6T4GTELUS | 5044G |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | U50™ | BUZZ6T4GTELUS | 5044S |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | VF 860 | Vodafone_Smart_II_gsm | Vodafone Smart II |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | Vodafone 785 | Vodafone_785 | MTC 982 |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | Vodafone 861 | one_touch_922_gsm | ALCATEL ONE TOUCH 922 |  |  | 2017-10-19 | 2017-10-19 |
@@ -3784,7 +3784,7 @@
 | TCT (Alcatel) | Xess-mini | Xess-mini | TCL Xess C15BA |  |  | 2017-10-19 | 2017-10-19 |
 | Technicolor |  | omap4_WT3 | T-Hub2 |  |  | 2017-10-19 | 2017-10-19 |
 | Technicolor | Euskaltel | dci765ekt | cooper |  |  | 2017-10-19 | 2017-10-19 |
-| Technicolor | LMT viedtelev\xc4\xabzijas iek\xc4\x81rta | dwt765lmt | skipper |  |  | 2017-10-19 | 2017-10-19 |
+| Technicolor | LMT viedtelevīzijas iekārta | dwt765lmt | skipper |  |  | 2017-10-19 | 2017-10-19 |
 | Technicolor | Shortcut | dwt765ltt | Shortcut |  |  | 2017-10-19 | 2017-10-19 |
 | Techpad | TechPad_3Gx | TechPad_3Gx | TechPad_3Gx |  |  | 2017-10-19 | 2017-10-19 |
 | Techpad | TechPad_716 | TechPad_716 | 716 |  |  | 2017-10-19 | 2017-10-19 |
@@ -3800,12 +3800,12 @@
 | Tecno | Camon CXS | TECNO-CX | TECNO Camon CXS |  |  | 2017-10-19 | 2017-10-19 |
 | Tecno | DP10APro-SLA1 | DP10APro | DP10APro |  |  | 2017-10-19 | 2017-10-19 |
 | Tecno | DP7CPro-SGA1 | DP7CPro-SGA1 | DP7CPro-SGA1 |  |  | 2017-10-19 | 2017-10-19 |
-| Tecno | DroiPad 10 Pro\xe2\x85\xa1 | DP10APro | DP10APro |  |  | 2017-10-19 | 2017-10-19 |
+| Tecno | DroiPad 10 Pro II | DP10APro | DP10APro |  |  | 2017-10-19 | 2017-10-19 |
 | Tecno | DroiPad 7C Pro | DP7CPRO | DP7CPRO |  |  | 2017-10-19 | 2017-10-19 |
 | Tecno | DroiPad 7D ProLTE | TECNO-P702 | TECNO P702 |  |  | 2017-10-19 | 2017-10-19 |
 | Tecno | DroiPad 7D ProLTE | TECNO-P702 | TECNO P702A |  |  | 2017-10-19 | 2017-10-19 |
 | Tecno | DroiPad 7D | TECNO-P701 | TECNO P701 |  |  | 2017-10-19 | 2017-10-19 |
-| Tecno | DroiPad 8\xe2\x85\xa1 | DP8D | DP8D |  |  | 2017-10-19 | 2017-10-19 |
+| Tecno | DroiPad 8 II | DP8D | DP8D |  |  | 2017-10-19 | 2017-10-19 |
 | Tecno | Droipad10 | DP10A | DP10A |  |  | 2017-10-19 | 2017-10-19 |
 | Tecno | Droipad10 | DP10A | TECNO DP10A |  |  | 2017-10-19 | 2017-10-19 |
 | Tecno | H5S | up09_tecno_h5s | TECNO H5S |  |  | 2017-10-19 | 2017-10-19 |
@@ -4099,7 +4099,7 @@
 | Verizon Wireless | Ellipsis 8 HD | QTASUN1 | QTASUN1 |  |  | 2017-10-19 | 2017-10-19 |
 | Verizon Wireless | Ellipsis 8 HD | QTASUN1 | QTASUN2 |  |  | 2017-10-19 | 2017-10-19 |
 | Verizon Wireless | Ellipsis 8 | QTAQZ3 | QTAQZ3 |  |  | 2017-10-19 | 2017-10-19 |
-| Verizon Wireless | Ellipsis \xc2\xae 10 HD | QTAXIA1 | QTAXIA1 |  |  | 2017-10-19 | 2017-10-19 |
+| Verizon Wireless | Ellipsis ® 10 HD | QTAXIA1 | QTAXIA1 |  |  | 2017-10-19 | 2017-10-19 |
 | Verizon Wireless | Gizmo Tab | QTASUN2 | QTASUN2 |  |  | 2017-10-19 | 2017-10-19 |
 | Verizon Wireless | QTAQZ3KID | QTAQZ3KID | QTAQZ3KID |  |  | 2017-10-19 | 2017-10-19 |
 | Verizon Wireless | ZenPad Z8 | P008 | P008 |  |  | 2017-10-19 | 2017-10-19 |
