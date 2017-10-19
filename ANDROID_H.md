@@ -825,8 +825,8 @@
 | HTC | 9060 | m7cdug | HTC 802w |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | 9088 | dlpdtu | HTC 9088 |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | 919d | dlpdwg | HTC 919d |  |  | 2017-10-19 | 2017-10-19 |
-| HTC | \t HTC One X9 dual sim | htc_e56ml_dtul | HTC One X9 dual sim |  |  | 2017-10-19 | 2017-10-19 |
-| HTC | \tADR6325 | lexikon | ADR6325 |  |  | 2017-10-19 | 2017-10-19 |
+| HTC | HTC One X9 dual sim | htc_e56ml_dtul | HTC One X9 dual sim |  |  | 2017-10-19 | 2017-10-19 |
+| HTC | ADR6325 | lexikon | ADR6325 |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | A510c | marvelc | HTC_A510c |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | ADR6330VW | blissc | ADR6330VW |  |  | 2017-10-19 | 2017-10-19 |
 | HTC | ADR6425LVW | vigor | ADR6425LVW |  |  | 2017-10-19 | 2017-10-19 |
