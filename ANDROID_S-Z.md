@@ -52,7 +52,7 @@
 | Samsung |  | SHW-M460D | SHW-M460D |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung |  | stunnerltespr | SPH-L500 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung |  | superiorchn | GT-I9260 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | \t Galaxy A7(2016) | a7xltechn | SM-A710XZ |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy A7(2016) | a7xltechn | SM-A710XZ |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Absolute | GT-B9120 | GT-B9120 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Acclaim | SCH-R880 | SCH-R880 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Admire | SCH-R720 | SCH-R720 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2107,7 +2107,7 @@
 | Sharp | LCD-V3A | v3a | LCD-V3A |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | LCD-xxBEL6A | lcd_xxbel6a | LCD-xxBEL6A |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | LCD-xxBEL8A | lcd_xxbel8a | LCD-xxBEL8A |  |  | 2017-10-19 | 2017-10-19 |
-| Sharp | LCD-xxSX970A,LCD-xxMY9100A | lcd_xxdem9a | LCD-xxDEM9A |  |  | 2017-10-19 | 2017-10-19 |
+| Sharp | LCD-xxSX970A, LCD-xxMY9100A | lcd_xxdem9a | LCD-xxDEM9A |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | lcd_xxbel7a_c | lcd_xxbel7a_c | LCD-xxBEL7A-C |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | LYNX 3D SH-03C | SH03C | SH-03C |  |  | 2017-10-19 | 2017-10-19 |
 | Sharp | LYNX SH-10B | SH10B | SH-10B |  |  | 2017-10-19 | 2017-10-19 |
@@ -3029,10 +3029,10 @@
 | TCT (Alcatel) | 9030G | POP4-10_4G | 9030G |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | 9030Q | POP4-10_4G | 9030Q |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | 9203A | Pixi5-7_3G | 9203A |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | \t ALCATEL ONETOUCH PIXI 3 (3.5) | PIXI3_35 | SoshPhone_mini |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | \t ALCATEL ONETOUCH PIXI 3 (4.5) | PIXI3_45_4G | 5017X |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | A3 10\'\' | Pixi5-10_4G | 9026T |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | A3 10\'\' | Pixi5-10_4G | 9026X |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | ALCATEL ONETOUCH PIXI 3 (3.5) | PIXI3_35 | SoshPhone_mini |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | ALCATEL ONETOUCH PIXI 3 (4.5) | PIXI3_45_4G | 5017X |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | A3 10" | Pixi5-10_4G | 9026T |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | A3 10" | Pixi5-10_4G | 9026X |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | A3 PLUS | mickey6t | 5049E |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | A3 PLUS | mickey6t | 5049G |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | A3 XL | PIXI5-6_4G | 9008A |  |  | 2017-10-19 | 2017-10-19 |
@@ -4161,10 +4161,10 @@
 | Vestel | V TAB 7020A | V_TAB_7020A | V_TAB_7020A |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V TAB 7025 | V_TAB_7025 | V_TAB_7025 |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V TAB 7810 | V_TAB_7810 | V_TAB_7810 |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | V TAB 7\'\' LITE II | V_TAB_7_LITE_II | V_TAB_7_LITE_II |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | V TAB 7" LITE II | V_TAB_7_LITE_II | V_TAB_7_LITE_II |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V TAB 8010 | V_TAB_8010 | V_TAB_8010 |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V TAB 8029 | V_TAB_8029 | V TAB 8029 |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | V TAB 9.7\'\' PRO | VT97PRO | VT97PRO |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | V TAB 9.7" PRO | VT97PRO | VT97PRO |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V3 5580 Dual | Orsa | V3_5580_Dual |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | Venus V3 5010 | DynoLight | Venus_V3_5010 |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | Venus V3 5020 | Arya | Venus_V3_5020 |  |  | 2017-10-19 | 2017-10-19 |
@@ -4196,10 +4196,10 @@
 | Vestel | VSP355g | g55 | VSP355g |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VSP355s | s55 | VSP355s |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT10E | VT10E | VT10E |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | VT10E2 | VT10E2 | S TAB 10\'\' II |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | VT10E2 | VT10E2 | V TAB 10\'\' LITE |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | VT10E2 | VT10E2 | S TAB 10" II |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | VT10E2 | VT10E2 | V TAB 10" LITE |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT10E2 | VT10E2 | VT10E2 |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | VT785P2 | VT785P2 | V TAB 7.85\'\' LITE |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | VT785P2 | VT785P2 | V TAB 7.85" LITE |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT785P2 | VT785P2 | VT785P2-Celcus |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT785P2 | VT785P2 | VT785P2-Cleverpad |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT785P2 | VT785P2 | VT785P2-Finlux |  |  | 2017-10-19 | 2017-10-19 |
@@ -4515,7 +4515,7 @@
 | Wiko | RAINBOW | s5501 | RAINBOW |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | RIDGE 4G | l5510 | RIDGE 4G |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | RIDGE FAB 4G | l5320 | RIDGE FAB 4G |  |  | 2017-10-19 | 2017-10-19 |
-| Wiko | RIDGE\t\t | s5513ap | RIDGE |  |  | 2017-10-19 | 2017-10-19 |
+| Wiko | RIDGE | s5513ap | RIDGE |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | ROBBY | V3750AN | ROBBY |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | ROBBY | V3750AN24K | ROBBY |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | SELFY 4G | l4801 | SELFY 4G |  |  | 2017-10-19 | 2017-10-19 |
