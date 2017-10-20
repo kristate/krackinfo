@@ -63,8 +63,9 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Meraki | X |  |  |
 | MikroTik | X |  |  |
 | Mojo Networks | X |  |  |
+| Red Hat | X |  |  | 
 | Ruckus |  | X |  |
-| Synology | [X](https://www.synology.com/en-global/releaseNote/DDSM) |  |  |
+| Synology | [X](https://www.synology.com/en-global/releaseNote/DDSM) |  |  || SUSE / openSUSE | [X](https://bugzilla.suse.com/show_bug.cgi?id=1056061) | [X](https://bugzilla.suse.com/show_bug.cgi?id=1063479)  |  |
 | Turris Omnia |[X](https://forum.turris.cz/t/turris-os-3-8-4-is-out-with-krack-fix/5391)|  |  |
 | Ubiquiti | [X](https://community.ubnt.com/t5/UniFi-Updates-Blog/bg-p/Blog_UniFi) |  |  |
 | Ubuntu | [X](https://usn.ubuntu.com/usn/usn-3455-1/) |  |  |
@@ -167,7 +168,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Qualcomm Atheros | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Rachio | No Known Official Response | Support response: "When it boils down into it, the KRACK attack can only target improperly done HTTPS / SSL connections, and we are perfectly safe in that regard. There is no need for our controller to get an update due to the leak itself, due to the massive lack of a GUI there is nothing at risk from our controller. <br/> From what I can see in my research and testing, KRACK vulnerability cannot potentially modify data on the network, or even eavesdrop from our controller. <br/> The absolute only thing at risk, after thorough testing, that a KRACK attacker would be able to *potentially* see is that you have a Rachio on your network. And even then, the only way they have the slightest ability to get any further would be via timing analysis, and even then it only would be your watering times." [LINK](https://twitter.com/Fezmid/status/920261178852630530)  | 2017-10-17 | 2017-10-17 |  |
 | Raspbian (Raspberry Pi) | No Known Official Response | Update (20171002 01:38): The fixes for raspbian Jessie and Stretch should now be in the public raspbian repo. The fix for raspbian buster should follow in a few hours. I do not know if/when there will be a fix for wheezy. source: [LINK](https://raspberrypi.stackexchange.com/questions/73879/rpi-vulnerable-for-wi-fi-wpa2-krack-attack/73908#73908) [REPO](http://archive.raspbian.org/raspbian/pool/main/w/wpa/) [FORUM](https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=195507)| 2017-10-17 | 2017-10-17 |  |
-| Red Hat, Inc. | This issue affects the versions of wpa_supplicant as shipped with Red Hat Enterprise Linux 6 and 7. [LINK](https://access.redhat.com/security/cve/cve-2017-13087) | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
+| Red Hat, Inc. | This issue affects the versions of wpa_supplicant as shipped with Red Hat Enterprise Linux 6 and 7. [LINK](https://access.redhat.com/security/cve/cve-2017-13087) | Red Hat Security Advisories for Red Hat Enterprise Linux 7 [RHSA-2017:2911](https://access.redhat.com/errata/RHSA-2017:2911) and Red Hat Enterprise Linux 6 [RHSA-2017:2907](https://access.redhat.com/errata/RHSA-2017:2907) | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Ring | No Known Official Response | Per support "They promise to update public shortly, actively working with developers." | 2017-10-17 | 2017-10-17 |  |
 | Ruckus Wireless | [Security Advisory Bulletin](https://ruckus-www.s3.amazonaws.com/pdf/security/faq-security-advisory-id-101617-v1.0.pdf)  | More forthcoming. [LINK](https://theruckusroom.ruckuswireless.com/wi-fi/2017/10/16/commonsense-approach-uncommon-problem/) | 2017-10-17 | 2017-10-17 |  |
 | Sagemcom | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 | |
@@ -178,7 +179,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Sonos | [LINK](https://en.community.sonos.com/ask-a-question-228987/is-sonos-vulnerable-to-the-krack-attack-6792188) | We're aware of the issues with WPA2 and our team is working to determine any ramifications this may have for Sonos players. | 2017-10-18 | 2017-10-18 |  |
 | Sony | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Sophos AP | [LINK](https://community.sophos.com/kb/en-us/127658) | N/A | 2017-10-17 | 2017-10-17 |  |
-| SUSE / openSUSE | [LINK](https://bugzilla.suse.com/show_bug.cgi?id=1063479) |  | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
+| SUSE / openSUSE | [hostap](https://bugzilla.suse.com/show_bug.cgi?id=1063479)  [wpa_supplicant](https://bugzilla.suse.com/show_bug.cgi?id=1056061) |  Patches available for `wpa_supplicant`. `hostap` in the works. See links for details | 2017-10-20 | 2017-10-20 | 28 Aug 2017 |
 | Swisscom | [LINK](https://supportcommunity.swisscom.ch/t5/Diskussionen-%C3%BCber-Ger%C3%A4te-und/WPA2-Leack-wirklich-oder-wieder-nur-Baitfishing/m-p/511992#M18540) | Internet Box routers not affected. Centro routers and AirTies repeaters to be clarified. | 2017-10-17 | 2017-10-17 | |
 | Synology | [LINK 1](https://www.synology.com/en-global/releaseNote/DDSM) [LINK 1](https://www.synology.com/en-us/support/security/Synology_SA_17_60_KRACK) | Synology DiskStation Manager (DSM) with attached WiFi dongle and Synology Router Manager (SRM) are vulnerable to Krack. As of Version 6.1.3-15152-8: Fixed multiple security vulnerabilities regarding WPA/WPA2 protocols for wireless connections (CVE-2017-13077, CVE-2017-13078, CVE-2017-13079, CVE-2017-13080, CVE-2017-13081, CVE-2017-13082, CVE-2017-13084, CVE-2017-13086, CVE-2017-13087, CVE-2017-13088). | 2017-10-17 | 2017-10-17 |  |
 | Tesco | [LINK](https://twitter.com/Tesco/status/920254455135854592) | Tesco has chosen not to patch the Hudl: "There will be no further updates to the hudl software" | 2017-10-17 | 2017-10-17 |  |
