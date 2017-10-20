@@ -426,7 +426,7 @@
 | Anydata | ematic EGP010 | EGP010 | EGP010 |  |  | 2017-10-19 | 2017-10-19 |
 | Anydata | ematic EGS004 | EGS004 | EGS004 |  |  | 2017-10-19 | 2017-10-19 |
 | Anydata | ematic EGS102 | EGS102 | EGS102 |  |  | 2017-10-19 | 2017-10-19 |
-| Anydata | essentielb ST8003/FT8001 Tablet | M805ND | Smart\'TAB 8003 |  |  | 2017-10-19 | 2017-10-19 |
+| Anydata | essentielb ST8003/FT8001 Tablet | M805ND | Smart'TAB 8003 |  |  | 2017-10-19 | 2017-10-19 |
 | Anydata | Eviant MT8000 | PDM829MD | MT8000 |  |  | 2017-10-19 | 2017-10-19 |
 | Anydata | Garmin nuvi3590 | scorpio | nuvi 3590 |  |  | 2017-10-19 | 2017-10-19 |
 | Anydata | Garmin nuvi3595 | scorpio | nuvi 3595 |  |  | 2017-10-19 | 2017-10-19 |
@@ -638,7 +638,7 @@
 | Archos | 80b xenon | ac80bxe | Archos 80b Xenon |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | 80c Xenon | ac80cxe | Archos 80c Xenon |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | 80d Xenon | ac80dxe | Archos 80d Xenon |  |  | 2017-10-19 | 2017-10-19 |
-| Archos | 9.4\'\' FFF | ac94fff | 9.4\'\' FFF |  |  | 2017-10-19 | 2017-10-19 |
+| Archos | 9.4" FFF | ac94fff | 9.4" FFF |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | 90 Copper | ac90cv | Archos 90 Copper |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | 90 Neon | a90ne | Archos 90 Neon |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | 90b Copper | ac90bcv | Archos 90b Copper |  |  | 2017-10-19 | 2017-10-19 |
@@ -662,9 +662,9 @@
 | Archos | Alba 5 | ac50dne | ALBA 5 |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Alba 5 | ac50fne | ALBA 5 |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Alba 7 | ac70plv5 | ALBA 7 TABLET |  |  | 2017-10-19 | 2017-10-19 |
-| Archos | Alba 7\'\' | ac70plv4 | Alba 7" |  |  | 2017-10-19 | 2017-10-19 |
+| Archos | Alba 7" | ac70plv4 | Alba 7" |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Alba 8 | ac80cplv2 | Alba 8" |  |  | 2017-10-19 | 2017-10-19 |
-| Archos | Alba 8\'\' | ac80cplv2_16G | Alba 8" |  |  | 2017-10-19 | 2017-10-19 |
+| Archos | Alba 8" | ac80cplv2_16G | Alba 8" |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | ALBA4 | ac40as3g | ALBA 4 |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | ArcBook | a101db | Archos 101 DB |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Archos 101 Platinum 3G | ac101pl3g | Archos 101 Platinium 3G |  |  | 2017-10-19 | 2017-10-19 |
@@ -701,7 +701,7 @@
 | Archos | Auchan Qilive97R | QiLive97R | QiLive 97R |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Auchan Selecline 10 | SELECLINE10 | Selecline 10 |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Bush 10.0 MyTablet | ac101dpl | Bush 10.0 MyTablet |  |  | 2017-10-19 | 2017-10-19 |
-| Archos | Bush 10\'\' | ac101dplv2 | Bush 10" Android |  |  | 2017-10-19 | 2017-10-19 |
+| Archos | Bush 10" | ac101dplv2 | Bush 10" Android |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Bush 4" Android Phone | ac40cti | Bush 4 Android |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Bush 5 4G | ac50heplus | Bush 5" 4G |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Bush 5 4G | ac50heplus | Bush Spira C2 5" Smartphone |  |  | 2017-10-19 | 2017-10-19 |
@@ -713,13 +713,13 @@
 | Archos | Bush 7.85 My Tablet | ac79bu | Archos 79c Neon |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Bush 8" | ac80bhe | Bush 8" LTE Android |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Bush 8.0 MyTablet | ac80cpl | Bush 8.0 MyTablet |  |  | 2017-10-19 | 2017-10-19 |
-| Archos | Bush 8\'\' | ac80dpl | Bush 8 Android |  |  | 2017-10-19 | 2017-10-19 |
+| Archos | Bush 8" | ac80dpl | Bush 8 Android |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Bush Mytablet 2 | a80bu | Bush Mytablet 2 |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Bush MyTablet 7 | ac70bu | Archos 70 Carbon |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Bush MyTablet 7 | ac70bu | BUSH 7.0 TABLET |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Bush Spira B1 10.1 | ac101dplv3a6 | Bush Spira B1 10.1" |  |  | 2017-10-19 | 2017-10-19 |
-| Archos | Bush Spira B1 10.1\'\' | ac101dplv3 | Bush Spira B1 10.1" |  |  | 2017-10-19 | 2017-10-19 |
-| Archos | Bush Spira B1 8\'\' | ac80dplv2 | Bush Spira B1 8" |  |  | 2017-10-19 | 2017-10-19 |
+| Archos | Bush Spira B1 10.1" | ac101dplv3 | Bush Spira B1 10.1" |  |  | 2017-10-19 | 2017-10-19 |
+| Archos | Bush Spira B1 8" | ac80dplv2 | Bush Spira B1 8" |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | Bush Spira B2 8 tablet | ac80ox | Bush Spira B2 8 tablet |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | BUSH SPIRA B3 5.5 | ac55cop | BUSH SPIRA B3 5.5 |  |  | 2017-10-19 | 2017-10-19 |
 | Archos | BUSH SPIRA B5 POWER | ac50crp | BUSH SPIRA B5 POWER |  |  | 2017-10-19 | 2017-10-19 |
@@ -1564,7 +1564,7 @@
 | Bush | SPIRA D3 5.5 | ac55diplus | BUSH SPIRA D3 5.5 |  |  | 2017-10-19 | 2017-10-19 |
 | Bush | SPIRA D4 5 | ac50bco | BUSH SPIRA D4 5 |  |  | 2017-10-19 | 2017-10-19 |
 | Bush | Spira D4 5.5 | ac55bco | BUSH SPIRA D4 5.5 |  |  | 2017-10-19 | 2017-10-19 |
-| Bush | Spira E2X 5\'\' | ac50dis | Bush Spira E2X 5" Smartphone |  |  | 2017-10-19 | 2017-10-19 |
+| Bush | Spira E2X 5" | ac50dis | Bush Spira E2X 5" Smartphone |  |  | 2017-10-19 | 2017-10-19 |
 | Bush | SPIRA E3X 5.5 | ac55di2plus | BUSH SPIRA E3X 5.5 |  |  | 2017-10-19 | 2017-10-19 |
 | Bush | SPIRA E4X | ac55diselfie | BUSH SPIRA E4X |  |  | 2017-10-19 | 2017-10-19 |
 | BYD | DynaVox T10 | T10 | T10 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2407,7 +2407,7 @@
 | ESI Enterprises | CKT3 | CKT3 | CKT3 |  |  | 2017-10-19 | 2017-10-19 |
 | ESI Enterprises | DT101Bv51 | DT101Bv51 | DT101Bv51 |  |  | 2017-10-19 | 2017-10-19 |
 | ESI Enterprises | DT7v51B | DT7v51B | DT7v51B |  |  | 2017-10-19 | 2017-10-19 |
-| ESI Enterprises | EPIK Learning Tab 8\'\' | ELT0801 | ELT0801 |  |  | 2017-10-19 | 2017-10-19 |
+| ESI Enterprises | EPIK Learning Tab 8" | ELT0801 | ELT0801 |  |  | 2017-10-19 | 2017-10-19 |
 | ESI Enterprises | EPIK Learning Tab Jr. | ELT0702 | ELT0702 |  |  | 2017-10-19 | 2017-10-19 |
 | ESI Enterprises | EPIK_ELT0703 | ELT0703 | ELT0703 |  |  | 2017-10-19 | 2017-10-19 |
 | ESI Enterprises | Monster M7 Tablet | MONSTERM7 | M7 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2416,8 +2416,8 @@
 | Essential Products | PH-1 | mata | PH-1 |  |  | 2017-10-19 | 2017-10-19 |
 | EssentielB | Black Diamond | bird77_a_cu_ics2 | Essentielb-Black Diamond |  |  | 2017-10-19 | 2017-10-19 |
 | EssentielB | Pyxis | pyxis_boulanger | Essentielb-Pixis |  |  | 2017-10-19 | 2017-10-19 |
-| EssentielB | Smart\'TAB 7800 | fiber-785q6 | Smart\'Tab_7800 |  |  | 2017-10-19 | 2017-10-19 |
-| EssentielB | Smart\'TAB 9001 | fiber-smart | Smart\'TAB 9001 |  |  | 2017-10-19 | 2017-10-19 |
+| EssentielB | Smart'TAB 7800 | fiber-785q6 | Smart'Tab_7800 |  |  | 2017-10-19 | 2017-10-19 |
+| EssentielB | Smart'TAB 9001 | fiber-smart | Smart'TAB 9001 |  |  | 2017-10-19 | 2017-10-19 |
 | EssentielB | ST7001 Tablet | ST7001 | ST7001 |  |  | 2017-10-19 | 2017-10-19 |
 | Estar | BEAUTY 2 HD Quad core | MID7378 | eSTAR BEAUTY 2 HD Quad core |  |  | 2017-10-19 | 2017-10-19 |
 | Estar | eSTAR BEAUTY 2 HD Quad core | MID7388 | eSTAR BEAUTY 2 HD Quad core |  |  | 2017-10-19 | 2017-10-19 |
