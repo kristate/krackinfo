@@ -965,7 +965,7 @@
 | Lenovo | 55E82, 49E82, 50U3A, 58U3A, 70UD30A, 60UD30A, 80UD30A, 65UR30A | sun | LenovoTV 49E82 |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | 55E82, 49E82, 50U3A, 58U3A, 70UD30A, 60UD30A, 80UD30A, 65UR30A | sun | LenovoTV 55E82 |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | 60K72 | ideatv_K72 | ideatv K72 |  |  | 2017-10-19 | 2017-10-19 |
-| Lenovo | \t Lenovo YOGA Laptop with Android | YOGABOOK12 | Lenovo YB-Q501F |  |  | 2017-10-19 | 2017-10-19 |
+| Lenovo | Lenovo YOGA Laptop with Android | YOGABOOK12 | Lenovo YB-Q501F |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | A10 | A10 | IdeaPadA10 |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | A10-70LC | A10-70LC | Lenovo TAB 2 A10-70LC |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | A1000 | A1000 | Lenovo A1000 |  |  | 2017-10-19 | 2017-10-19 |
@@ -1472,7 +1472,7 @@
 | Lexibook | LexiTab 7\'\' | MFC146DE | MFC146DE |  |  | 2017-10-19 | 2017-10-19 |
 | Lexibook | LexiTab 7\'\' | MFC146EN | MFC146EN |  |  | 2017-10-19 | 2017-10-19 |
 | Lexibook | LexiTab 7\'\' | MFC146FR | MFC146FR |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 7\'\'\t | MFC146ES | MFC146ES |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 7\'\' | MFC146ES | MFC146ES |  |  | 2017-10-19 | 2017-10-19 |
 | Lexibook | MFC191 | MFC191 | S952 |  |  | 2017-10-19 | 2017-10-19 |
 | Lexibook | Playdroid | lbox500 | LBOX500 |  |  | 2017-10-19 | 2017-10-19 |
 | Lgcns | LPT_200AR | LPT_200AR | LPT_200AR |  |  | 2017-10-19 | 2017-10-19 |

@@ -52,7 +52,7 @@
 | Samsung |  | SHW-M460D | SHW-M460D |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung |  | stunnerltespr | SPH-L500 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung |  | superiorchn | GT-I9260 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | \t Galaxy A7(2016) | a7xltechn | SM-A710XZ |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy A7(2016) | a7xltechn | SM-A710XZ |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Absolute | GT-B9120 | GT-B9120 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Acclaim | SCH-R880 | SCH-R880 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Admire | SCH-R720 | SCH-R720 |  |  | 2017-10-19 | 2017-10-19 |
@@ -3029,8 +3029,8 @@
 | TCT (Alcatel) | 9030G | POP4-10_4G | 9030G |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | 9030Q | POP4-10_4G | 9030Q |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | 9203A | Pixi5-7_3G | 9203A |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | \t ALCATEL ONETOUCH PIXI 3 (3.5) | PIXI3_35 | SoshPhone_mini |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | \t ALCATEL ONETOUCH PIXI 3 (4.5) | PIXI3_45_4G | 5017X |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | ALCATEL ONETOUCH PIXI 3 (3.5) | PIXI3_35 | SoshPhone_mini |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | ALCATEL ONETOUCH PIXI 3 (4.5) | PIXI3_45_4G | 5017X |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | A3 10\'\' | Pixi5-10_4G | 9026T |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | A3 10\'\' | Pixi5-10_4G | 9026X |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | A3 PLUS | mickey6t | 5049E |  |  | 2017-10-19 | 2017-10-19 |
@@ -4515,7 +4515,7 @@
 | Wiko | RAINBOW | s5501 | RAINBOW |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | RIDGE 4G | l5510 | RIDGE 4G |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | RIDGE FAB 4G | l5320 | RIDGE FAB 4G |  |  | 2017-10-19 | 2017-10-19 |
-| Wiko | RIDGE\t\t | s5513ap | RIDGE |  |  | 2017-10-19 | 2017-10-19 |
+| Wiko | RIDGE | s5513ap | RIDGE |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | ROBBY | V3750AN | ROBBY |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | ROBBY | V3750AN24K | ROBBY |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | SELFY 4G | l4801 | SELFY 4G |  |  | 2017-10-19 | 2017-10-19 |
