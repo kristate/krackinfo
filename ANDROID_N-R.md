@@ -44,8 +44,8 @@
 | NEC | AGT10 | AGT10 | N8730-411 |  |  | 2017-10-19 | 2017-10-19 |
 | NEC | AGT10 | AGT10 | N8730-41101 |  |  | 2017-10-19 | 2017-10-19 |
 | NEC | AGT10 | AGT10 | N8730-41102 |  |  | 2017-10-19 | 2017-10-19 |
-| NEC | CASIO G\'zOne Commando 4G LTE | C811 | C811 4G |  |  | 2017-10-19 | 2017-10-19 |
-| NEC | Casio G\'zOne Commando | C771 | C771 |  |  | 2017-10-19 | 2017-10-19 |
+| NEC | CASIO G'zOne Commando 4G LTE | C811 | C811 4G |  |  | 2017-10-19 | 2017-10-19 |
+| NEC | Casio G'zOne Commando | C771 | C771 |  |  | 2017-10-19 | 2017-10-19 |
 | NEC | Disney Mobile on docomoN-03E | N-03E | N-03E |  |  | 2017-10-19 | 2017-10-19 |
 | NEC | G'z One IS11CA | IS11CA | IS11CA |  |  | 2017-10-19 | 2017-10-19 |
 | NEC | G'zOne TYPE-L CAL21 | CAL21 | CAL21 |  |  | 2017-10-19 | 2017-10-19 |

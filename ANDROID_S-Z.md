@@ -2623,14 +2623,14 @@
 | Sourcing Creation | Connect502 | Connect502 | Connect502 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | Connect502 | MT502 | Connect502 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | Connect551 | Connect551 | Connect551 |  |  | 2017-10-19 | 2017-10-19 |
-| Sourcing Creation | Key\'TAB 1001 | MB979T9 | Smarttab_9701 |  |  | 2017-10-19 | 2017-10-19 |
+| Sourcing Creation | Key TAB 1001 | MB979T9 | Smarttab_9701 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | Smart Tab 1004XS | SmartTab_1004_XS | SmartTab_1004_XS |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | Smart TAB 1005 | M16Q1C | SmartTab1005 |  |  | 2017-10-19 | 2017-10-19 |
-| Sourcing Creation | Smart\' Tab 1006 | M16Q1A | SmartTab1006 |  |  | 2017-10-19 | 2017-10-19 |
+| Sourcing Creation | Smart Tab 1006 | M16Q1A | SmartTab1006 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | SmartTab_8004 | T814 | SmartTab_8004 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | sp401 | sp401 | sp401 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | ST1003S | T1882R | Smart_TAB_1003s |  |  | 2017-10-19 | 2017-10-19 |
-| Sourcing Creation | Web\'Pad_1002_02 | Webpad_1002_02 | Webpad_1002_02 |  |  | 2017-10-19 | 2017-10-19 |
+| Sourcing Creation | Web Pad_1002_02 | Webpad_1002_02 | Webpad_1002_02 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | webpad_7005 | MB709Q5 | Webpad_7005 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | Wooze I 5 | Wooze_I5 | Wooze_I5 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | Wooze I 5.5 Gris | Wooze_I55 | Wooze_I55 |  |  | 2017-10-19 | 2017-10-19 |
@@ -3031,8 +3031,8 @@
 | TCT (Alcatel) | 9203A | Pixi5-7_3G | 9203A |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | ALCATEL ONETOUCH PIXI 3 (3.5) | PIXI3_35 | SoshPhone_mini |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | ALCATEL ONETOUCH PIXI 3 (4.5) | PIXI3_45_4G | 5017X |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | A3 10\'\' | Pixi5-10_4G | 9026T |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | A3 10\'\' | Pixi5-10_4G | 9026X |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | A3 10" | Pixi5-10_4G | 9026T |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | A3 10" | Pixi5-10_4G | 9026X |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | A3 PLUS | mickey6t | 5049E |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | A3 PLUS | mickey6t | 5049G |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | A3 XL | PIXI5-6_4G | 9008A |  |  | 2017-10-19 | 2017-10-19 |
@@ -4161,10 +4161,10 @@
 | Vestel | V TAB 7020A | V_TAB_7020A | V_TAB_7020A |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V TAB 7025 | V_TAB_7025 | V_TAB_7025 |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V TAB 7810 | V_TAB_7810 | V_TAB_7810 |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | V TAB 7\'\' LITE II | V_TAB_7_LITE_II | V_TAB_7_LITE_II |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | V TAB 7" LITE II | V_TAB_7_LITE_II | V_TAB_7_LITE_II |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V TAB 8010 | V_TAB_8010 | V_TAB_8010 |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V TAB 8029 | V_TAB_8029 | V TAB 8029 |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | V TAB 9.7\'\' PRO | VT97PRO | VT97PRO |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | V TAB 9.7" PRO | VT97PRO | VT97PRO |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V3 5580 Dual | Orsa | V3_5580_Dual |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | Venus V3 5010 | DynoLight | Venus_V3_5010 |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | Venus V3 5020 | Arya | Venus_V3_5020 |  |  | 2017-10-19 | 2017-10-19 |
@@ -4196,10 +4196,10 @@
 | Vestel | VSP355g | g55 | VSP355g |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VSP355s | s55 | VSP355s |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT10E | VT10E | VT10E |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | VT10E2 | VT10E2 | S TAB 10\'\' II |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | VT10E2 | VT10E2 | V TAB 10\'\' LITE |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | VT10E2 | VT10E2 | S TAB 10" II |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | VT10E2 | VT10E2 | V TAB 10" LITE |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT10E2 | VT10E2 | VT10E2 |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | VT785P2 | VT785P2 | V TAB 7.85\'\' LITE |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | VT785P2 | VT785P2 | V TAB 7.85" LITE |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT785P2 | VT785P2 | VT785P2-Celcus |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT785P2 | VT785P2 | VT785P2-Cleverpad |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT785P2 | VT785P2 | VT785P2-Finlux |  |  | 2017-10-19 | 2017-10-19 |

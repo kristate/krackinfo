@@ -1465,14 +1465,14 @@
 | Lexibook | Fluo XL | MFC191FR2 | MFC191FR2 |  |  | 2017-10-19 | 2017-10-19 |
 | Lexibook | Fluo | MFC145FR1 | MFC145FR1 |  |  | 2017-10-19 | 2017-10-19 |
 | Lexibook | LexiTab 10" | MFC512 | MFC512FR |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 10\'\' | mfc511 | MFC511DE |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 10\'\' | mfc511 | MFC511EN |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 10\'\' | mfc511 | MFC511FR |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 10" | mfc511 | MFC511DE |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 10" | mfc511 | MFC511EN |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 10" | mfc511 | MFC511FR |  |  | 2017-10-19 | 2017-10-19 |
 | Lexibook | LexiTab 7" | MFC147 | MFC147FR |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 7\'\' | MFC146DE | MFC146DE |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 7\'\' | MFC146EN | MFC146EN |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 7\'\' | MFC146FR | MFC146FR |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 7\'\' | MFC146ES | MFC146ES |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 7" | MFC146DE | MFC146DE |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 7" | MFC146EN | MFC146EN |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 7" | MFC146FR | MFC146FR |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 7" | MFC146ES | MFC146ES |  |  | 2017-10-19 | 2017-10-19 |
 | Lexibook | MFC191 | MFC191 | S952 |  |  | 2017-10-19 | 2017-10-19 |
 | Lexibook | Playdroid | lbox500 | LBOX500 |  |  | 2017-10-19 | 2017-10-19 |
 | Lgcns | LPT_200AR | LPT_200AR | LPT_200AR |  |  | 2017-10-19 | 2017-10-19 |
