@@ -447,7 +447,7 @@
 | Just5 | Konrow | Konrow | Just5 |  |  | 2017-10-19 | 2017-10-19 |
 | Just5 | M503 | M503 | M503 |  |  | 2017-10-19 | 2017-10-19 |
 | JVC |  | gener | RY-AP1 |  |  | 2017-10-19 | 2017-10-19 |
-| JVC | DM65UXR\\DM65USR\\DM85UXR | mstarnapoli_atsc | DM65UXR |  |  | 2017-10-19 | 2017-10-19 |
+| JVC | DM65UXR / DM65USR / DM85UXR | mstarnapoli_atsc | DM65UXR |  |  | 2017-10-19 | 2017-10-19 |
 | K-Lite | K-LITE NEXT M1 | K-LITE_NEXT_M1 | K-LITE_NEXT_M1 |  |  | 2017-10-19 | 2017-10-19 |
 | K-Touch |  | whistler | W808 |  |  | 2017-10-19 | 2017-10-19 |
 | K-Touch | K-Touch920 | KTOUCH920 | K-Touch 920 |  |  | 2017-10-19 | 2017-10-19 |
