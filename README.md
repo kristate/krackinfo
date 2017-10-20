@@ -64,7 +64,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Mojo Networks | X |  |  |
 | Ruckus |  | X |  |
 | Synology | [X](https://www.synology.com/en-us/releaseNote/DS414) |  |  |
-| Turris Omnia |  | X |  |
+| Turris Omnia |[X](https://forum.turris.cz/t/turris-os-3-8-4-is-out-with-krack-fix/5391)|  |  |
 | Ubiquiti | [X](https://community.ubnt.com/t5/UniFi-Updates-Blog/bg-p/Blog_UniFi) |  |  |
 | Ubuntu | [X](https://usn.ubuntu.com/usn/usn-3455-1/) |  |  |
 | UniFi | [X](https://community.ubnt.com/t5/UniFi-Updates-Blog/FIRMWARE-3-9-3-7537-for-UAP-USW-has-been-released/ba-p/2099365) |  |  |
