@@ -99,6 +99,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | CentOS | [CentOS 6](https://lists.centos.org/pipermail/centos-announce/2017-October/022570.html), [CentOS 7](https://lists.centos.org/pipermail/centos-announce/2017-October/022569.html) | From upstream Red Hat Security Advisories [RHSA-2017:2911](https://access.redhat.com/errata/RHSA-2017:2911), and [RHSA-2017:2907](https://access.redhat.com/errata/RHSA-2017:2907) Arch: Centos6 [i386](http://mirror.centos.org/centos-6/6/updates/i386/Packages/), [x86_64](http://mirror.centos.org/centos-6/6/updates/x86_64/Packages/); Centos7 [x86_64](http://mirror.centos.org/centos-7/7.4.1708/updates/x86_64/Packages/), [ARM](http://mirror.centos.org/altarch/7/updates/armhfp/Packages/) (Raspberry PI), [ppc64](http://mirror.centos.org/altarch/7/updates/ppc64/Packages/), [ppc64le](http://mirror.centos.org/altarch/7/updates/ppc64le/Packages/),  | 2017-10-18 | 2017-10-18 |  |
 | Cisco | [LINK](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171016-wpa) | Multiple Cisco wireless products are affected by these vulnerabilities. | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Comcast | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| ConnMann | No Known Official Response | Connman has not released any information or updates yet. [LINK](https://01.org/connman/blogs) | 2017-10-17 | 2017-10-20 |  |
 | CZ.NIC Turris | [LINK](https://forum.turris.cz/t/major-wpa2-vulnerability-to-be-disclosed/5363/8) | via @spike411: CZ.NIC Turris team is testing a fix (backported from hostapd upstream): [LINK](https://gitlab.labs.nic.cz/turris/openwrt/commit/a60970f33f65bfb1d531ce822bfd28ee049a702f) | 2017-10-16 | 2017-10-16 |  |
 | D-Link | [LINK](http://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10075) | N/A | 2017-10-17 | 2017-10-17 |  |
 | DD-WRT | [LINK](http://svn.dd-wrt.com/changeset/33525) | N/A | 2017-10-17 | 2017-10-17 |  |
@@ -190,10 +191,11 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Ubuntu | [LINK](https://usn.ubuntu.com/usn/usn-3455-1/) | Updates are available for wpasupplicant and hostapd in Ubuntu 17.04, Ubuntu 16.04 LTS, and Ubuntu 14.04 LTS. wpasupplicant and hostapd were updated before the release of Ubuntu 17.10. | 2017-10-16 | 2017-10-16 |  |
 | Volumio | [LINK](https://volumio.org/forum/changelog-t1575.html) | Updates are available for wpasupplicant and hostapd in Volumio starting from version 2.296 | 2017-10-18 | 2017-10-18 |  |
 | WatchGuard | [LINK](https://www.watchguard.com/wgrd-blog/wpa-and-wpa2-vulnerabilities-update) | Sunday, October 15, 2017:,AP120, 320, 322, 420:,Release 8.3.0-657, Cloud mode only . Monday, October 30, 2017: AP300: Release 2.0.0.9 ,AP100, 102, 200: Release 1.2.9.14, AP120, 320, 322, 420:,Release 8.3.0-657, Non-Cloud (GWC mode) | 2017-10-17 | 2017-10-17 |  |
+| webOS | No Known Official Response | Also see entry ConnMan | 2017-10-17 | 2017-10-20 |  |
 | WiFi Alliance | [LINK](https://www.wi-fi.org/security-update-october-2017) | Users should refer to their Wi-Fi device vendor’s website or security advisories to determine if their device has been affected and has an update available. As always, Wi-Fi users should ensure they have installed the latest recommended updates from device manufacturers. | 2017-10-16 | 2017-10-16 |  |
 | Xfinity | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Xirrus | [LINK](https://www.xirrus.com/vulnerability-statements/) | As soon as the patch is released, it will be made available through the Xirrus Support Community. | 2017-10-17 | 2017-10-17 |  |
 | Yamaha | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Yi (Xiaomi) | No Known Official Response | "Waiting on a reply" | 2017-10-17 | 2017-10-17 |  |
-| ZTE | No Known Official Response | Also see entry KPN | 2017-10-17 | 2017-10-17 |  |
+| ZTE | No Known Official Response | Also see entry KPN | 2017-10-17 | 2017-10-20 |  |
 | ZyXEL | [LINK](http://www.zyxel.com/support/announcement_wpa2_key_management.shtml) | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
