@@ -195,5 +195,5 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Xirrus | [LINK](https://www.xirrus.com/vulnerability-statements/) | As soon as the patch is released, it will be made available through the Xirrus Support Community. | 2017-10-17 | 2017-10-17 |  |
 | Yamaha | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Yi (Xiaomi) | No Known Official Response | "Waiting on a reply" | 2017-10-17 | 2017-10-17 |  |
-| ZTE | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| ZTE | No Known Official Response | Also see entry KPN | 2017-10-17 | 2017-10-17 |  |
 | ZyXEL | [LINK](http://www.zyxel.com/support/announcement_wpa2_key_management.shtml) | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
