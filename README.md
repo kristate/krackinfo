@@ -65,6 +65,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Mojo Networks | X |  |  |
 | Ruckus |  | X |  |
 | Synology | [X](https://www.synology.com/en-us/releaseNote/DS414) |  |  |
+| SUSE / openSUSE | [X](https://bugzilla.suse.com/show_bug.cgi?id=1056061) | [X](https://bugzilla.suse.com/show_bug.cgi?id=1063479)  |  |
 | Turris Omnia |[X](https://forum.turris.cz/t/turris-os-3-8-4-is-out-with-krack-fix/5391)|  |  |
 | Ubiquiti | [X](https://community.ubnt.com/t5/UniFi-Updates-Blog/bg-p/Blog_UniFi) |  |  |
 | Ubuntu | [X](https://usn.ubuntu.com/usn/usn-3455-1/) |  |  |
@@ -177,7 +178,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Sonos | [LINK](https://en.community.sonos.com/ask-a-question-228987/is-sonos-vulnerable-to-the-krack-attack-6792188) | We're aware of the issues with WPA2 and our team is working to determine any ramifications this may have for Sonos players. | 2017-10-18 | 2017-10-18 |  |
 | Sony | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Sophos AP | [LINK](https://community.sophos.com/kb/en-us/127658) | N/A | 2017-10-17 | 2017-10-17 |  |
-| SUSE / openSUSE | [LINK](https://bugzilla.suse.com/show_bug.cgi?id=1063479) |  | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
+| SUSE / openSUSE | [hostap](https://bugzilla.suse.com/show_bug.cgi?id=1063479)  [wpa_supplicant](https://bugzilla.suse.com/show_bug.cgi?id=1056061) |  Patches available for `wpa_supplicant`. `hostap` in the works. See links for details | 2017-10-20 | 2017-10-20 | 28 Aug 2017 |
 | Swisscom | [LINK](https://supportcommunity.swisscom.ch/t5/Diskussionen-%C3%BCber-Ger%C3%A4te-und/WPA2-Leack-wirklich-oder-wieder-nur-Baitfishing/m-p/511992#M18540) | Internet Box routers not affected. Centro routers and AirTies repeaters to be clarified. | 2017-10-17 | 2017-10-17 | |
 | Synology | [LINK](https://www.synology.com/en-us/support/security/Synology_SA_17_60_KRACK) | Synology DiskStation Manager (DSM) with attached WiFi dongle and Synology Router Manager (SRM) are vulnerable to Krack. According to Synology, updates for affected products will be released soon. | 2017-10-17 | 2017-10-17 |  |
 | Tesco | [LINK](https://twitter.com/Tesco/status/920254455135854592) | Tesco has chosen not to patch the Hudl: "There will be no further updates to the hudl software" | 2017-10-17 | 2017-10-17 |  |
