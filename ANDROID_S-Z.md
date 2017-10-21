@@ -4606,40 +4606,40 @@
 | Xiaomi | HM NOTE 1S CT | gucci | HM NOTE 1S |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | HM NOTE 1TD | lcsh92_wet_tdd | HM NOTE 1TD |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | HM NOTE 1W | lcsh92_wet_jb9 | HM NOTE 1W |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | HM Note 2 | hermes | Redmi Note 2 |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | HM Note 2 | hermes | Redmi Note 2 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | Hong Mi | HM2013022 | 2013022 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | MI 2 | aries | MI 2 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | MI 2 | aries | MI 2S |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | MI 2 | aries | MI 2 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | MI 2 | aries | MI 2S | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MI 2A | taurus | MI 2A |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Mi 3 | pisces | MI 3 |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | Mi 3 | pisces | MI 3 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MI 3W | cancro | MI 3W |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | Mi 4c | libra | Mi-4c |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Mi 4i | ferrari | Mi 4i |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | Mi 4i | ferrari | Mi 4i | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MI 4LTE | cancro | MI 4C |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI 4LTE | cancro | MI 4LTE |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI 4LTE | cancro | MI 4W |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI 4LTE-CT | cancro | MI 4LTE |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI 4s | aqua | MI 4S |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Mi 5 | gemini | MI 5 |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | Mi 5 | gemini | MI 5 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MI 5C | meri | Meri |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI 5C | meri | MI 5C |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | MI 5s Plus | natrium | MI 5s Plus |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Mi 5s | capricorn | MI 5s |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | MI 5s Plus | natrium | MI 5s Plus | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Mi 5s | capricorn | MI 5s | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MI 5X | tiffany | MI 5X |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | Mi A1 | tissot_sprout | MI A1 |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | Mi A1 | tissot_sprout | Mi A1 |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | Mi Box | once | MIBOX3 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | MI MAX 2 | oxygen | MI MAX 2 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | MI MAX | helium | MI MAX |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | MI MAX | hydrogen | MI MAX |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | MI MAX 2 | oxygen | MI MAX 2 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | MI MAX | helium | MI MAX | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | MI MAX | hydrogen | MI MAX | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MI Note 3 | jason | Mi Note 3 |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI NOTE LTE | virgo | MI NOTE LTE |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI NOTE Pro | leo | MI NOTE Pro |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Mi Note | virgo | MI NOTE LTE |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Mi Note2 | scorpio | Mi Note 2 |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | Mi Note | virgo | MI NOTE LTE | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Mi Note2 | scorpio | Mi Note 2 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MI PAD 3 | cappu | MI PAD 3 |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI PAD | mocha | MI PAD |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | MI6 | sagit | MI 6 |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | MI6 | sagit | MI 6 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MiBOX1S | casablanca | MiBOX1S |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MiBOX2 | dredd | MiBOX2 |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MiBOX3S | queenchristina | MiBOX3S |  |  | 2017-10-19 | 2017-10-19 |
@@ -4654,20 +4654,20 @@
 | Xiaomi | MIX 2 | chiron | MIX 2 |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MIX | lithium | lithium |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MIX | lithium | MIX |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi 3 | ido | ido |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi 3 | ido | Redmi 3 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi 3S | land | Redmi 3S |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi 4 Pro | markw | Redmi 4 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi 4 | prada | Redmi 4 |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | Redmi 3 | ido | ido | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi 3 | ido | Redmi 3 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi 3S | land | Redmi 3S | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi 4 Pro | markw | Redmi 4 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi 4 | prada | Redmi 4 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | Redmi 4A | rolex | Redmi 4A |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi 4X | santoni | Redmi 4X |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi 4X | santoni | santoni |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi Note 3 | hennessy | Redmi Note 3 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi Note 3 | kate | Redmi Note 3 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi Note 3 | kenzo | Redmi Note 3 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi Note 4 | mido | Redmi Note 4 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi Note 4 | mido | Redmi Note 4X |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi Note 4 | nikel | Redmi Note 4 |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | Redmi 4X | santoni | Redmi 4X | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi 4X | santoni | santoni | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi Note 3 | hennessy | Redmi Note 3 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi Note 3 | kate | Redmi Note 3 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi Note 3 | kenzo | Redmi Note 3 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi Note 4 | mido | Redmi Note 4 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi Note 4 | mido | Redmi Note 4X | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi Note 4 | nikel | Redmi Note 4 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | Redmi Note 5A | ugg | Redmi Note 5A |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | Redmi Note 5A | ugg | Redmi Y1 |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | Redmi Note 5A | ugglite | Redmi Note 5A |  |  | 2017-10-19 | 2017-10-19 |
