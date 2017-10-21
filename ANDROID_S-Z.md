@@ -621,7 +621,7 @@
 | Samsung | Galaxy J5(2016) | j5x3g | SM-J510H |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J5(2016) | j5xltecmcc | SM-J5108 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J5(2016) | j5xnlte | SM-J510F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2016) | j5xnlte | SM-J510FN |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy J5(2016) | j5xnlte | SM-J510FN |No (security updates are from 1. August in last update for phone)  |Spoke with support, they did not indicated the patch will be with certainty, but they are patching most of the devices for KRACK  | 2017-10-19 | 2017-10-21 |
 | Samsung | Galaxy J5(2016) | j5xnlte | SM-J510FQ |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J5(2016) | j5xnlte | SM-J510GN |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J5(2016) | j5xnlte | SM-J510MN |  |  | 2017-10-19 | 2017-10-19 |
