@@ -5,6 +5,8 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 
 ***Unless a known patch has been applied, assume that all WPA2 enabled Wi-fi devices are vulnerable.***
 
+# ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Administrators: Remember to <a href="https://github.com/kristate/krackinfo/subscription">watch this page</a> for changes
+
 ## Go Directly to [Vendor Response Matrix](#vendor-response-complete)
 ## For Android devices please check the [Android Response Matrix](ANDROID.md)
 ## 日本人の皆さまへ： [こちらをご覧ください](/krackinfo_JA-JP.md)(日本語)
@@ -92,7 +94,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Asus | [LINK](https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/) | Additionally, an email response from "security@asus.com" says that they are "co-working with chipset vendors for solutions and will release patched firmware for affected routers soon. If your router is RT-N12 D1, RT-N66U, RT-AC66U, RT-AC68U, RT-AC3200, RT-AC88U, RT-AC3100, RT-AC5300 or GT-AC5300 then your router is not affected by the WPA2 vulnerability in router and AP mode." | 2017-10-17 | 2017-10-18 |  |
 | AVM (FRITZ!Box)  | [LINK](https://en.avm.de/news/short-notes/2017/wpa2-flaw-fritzbox-on-broadband-connections-are-secure/) | WPA2 flaw – FRITZ!Box on broadband connections are secure. AVM will provide updates for its wireless repeaters. Firmware update for [FRITZ!WLAN Repeater 1750E](http://ftp.avm.de/fritz.box/fritz.wlan_repeater_1750E/firmware/englisch/info.txt) available | 2017-10-18 | 2017-10-20 |  |
 | Barracuda Networks | [LINK](https://community.barracudanetworks.com/forum/index.php?/topic/23525-security-advisories/page-2#entry84537) | Our investigations indicate that currently only Barracuda NextGen Firewall Wi-Fi Models used under Wi-Fi Client mode are affected. | 2017-10-17 | 2017-10-17 |  |
-| Belkin, Linksys, and Wemo | [LINK(Linksys)](https://www.linksys.com/us/support-article?articleNum=246427) | "Belkin Linksys, and Wemo are aware of the WPA vulnerability.  Our security teams are verifying details and we will advise accordingly.  Also know that we are committed to putting the customer first and are planning to post instructions on our security advisory page on what customers can do to update their products, if and when required." | 2017-10-17 | 2017-10-17 |  |
+| Belkin, Linksys, and Wemo | [LINK](https://www.linksys.com/us/support-article?articleNum=246427) | "We are still confirming all product skus affected, including Belkin Routers and Range Extenders, Linksys Routers, Adapters, Access Points, Bridges and Range Extenders and Wemo Products.  As mentioned, when firmware is available, it will be posted to the associated brands’ support page." | 2017-10-21 | 2017-10-19 |  |
 | Broadcom / Cypress | [LINK](https://community.cypress.com/docs/DOC-13871) (Cypress community login required) | WICED Studio, `wpa_supplicant`, and linux releases in late October will address the relevant CVEs. | 2017-10-18 | 2017-10-18 |  |
 | Brother | No Known Official Response | N/A | 2017-10-19 | 2017-10-19 |  |
 | Buffalo / MELCO | [LINK(JA)](http://buffalo.jp/support_s/t20171017.html) | N/A | 2017-10-18 | 2017-10-18 |  |
@@ -148,10 +150,12 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Meraki | [LINK](https://documentation.meraki.com/zGeneral_Administration/Support/802.11r_Vulnerability_(CVE%3A_2017-13082)_FAQ) | Fixed for Cisco Meraki in 24.11 and 25.7 | 2017-10-16 | 2017-10-16 |  |
 | Microchip Technology | [LINK](http://www.microchip.com/design-centers/wireless-connectivity/embedded-wi-fi/wpa2-protocol-vulnerability) | N/A | 2017-10-17 | 2017-10-17 | 28 Aug 2017 |
 | Microsoft | [Windows Related](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-13080) | When clicking the link, accept the EULA then click the link again | 2017-10-16 | 2017-10-16 |  |
+| MidnightBSD | No Known Official Response | Workaround available by installing wpa_supplicant from mports/security/wpa_supplicant | 2017-10-21 | 2017-10-21 |  |
 | Mikrotik | [LINK](https://forum.mikrotik.com/viewtopic.php?f=21&t=126695) | We released fixed versions last week, so if you upgrade your devices routinely, no further action is required. | 2017-10-16 | 2017-10-16 |  |
 | Mojo Networks | [LINK](https://www.mojonetworks.com/wpa2-vulnerability) | Update to cloud management platform completed. In order to mitigate client-side vulnerabilities, Mojo recommends upgrading AP software to version 8.5, and enabling MAC Spoofing and Man-in-the-middle attack prevention with built-in WIPs. | 2017-10-17 | 2017-10-17 |  |
 | NEC (ATERM) | [LINK(JA)](http://www.aterm.jp/product/atermstation/info/2017/info1018.html) | N/A | 2017-10-20 | 2017-10-20 |  |
 | Nest Labs | No Known Official Response | Nest Tweeted: "We plan to roll out patches to our products in the coming weeks.  These won't require any action on the part of the user." | 2017-10-17 | 2017-10-17 |  |
+| netBSD | [LINK](http://mail-index.netbsd.org/pkgsrc-changes/2017/10/17/msg165433.html) | N/A | 2017-10-22 | 2017-10-22 |  |
 | Netgear | [LINK](https://kb.netgear.com/000049498/Security-Advisory-for-WPA-2-Vulnerabilities-PSV-2017-2826-PSV-2017-2836-PSV-2017-2837) | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nikon | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nintendo | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
