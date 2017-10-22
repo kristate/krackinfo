@@ -155,6 +155,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Mojo Networks | [LINK](https://www.mojonetworks.com/wpa2-vulnerability) | Update to cloud management platform completed. In order to mitigate client-side vulnerabilities, Mojo recommends upgrading AP software to version 8.5, and enabling MAC Spoofing and Man-in-the-middle attack prevention with built-in WIPs. | 2017-10-17 | 2017-10-17 |  |
 | NEC (ATERM) | [LINK(JA)](http://www.aterm.jp/product/atermstation/info/2017/info1018.html) | N/A | 2017-10-20 | 2017-10-20 |  |
 | Nest Labs | No Known Official Response | Nest Tweeted: "We plan to roll out patches to our products in the coming weeks.  These won't require any action on the part of the user." | 2017-10-17 | 2017-10-17 |  |
+| netBSD | [LINK](http://mail-index.netbsd.org/pkgsrc-changes/2017/10/17/msg165433.html) | N/A | 2017-10-22 | 2017-10-22 |  |
 | Netgear | [LINK](https://kb.netgear.com/000049498/Security-Advisory-for-WPA-2-Vulnerabilities-PSV-2017-2826-PSV-2017-2836-PSV-2017-2837) | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nikon | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nintendo | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
