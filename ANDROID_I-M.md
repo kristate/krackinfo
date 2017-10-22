@@ -447,7 +447,7 @@
 | Just5 | Konrow | Konrow | Just5 |  |  | 2017-10-19 | 2017-10-19 |
 | Just5 | M503 | M503 | M503 |  |  | 2017-10-19 | 2017-10-19 |
 | JVC |  | gener | RY-AP1 |  |  | 2017-10-19 | 2017-10-19 |
-| JVC | DM65UXR\\DM65USR\\DM85UXR | mstarnapoli_atsc | DM65UXR |  |  | 2017-10-19 | 2017-10-19 |
+| JVC | DM65UXR / DM65USR / DM85UXR | mstarnapoli_atsc | DM65UXR |  |  | 2017-10-19 | 2017-10-19 |
 | K-Lite | K-LITE NEXT M1 | K-LITE_NEXT_M1 | K-LITE_NEXT_M1 |  |  | 2017-10-19 | 2017-10-19 |
 | K-Touch |  | whistler | W808 |  |  | 2017-10-19 | 2017-10-19 |
 | K-Touch | K-Touch920 | KTOUCH920 | K-Touch 920 |  |  | 2017-10-19 | 2017-10-19 |
@@ -965,7 +965,7 @@
 | Lenovo | 55E82, 49E82, 50U3A, 58U3A, 70UD30A, 60UD30A, 80UD30A, 65UR30A | sun | LenovoTV 49E82 |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | 55E82, 49E82, 50U3A, 58U3A, 70UD30A, 60UD30A, 80UD30A, 65UR30A | sun | LenovoTV 55E82 |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | 60K72 | ideatv_K72 | ideatv K72 |  |  | 2017-10-19 | 2017-10-19 |
-| Lenovo | \t Lenovo YOGA Laptop with Android | YOGABOOK12 | Lenovo YB-Q501F |  |  | 2017-10-19 | 2017-10-19 |
+| Lenovo | Lenovo YOGA Laptop with Android | YOGABOOK12 | Lenovo YB-Q501F |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | A10 | A10 | IdeaPadA10 |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | A10-70LC | A10-70LC | Lenovo TAB 2 A10-70LC |  |  | 2017-10-19 | 2017-10-19 |
 | Lenovo | A1000 | A1000 | Lenovo A1000 |  |  | 2017-10-19 | 2017-10-19 |
@@ -1465,14 +1465,14 @@
 | Lexibook | Fluo XL | MFC191FR2 | MFC191FR2 |  |  | 2017-10-19 | 2017-10-19 |
 | Lexibook | Fluo | MFC145FR1 | MFC145FR1 |  |  | 2017-10-19 | 2017-10-19 |
 | Lexibook | LexiTab 10" | MFC512 | MFC512FR |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 10\'\' | mfc511 | MFC511DE |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 10\'\' | mfc511 | MFC511EN |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 10\'\' | mfc511 | MFC511FR |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 10" | mfc511 | MFC511DE |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 10" | mfc511 | MFC511EN |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 10" | mfc511 | MFC511FR |  |  | 2017-10-19 | 2017-10-19 |
 | Lexibook | LexiTab 7" | MFC147 | MFC147FR |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 7\'\' | MFC146DE | MFC146DE |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 7\'\' | MFC146EN | MFC146EN |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 7\'\' | MFC146FR | MFC146FR |  |  | 2017-10-19 | 2017-10-19 |
-| Lexibook | LexiTab 7\'\'\t | MFC146ES | MFC146ES |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 7" | MFC146DE | MFC146DE |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 7" | MFC146EN | MFC146EN |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 7" | MFC146FR | MFC146FR |  |  | 2017-10-19 | 2017-10-19 |
+| Lexibook | LexiTab 7" | MFC146ES | MFC146ES |  |  | 2017-10-19 | 2017-10-19 |
 | Lexibook | MFC191 | MFC191 | S952 |  |  | 2017-10-19 | 2017-10-19 |
 | Lexibook | Playdroid | lbox500 | LBOX500 |  |  | 2017-10-19 | 2017-10-19 |
 | Lgcns | LPT_200AR | LPT_200AR | LPT_200AR |  |  | 2017-10-19 | 2017-10-19 |

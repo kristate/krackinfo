@@ -52,7 +52,7 @@
 | Samsung |  | SHW-M460D | SHW-M460D |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung |  | stunnerltespr | SPH-L500 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung |  | superiorchn | GT-I9260 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | \t Galaxy A7(2016) | a7xltechn | SM-A710XZ |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy A7(2016) | a7xltechn | SM-A710XZ |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Absolute | GT-B9120 | GT-B9120 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Acclaim | SCH-R880 | SCH-R880 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Admire | SCH-R720 | SCH-R720 |  |  | 2017-10-19 | 2017-10-19 |
@@ -621,7 +621,7 @@
 | Samsung | Galaxy J5(2016) | j5x3g | SM-J510H |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J5(2016) | j5xltecmcc | SM-J5108 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J5(2016) | j5xnlte | SM-J510F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2016) | j5xnlte | SM-J510FN |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy J5(2016) | j5xnlte | SM-J510FN |No (security updates are from 1. August in last update for phone)  |Spoke with support, they did not indicated the patch will be with certainty, but they are patching most of the devices for KRACK  | 2017-10-19 | 2017-10-21 |
 | Samsung | Galaxy J5(2016) | j5xnlte | SM-J510FQ |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J5(2016) | j5xnlte | SM-J510GN |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J5(2016) | j5xnlte | SM-J510MN |  |  | 2017-10-19 | 2017-10-19 |
@@ -2623,14 +2623,14 @@
 | Sourcing Creation | Connect502 | Connect502 | Connect502 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | Connect502 | MT502 | Connect502 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | Connect551 | Connect551 | Connect551 |  |  | 2017-10-19 | 2017-10-19 |
-| Sourcing Creation | Key\'TAB 1001 | MB979T9 | Smarttab_9701 |  |  | 2017-10-19 | 2017-10-19 |
+| Sourcing Creation | Key TAB 1001 | MB979T9 | Smarttab_9701 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | Smart Tab 1004XS | SmartTab_1004_XS | SmartTab_1004_XS |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | Smart TAB 1005 | M16Q1C | SmartTab1005 |  |  | 2017-10-19 | 2017-10-19 |
-| Sourcing Creation | Smart\' Tab 1006 | M16Q1A | SmartTab1006 |  |  | 2017-10-19 | 2017-10-19 |
+| Sourcing Creation | Smart Tab 1006 | M16Q1A | SmartTab1006 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | SmartTab_8004 | T814 | SmartTab_8004 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | sp401 | sp401 | sp401 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | ST1003S | T1882R | Smart_TAB_1003s |  |  | 2017-10-19 | 2017-10-19 |
-| Sourcing Creation | Web\'Pad_1002_02 | Webpad_1002_02 | Webpad_1002_02 |  |  | 2017-10-19 | 2017-10-19 |
+| Sourcing Creation | Web Pad_1002_02 | Webpad_1002_02 | Webpad_1002_02 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | webpad_7005 | MB709Q5 | Webpad_7005 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | Wooze I 5 | Wooze_I5 | Wooze_I5 |  |  | 2017-10-19 | 2017-10-19 |
 | Sourcing Creation | Wooze I 5.5 Gris | Wooze_I55 | Wooze_I55 |  |  | 2017-10-19 | 2017-10-19 |
@@ -3029,10 +3029,10 @@
 | TCT (Alcatel) | 9030G | POP4-10_4G | 9030G |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | 9030Q | POP4-10_4G | 9030Q |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | 9203A | Pixi5-7_3G | 9203A |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | \t ALCATEL ONETOUCH PIXI 3 (3.5) | PIXI3_35 | SoshPhone_mini |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | \t ALCATEL ONETOUCH PIXI 3 (4.5) | PIXI3_45_4G | 5017X |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | A3 10\'\' | Pixi5-10_4G | 9026T |  |  | 2017-10-19 | 2017-10-19 |
-| TCT (Alcatel) | A3 10\'\' | Pixi5-10_4G | 9026X |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | ALCATEL ONETOUCH PIXI 3 (3.5) | PIXI3_35 | SoshPhone_mini |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | ALCATEL ONETOUCH PIXI 3 (4.5) | PIXI3_45_4G | 5017X |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | A3 10" | Pixi5-10_4G | 9026T |  |  | 2017-10-19 | 2017-10-19 |
+| TCT (Alcatel) | A3 10" | Pixi5-10_4G | 9026X |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | A3 PLUS | mickey6t | 5049E |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | A3 PLUS | mickey6t | 5049G |  |  | 2017-10-19 | 2017-10-19 |
 | TCT (Alcatel) | A3 XL | PIXI5-6_4G | 9008A |  |  | 2017-10-19 | 2017-10-19 |
@@ -4161,10 +4161,10 @@
 | Vestel | V TAB 7020A | V_TAB_7020A | V_TAB_7020A |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V TAB 7025 | V_TAB_7025 | V_TAB_7025 |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V TAB 7810 | V_TAB_7810 | V_TAB_7810 |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | V TAB 7\'\' LITE II | V_TAB_7_LITE_II | V_TAB_7_LITE_II |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | V TAB 7" LITE II | V_TAB_7_LITE_II | V_TAB_7_LITE_II |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V TAB 8010 | V_TAB_8010 | V_TAB_8010 |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V TAB 8029 | V_TAB_8029 | V TAB 8029 |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | V TAB 9.7\'\' PRO | VT97PRO | VT97PRO |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | V TAB 9.7" PRO | VT97PRO | VT97PRO |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | V3 5580 Dual | Orsa | V3_5580_Dual |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | Venus V3 5010 | DynoLight | Venus_V3_5010 |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | Venus V3 5020 | Arya | Venus_V3_5020 |  |  | 2017-10-19 | 2017-10-19 |
@@ -4196,10 +4196,10 @@
 | Vestel | VSP355g | g55 | VSP355g |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VSP355s | s55 | VSP355s |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT10E | VT10E | VT10E |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | VT10E2 | VT10E2 | S TAB 10\'\' II |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | VT10E2 | VT10E2 | V TAB 10\'\' LITE |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | VT10E2 | VT10E2 | S TAB 10" II |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | VT10E2 | VT10E2 | V TAB 10" LITE |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT10E2 | VT10E2 | VT10E2 |  |  | 2017-10-19 | 2017-10-19 |
-| Vestel | VT785P2 | VT785P2 | V TAB 7.85\'\' LITE |  |  | 2017-10-19 | 2017-10-19 |
+| Vestel | VT785P2 | VT785P2 | V TAB 7.85" LITE |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT785P2 | VT785P2 | VT785P2-Celcus |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT785P2 | VT785P2 | VT785P2-Cleverpad |  |  | 2017-10-19 | 2017-10-19 |
 | Vestel | VT785P2 | VT785P2 | VT785P2-Finlux |  |  | 2017-10-19 | 2017-10-19 |
@@ -4515,7 +4515,7 @@
 | Wiko | RAINBOW | s5501 | RAINBOW |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | RIDGE 4G | l5510 | RIDGE 4G |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | RIDGE FAB 4G | l5320 | RIDGE FAB 4G |  |  | 2017-10-19 | 2017-10-19 |
-| Wiko | RIDGE\t\t | s5513ap | RIDGE |  |  | 2017-10-19 | 2017-10-19 |
+| Wiko | RIDGE | s5513ap | RIDGE |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | ROBBY | V3750AN | ROBBY |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | ROBBY | V3750AN24K | ROBBY |  |  | 2017-10-19 | 2017-10-19 |
 | Wiko | SELFY 4G | l4801 | SELFY 4G |  |  | 2017-10-19 | 2017-10-19 |
@@ -4606,40 +4606,40 @@
 | Xiaomi | HM NOTE 1S CT | gucci | HM NOTE 1S |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | HM NOTE 1TD | lcsh92_wet_tdd | HM NOTE 1TD |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | HM NOTE 1W | lcsh92_wet_jb9 | HM NOTE 1W |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | HM Note 2 | hermes | Redmi Note 2 |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | HM Note 2 | hermes | Redmi Note 2 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | Hong Mi | HM2013022 | 2013022 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | MI 2 | aries | MI 2 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | MI 2 | aries | MI 2S |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | MI 2 | aries | MI 2 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | MI 2 | aries | MI 2S | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MI 2A | taurus | MI 2A |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Mi 3 | pisces | MI 3 |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | Mi 3 | pisces | MI 3 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MI 3W | cancro | MI 3W |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | Mi 4c | libra | Mi-4c |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Mi 4i | ferrari | Mi 4i |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | Mi 4i | ferrari | Mi 4i | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MI 4LTE | cancro | MI 4C |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI 4LTE | cancro | MI 4LTE |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI 4LTE | cancro | MI 4W |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI 4LTE-CT | cancro | MI 4LTE |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI 4s | aqua | MI 4S |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Mi 5 | gemini | MI 5 |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | Mi 5 | gemini | MI 5 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MI 5C | meri | Meri |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI 5C | meri | MI 5C |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | MI 5s Plus | natrium | MI 5s Plus |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Mi 5s | capricorn | MI 5s |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | MI 5s Plus | natrium | MI 5s Plus | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Mi 5s | capricorn | MI 5s | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MI 5X | tiffany | MI 5X |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | Mi A1 | tissot_sprout | MI A1 |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | Mi A1 | tissot_sprout | Mi A1 |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | Mi Box | once | MIBOX3 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | MI MAX 2 | oxygen | MI MAX 2 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | MI MAX | helium | MI MAX |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | MI MAX | hydrogen | MI MAX |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | MI MAX 2 | oxygen | MI MAX 2 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | MI MAX | helium | MI MAX | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | MI MAX | hydrogen | MI MAX | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MI Note 3 | jason | Mi Note 3 |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI NOTE LTE | virgo | MI NOTE LTE |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI NOTE Pro | leo | MI NOTE Pro |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Mi Note | virgo | MI NOTE LTE |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Mi Note2 | scorpio | Mi Note 2 |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | Mi Note | virgo | MI NOTE LTE | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Mi Note2 | scorpio | Mi Note 2 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MI PAD 3 | cappu | MI PAD 3 |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MI PAD | mocha | MI PAD |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | MI6 | sagit | MI 6 |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | MI6 | sagit | MI 6 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | MiBOX1S | casablanca | MiBOX1S |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MiBOX2 | dredd | MiBOX2 |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MiBOX3S | queenchristina | MiBOX3S |  |  | 2017-10-19 | 2017-10-19 |
@@ -4654,20 +4654,20 @@
 | Xiaomi | MIX 2 | chiron | MIX 2 |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MIX | lithium | lithium |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | MIX | lithium | MIX |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi 3 | ido | ido |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi 3 | ido | Redmi 3 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi 3S | land | Redmi 3S |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi 4 Pro | markw | Redmi 4 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi 4 | prada | Redmi 4 |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | Redmi 3 | ido | ido | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi 3 | ido | Redmi 3 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi 3S | land | Redmi 3S | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi 4 Pro | markw | Redmi 4 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi 4 | prada | Redmi 4 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | Redmi 4A | rolex | Redmi 4A |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi 4X | santoni | Redmi 4X |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi 4X | santoni | santoni |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi Note 3 | hennessy | Redmi Note 3 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi Note 3 | kate | Redmi Note 3 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi Note 3 | kenzo | Redmi Note 3 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi Note 4 | mido | Redmi Note 4 |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi Note 4 | mido | Redmi Note 4X |  |  | 2017-10-19 | 2017-10-19 |
-| Xiaomi | Redmi Note 4 | nikel | Redmi Note 4 |  |  | 2017-10-19 | 2017-10-19 |
+| Xiaomi | Redmi 4X | santoni | Redmi 4X | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi 4X | santoni | santoni | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi Note 3 | hennessy | Redmi Note 3 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi Note 3 | kate | Redmi Note 3 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi Note 3 | kenzo | Redmi Note 3 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi Note 4 | mido | Redmi Note 4 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi Note 4 | mido | Redmi Note 4X | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
+| Xiaomi | Redmi Note 4 | nikel | Redmi Note 4 | [Yes](http://en.miui.com/thread-954223-1-1.html) | Beta | 2017-10-19 | 2017-10-21 |
 | Xiaomi | Redmi Note 5A | ugg | Redmi Note 5A |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | Redmi Note 5A | ugg | Redmi Y1 |  |  | 2017-10-19 | 2017-10-19 |
 | Xiaomi | Redmi Note 5A | ugglite | Redmi Note 5A |  |  | 2017-10-19 | 2017-10-19 |
