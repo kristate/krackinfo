@@ -201,6 +201,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | webOS | No Known Official Response | Also see entry ConnMan | 2017-10-17 | 2017-10-20 |  |
 | WiFi Alliance | [LINK](https://www.wi-fi.org/security-update-october-2017) | Users should refer to their Wi-Fi device vendor’s website or security advisories to determine if their device has been affected and has an update available. As always, Wi-Fi users should ensure they have installed the latest recommended updates from device manufacturers. | 2017-10-16 | 2017-10-16 |  |
 | Xfinity | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Xiaomi | [LINK](http://en.miui.com/thread-954223-1-1.html) | MIUI Beta 9 v7.10.19 for some of the [mobile devices](ANDROID_S-Z.md) released.  | 2017-10-22 | 2017-10-22 | 2017-07-28 |2
 | Xirrus | [LINK](https://www.xirrus.com/vulnerability-statements/) | As soon as the patch is released, it will be made available through the Xirrus Support Community. | 2017-10-17 | 2017-10-17 |  |
 | Yamaha | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Yi (Xiaomi) | No Known Official Response | "Waiting on a reply" | 2017-10-17 | 2017-10-17 |  |
