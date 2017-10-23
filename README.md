@@ -113,6 +113,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | DrayTek | [LINK](http://www.draytek.co.uk/information/our-technology/wpa2-krack-vulnerability) | DrayTek are investigating solutions for this and plan to issue appropriate updates (firmware) as soon as possible. We will update this page in due course. | 2017-10-17 | 2017-10-17 |  |
 | ecobee | No Known Official Response | Twitter response [1](https://twitter.com/ecobee/status/920316685193707521) and [2](https://twitter.com/ecobee/status/920316741334552576): "ecobee is aware of the industry-wide vulnerability in WPA2 referred to as KRACK.   The security of our customers is very important to us and we have confirmed that ecobee device security is not impacted by this issue." Likely this means ecobee considers underlying https / ssl to be secure despite KRACK | 2017-10-17 | 2017-10-17 |  |
 | Edimax | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| eero | [LINK](https://blog.eero.com/krack-update-fix-available-eero-ota/) | Patched firmware automatically pushed to users OTA;  also available for download | 2017-10-17 | 2017-10-17 | |
 | ELECOM | [LINK(JA)](http://www.elecom.co.jp/support/news/20171018/) | N/A | 2017-10-20 | 2017-10-20 |  |
 | EMC Corporation | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Endian | [LINK](https://help.endian.com/hc/en-us/articles/115013641427-WPA-and-WPA2-Vulnerability-KRACK-Key-Reinstallation-Attacks-Update) | Community version is not affected. Fixed on Enterprise 5.0 | 2017-10-18 | 2017-10-18 |  |
