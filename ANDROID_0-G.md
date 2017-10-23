@@ -2496,7 +2496,7 @@
 | Explay | Winner 8 | T4730 | Winner8 |  |  | 2017-10-19 | 2017-10-19 |
 | Explay | Winner | T4728 | Winner |  |  | 2017-10-19 | 2017-10-19 |
 | FaceVsion | OC1020A | OC1020A | FV-FG6 |  |  | 2017-10-19 | 2017-10-19 |
-| Fairphone | FP2 | FP2 | FP2 |  |  | 2017-10-19 | 2017-10-19 |
+| Fairphone | FP2 | FP2 | FP2 |  | [In progress](https://forum.fairphone.com/t/fairphone-os-17-10-1-is-now-available/33737/34) | 2017-10-19 | 2017-10-19 |
 | FarEasTone | Smart 403 | msm8226 | Smart 403 |  |  | 2017-10-19 | 2017-10-19 |
 | FarEasTone | Smart 505 | Smart505 | Smart 505 |  |  | 2017-10-19 | 2017-10-19 |
 | FarEasTone | Smart501 | Smart501 | Smart501 |  |  | 2017-10-19 | 2017-10-19 |
