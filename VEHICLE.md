@@ -2,9 +2,9 @@
 Cars released with an in-car entertainment system that support Wi-Fi is likely to be vulnerable of KRACK (Key Re-installation Attacks). \
 See README.md for more information about the KRACK vulnerability.
 
-Jump to: [FCA LLC](#fca-llc-fiat-chrysler-automobiles-nv) - [GM](#gm-general-motors) - [VAG](#vag-volkswagen-group)
+Jump to: [FCA LLC](#fca-llc-fiat-chrysler-automobiles) - [GM](#gm-general-motors) - [VAG](#vag-volkswagen-group)
 
-## FCA LLC - Fiat Chrysler Automobiles N.V.
+## FCA LLC (Fiat Chrysler Automobiles)
 
 Uses [Uconnect®][] based on [QNX][]
 
@@ -58,7 +58,7 @@ SRT®
 |-------|---------|-----------|--------|---------|
 | | | | | |
 
-## GM - General Motors
+## GM (General Motors)
 Uses [MyLink/Intellilink][] based on [QNX][]
 
 #### Brands (in alhabetical order)
@@ -124,7 +124,7 @@ Wuling
 | | | | | |
 
 
-## VAG - Volkswagen Group
+## VAG (Volkswagen Group)
 Variants based on [QNX][]
 
 #### Brands (in alhabetical order)
