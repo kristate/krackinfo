@@ -52,7 +52,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Aruba | [X](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007_FAQ_Rev-1.pdf) |  |  |
 | Asus |  | [X](https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/) | X |
 | CentOS | X |  |  |
-| Cisco |  | X |  |
+| Cisco | [X](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171016-wpa) |  |  |
 | DD-WRT | X |  |  |
 | Debian | X |  |  |
 | Endian  | X |  |  |
