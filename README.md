@@ -50,7 +50,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Arch Linux | X |  |  |
 | Arista |  |  | X |
 | Aruba | [X](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007_FAQ_Rev-1.pdf) |  |  |
-| Asus |  | [X](https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/) | X |
+| Asus | [X](https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/) |  | X |
 | CentOS | X |  |  |
 | Cisco | [X](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171016-wpa) |  |  |
 | DD-WRT | X |  |  |
@@ -91,7 +91,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Apple | No Known Official Response; See comment for unofficial response | Via twitter : "Apple has confirmed to me that #wpa2 #KRACK exploit has already been patched in iOS, tvOS, watchOS, macOS betas." [LINK](https://twitter.com/reneritchie/status/919988216501030914) | 2017-10-17 | 2017-10-17 |  |
 | Arch Linux | [wpa_supplicant](https://git.archlinux.org/svntogit/packages.git/commit/trunk?h=packages/wpa_supplicant&id=9c1bda00a846ff3b60e7c4b4f60b28ff4a8f7768), [hostapd](https://git.archlinux.org/svntogit/community.git/commit/trunk?h=packages/hostapd&id=d31735a09b4c25eaa69fb13b1031910ca3c29ee5) | N/A | 2017-10-16 | 2017-10-16 |  |
 | Arduino | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
-| Asus | [LINK](https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/) | Additionally, an email response from "security@asus.com" says that they are "co-working with chipset vendors for solutions and will release patched firmware for affected routers soon. If your router is RT-N12 D1, RT-N66U, RT-AC66U, RT-AC68U, RT-AC3200, RT-AC88U, RT-AC3100, RT-AC5300 or GT-AC5300 then your router is not affected by the WPA2 vulnerability in router and AP mode." | 2017-10-17 | 2017-10-18 |  |
+| Asus | [LINK](https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/) | New firmware available / Additionally, an email response from "security@asus.com" says that they are "co-working with chipset vendors for solutions and will release patched firmware for affected routers soon. If your router is RT-N12 D1, RT-N66U, RT-AC66U, RT-AC68U, RT-AC3200, RT-AC88U, RT-AC3100, RT-AC5300 or GT-AC5300 then your router is not affected by the WPA2 vulnerability in router and AP mode." | 2017-10-17 | 2017-10-26 |  |
 | AVM (FRITZ!Box)  | [LINK](https://en.avm.de/news/short-notes/2017/wpa2-flaw-fritzbox-on-broadband-connections-are-secure/) | WPA2 flaw – FRITZ!Box on broadband connections are secure. AVM will provide updates for its wireless repeaters. Firmware update for [FRITZ!WLAN Repeater 1750E](http://ftp.avm.de/fritz.box/fritz.wlan_repeater_1750E/firmware/englisch/info.txt) available | 2017-10-18 | 2017-10-20 |  |
 | Barracuda Networks | [LINK](https://community.barracudanetworks.com/forum/index.php?/topic/23525-security-advisories/page-2#entry84537) | Our investigations indicate that currently only Barracuda NextGen Firewall Wi-Fi Models used under Wi-Fi Client mode are affected. | 2017-10-17 | 2017-10-17 |  |
 | Belkin, Linksys, and Wemo | [LINK](https://www.linksys.com/us/support-article?articleNum=246427) | "We are still confirming all product skus affected, including Belkin Routers and Range Extenders, Linksys Routers, Adapters, Access Points, Bridges and Range Extenders and Wemo Products.  As mentioned, when firmware is available, it will be posted to the associated brands’ support page." | 2017-10-21 | 2017-10-19 |  |
