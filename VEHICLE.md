@@ -2,7 +2,7 @@
 Cars released with an in-car entertainment system that support Wi-Fi is likely to be vulnerable of KRACK (Key Re-installation Attacks). \
 See README.md for more information about the KRACK vulnerability.
 
-Jump to: [FCA LLC](#fca-llc-fiat-chrysler-automobiles) - [GM](#gm-general-motors) - [VAG](#vag-volkswagen-group)
+Jump to: [FCA LLC](#fca-llc-fiat-chrysler-automobiles) - [GM](#gm-general-motors) - [PSA](#) - [VAG](#vag-volkswagen-group)
 
 ## FCA LLC (Fiat Chrysler Automobiles)
 
@@ -118,6 +118,44 @@ Uses [MyLink/Intellilink][] based on [QNX][]
 | | | | | |
 
 ###### Wuling
+
+| Model | Edition | From year | Status | Comment |
+|-------|---------|-----------|--------|---------|
+| | | | | |
+
+
+
+## PSA Group (Peugeot/Citro&euml;n Automobiles)
+
+#### Brands (in alhabetical order)
+
+###### Citro&euml;n
+
+| Model | Edition | From year | Status | Comment |
+|-------|---------|-----------|--------|---------|
+| | | | | |
+
+###### DS Autombiles
+
+| Model | Edition | From year | Status | Comment |
+|-------|---------|-----------|--------|---------|
+| | | | | |
+
+
+###### Opel
+
+| Model | Edition | From year | Status | Comment |
+|-------|---------|-----------|--------|---------|
+| | | | | |
+
+
+###### Peugeot
+
+| Model | Edition | From year | Status | Comment |
+|-------|---------|-----------|--------|---------|
+| | | | | |
+
+###### Vauxhaul
 
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
