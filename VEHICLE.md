@@ -2,7 +2,7 @@
 Cars released with an in-car entertainment system that support Wi-Fi is likely to be vulnerable of KRACK (Key Re-installation Attacks). \
 See README.md for more information about the KRACK vulnerability.
 
-Jump to: [FCA LLC](#fca-llc-fiat-chrysler-automobiles) - [GM](#gm-general-motors) - [PSA](#) - [VAG](#vag-volkswagen-group)
+Jump to: [FCA LLC](#fca-llc-fiat-chrysler-automobiles) - [GM](#gm-general-motors) - [PSA](#psa-group-peugeotcitro%C3%ABn-automobiles) - [VAG](#vag-volkswagen-group)
 
 ## FCA LLC (Fiat Chrysler Automobiles)
 
