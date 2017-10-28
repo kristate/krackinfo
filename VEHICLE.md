@@ -146,7 +146,7 @@ Uses [MyLink/Intellilink][] based on [QNX][]
 
 | Model | Edition | From year | Status | Comment |
 |-------|---------|-----------|--------|---------|
-| | | | | |
+| Astra K | all (if Onstar is enabled) | 2015- | unknown | |
 
 
 ###### Peugeot
