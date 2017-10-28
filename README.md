@@ -126,7 +126,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | FortiNet | [LINK](http://www.fortiguard.com/psirt/FG-IR-17-196) | FortiAP 5.6.1 has been patched. All other patches are upcoming. | 2017-10-16 | 2017-10-18 |  |
 | Foundry Brocade | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | FreeBSD Project | [Response](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001805.html), [patch](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001806.html) | Binary and source updates to base system available. Alternatively one can install the `security/wpa_supplicant` port or package in lieu of the same in base. | 2017-10-17 | 2017-10-17 | (?) |
-| Google | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| Google | No Known Official Response | [First statement](https://www.cnet.com/au/news/google-to-patch-krack-impacted-devices-in-the-next-few-weeks/) was given to internet magazine on 2017-10-17: Patches are currently in creation | 2017-10-17 | 2017-10-17 |  |
 | Hewlett Packard Enterprise | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Honeywell | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | HPE Aruba | [Patch Info](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007.txt) - [FAQ](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007_FAQ_Rev-1.pdf) | N/A | 2017-10-17 | 2017-10-17 | 28 Aug 2017 |
