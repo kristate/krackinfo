@@ -2392,9 +2392,9 @@
 | Sony | Xperia J1 Compact | D5788 | D5788 |  |  | 2017-10-19 | 2017-10-19 |
 | Sony | Xperia L | C2104 | C2104 |  |  | 2017-10-19 | 2017-10-19 |
 | Sony | Xperia L | C2105 | C2105 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia L1 | G3311 | G3311 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia L1 | G3312 | G3312 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia L1 | G3313 | G3313 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia L1 | G3311 | G3311 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia L1 | G3312 | G3312 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia L1 | G3313 | G3313 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
 | Sony | Xperia M dual | C2004 | C2004 |  |  | 2017-10-19 | 2017-10-19 |
 | Sony | Xperia M Dual | C2005 | C2005 |  |  | 2017-10-19 | 2017-10-19 |
 | Sony | Xperia M dual | C2005 | C2005 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2457,16 +2457,16 @@
 | Sony | Xperia U | ST25a | ST25a |  |  | 2017-10-19 | 2017-10-19 |
 | Sony | Xperia U | ST25i | ST25i |  |  | 2017-10-19 | 2017-10-19 |
 | Sony | Xperia V | LT25i | LT25i |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia X Compact | F5321 | F5321 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia X Compact | SO-02J | SO-02J |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia X Performance | 502SO | 502SO |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia X Performance | F8131 | F8131 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia X Performance | F8132 | F8132 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia X Performance | SO-04H | SO-04H |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia X Performance | SOV33 | SOV33 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia X | F5121 | F5121 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia X | F5122 | F5122 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia X | suzu | F5121 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia X Compact | F5321 | F5321 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia X Compact | SO-02J | SO-02J |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia X Performance | 502SO | 502SO |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia X Performance | F8131 | F8131 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia X Performance | F8132 | F8132 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia X Performance | SO-04H | SO-04H |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia X Performance | SOV33 | SOV33 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia X | F5121 | F5121 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia X | F5122 | F5122 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia X | suzu | F5121 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
 | Sony | Xperia XA Ultra | F3211 | F3211 |  |  | 2017-10-19 | 2017-10-19 |
 | Sony | Xperia XA Ultra | F3212 | F3212 |  |  | 2017-10-19 | 2017-10-19 |
 | Sony | Xperia XA Ultra | F3213 | F3213 |  |  | 2017-10-19 | 2017-10-19 |
@@ -2477,37 +2477,37 @@
 | Sony | Xperia XA | F3113 | F3113 |  |  | 2017-10-19 | 2017-10-19 |
 | Sony | Xperia XA | F3115 | F3115 |  |  | 2017-10-19 | 2017-10-19 |
 | Sony | Xperia XA | F3116 | F3116 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XA1 Plus | G3412 | G3412 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XA1 Plus | G3416 | G3416 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XA1 Plus | G3421 | G3421 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XA1 Plus | G3423 | G3423 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XA1 Plus | G3426 | G3426 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XA1 Ultra | G3212 | G3212 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XA1 Ultra | G3221 | G3221 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XA1 Ultra | G3223 | G3223 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XA1 Ultra | G3226 | G3226 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XA1 | G3112 | G3112 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XA1 | G3116 | G3116 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XA1 | G3121 | G3121 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XA1 | G3123 | G3123 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XA1 | G3125 | G3125 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZ Premium | G8141 | G8141 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZ Premium | G8142 | G8142 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZ Premium | SO-04J | SO-04J |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZ | 601SO | 601SO |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZ | F8331 | F8331 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZ | F8332 | F8332 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZ | SO-01J | SO-01J |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZ | SOV34 | SOV34 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZ1 Compact | G8441 | G8441 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZ1 | G8341 | G8341 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZ1 | G8342 | G8342 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZ1 | G8343 | G8343 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZs | 602SO | 602SO |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZs | G8231 | G8231 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZs | G8232 | G8232 |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZs | SO-03J | SO-03J |  |  | 2017-10-19 | 2017-10-19 |
-| Sony | Xperia XZs | SOV35 | SOV35 |  |  | 2017-10-19 | 2017-10-19 |
+| Sony | Xperia XA1 Plus | G3412 | G3412 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XA1 Plus | G3416 | G3416 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XA1 Plus | G3421 | G3421 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XA1 Plus | G3423 | G3423 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XA1 Plus | G3426 | G3426 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XA1 Ultra | G3212 | G3212 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XA1 Ultra | G3221 | G3221 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XA1 Ultra | G3223 | G3223 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XA1 Ultra | G3226 | G3226 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XA1 | G3112 | G3112 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XA1 | G3116 | G3116 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XA1 | G3121 | G3121 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XA1 | G3123 | G3123 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XA1 | G3125 | G3125 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZ Premium | G8141 | G8141 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZ Premium | G8142 | G8142 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZ Premium | SO-04J | SO-04J |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZ | 601SO | 601SO |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZ | F8331 | F8331 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZ | F8332 | F8332 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZ | SO-01J | SO-01J |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZ | SOV34 | SOV34 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZ1 Compact | G8441 | G8441 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-29 | 2017-10-19 |
+| Sony | Xperia XZ1 | G8341 | G8341 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZ1 | G8342 | G8342 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZ1 | G8343 | G8343 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZs | 602SO | 602SO |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZs | G8231 | G8231 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZs | G8232 | G8232 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZs | SO-03J | SO-03J |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
+| Sony | Xperia XZs | SOV35 | SOV35 |  | [announced](https://talk.sonymobile.com/t5/Other-Discussions-General/KRACK-attack-on-wifi-WPA2/m-p/1269528) | 2017-10-19 | 2017-10-29 |
 | Sony | Xperia Z Ultra | C6802 | C6802 |  |  | 2017-10-19 | 2017-10-19 |
 | Sony | Xperia Z Ultra | C6806 | C6806 |  |  | 2017-10-19 | 2017-10-19 |
 | Sony | Xperia Z Ultra | C6833 | C6833 |  |  | 2017-10-19 | 2017-10-19 |
