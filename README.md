@@ -144,7 +144,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | LEDE | [LINK](https://lede-project.org/releases/17.01/notes-17.01.4) | Released fix in version 17.01.4. | 2017-10-18 | 2017-10-18 | |
 | LineageOS | [LINK](https://review.lineageos.org/#/q/topic:krack-n) | "All official 14.1 builds built after this tweet have been patched for KRACK.":[LINK](https://twitter.com/LineageAndroid/status/920143977256382464) | 2017-10-17 | 2017-10-17 |  |
 | Linux | Patches: [LINK](https://w1.fi/security/2017-1/) | wpa_supplicant version 2.4 and above is affected. Linux's wpa_supplicant v2.6 is also vulnerable to the installation of an all-zero encryption key in the 4-way handshake. | 2017-10-16 | 2017-10-16 |  |
-| Logitech | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| Logitech | No Known Official Response | N/A | 2017-10-29 | 2017-10-16 |  |
 | Luxul | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Marantz | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Marvell Semiconductor | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
