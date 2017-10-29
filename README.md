@@ -130,7 +130,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Hewlett Packard Enterprise | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Honeywell | No Known Official Response | N/A | 2017-10-29 | 2017-10-16 |  |
 | HPE Aruba | [Patch Info](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007.txt) - [FAQ](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007_FAQ_Rev-1.pdf) | N/A | 2017-10-17 | 2017-10-17 | 28 Aug 2017 |
-| Huawei | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| Huawei | No Known Official Response | N/A | 2017-10-29 | 2017-10-16 |  |
 | I-O DATA | [LINK(JA)](http://www.iodata.jp/support/information/2017/wpa2/) | N/A | 2017-10-18 | 2017-10-18 |  |
 | IBM | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Icotera | Icotera products are not affected [LINK](https://icotera.zendesk.com/hc/en-us/articles/115002195451-WPA2-Key-re-installation-attacks-KRACK-on-Icotera-products-) | The investigation concluded that none of current Icotera products is affected by the described vulnerability, as it does not apply to a device running Access Point mode only | 2017-10-19 | 2017-10-19 |  |
