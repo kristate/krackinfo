@@ -86,7 +86,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | 3com Inc | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Actiontec | [Link](https://actiontecsupport.zendesk.com/hc/en-us/articles/115005205283-KRACK-vulnerability) | N/A | 2017-10-18 | 2017-10-18 |  |
 | Aerohive | [Link](https://boundless.aerohive.com/technology/Aerohive-Response-To-KRACK.html) | N/A | 2017-10-17 | 2017-10-17 |  |
-| Alcatel-Lucent | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Alcatel-Lucent | [LINK](https://www.al-enterprise.com//en/-/media/assets/internet/documents/sa-n0050_wpa2_key_reinstallation_vulnerabilities.pdf) | Support is suggested to go via the network vendors; patches are available for OmniAccess and OmniAccess Stellar WLAN products | 2017-10-29 | 2017-10-18 |  |
 | Amazon | No Known Official Response | "We are in the process of reviewing which of our devices may contain this vulnerability and will be issuing patches where needed." | 2017-10-17 | 2017-10-17 |  |
 | Android | No Known Official Response | Android 6.0 and above affected (Android uses wpa_supplicant and therefore is affected). | 2017-10-16 | 2017-10-16 |  |
 | Apple | No Known Official Response; See comment for unofficial response | Via twitter : "Apple has confirmed to me that #wpa2 #KRACK exploit has already been patched in iOS, tvOS, watchOS, macOS betas." [LINK](https://twitter.com/reneritchie/status/919988216501030914) | 2017-10-17 | 2017-10-17 |  |
