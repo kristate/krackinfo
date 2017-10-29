@@ -109,7 +109,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | DD-WRT | [LINK](http://svn.dd-wrt.com/changeset/33525) | N/A | 2017-10-17 | 2017-10-17 |  |
 | Debian | [LINK](https://www.debian.org/security/2017/dsa-3999) | * Add patches to fix WPA protocol vulnerabilities (CVE-2017-13077,    CVE-2017-13078, CVE-2017-13079, CVE-2017-13080, CVE-2017-13081,    CVE-2017-13082, CVE-2017-13086, CVE-2017-13087, CVE-2017-13088):    - hostapd: Avoid key reinstallation in FT handshake    - Prevent reinstallation of an already in-use group key    - Extend protection of GTK/IGTK reinstallation of WNM-Sleep Mode cases    - Fix PTK rekeying to generate a new ANonce    - TDLS: Reject TPK-TK reconfiguration    - WNM: Ignore WNM-Sleep Mode Response if WNM-Sleep Mode has not been used    - WNM: Ignore WNM-Sleep Mode Response without pending request    - FT: Do not allow multiple Reassociation Response frames    - TDLS: Ignore incoming TDLS Setup Response retries | 2017-10-16 | 2017-10-16 |  |
 | Dell | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
-| Denon | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Denon | No Known Official Response | N/A | 2017-10-29 | 2017-10-17 |  |
 | Devolo | No Known Official Response | They are currently reviewing the attack scenario for their products according to [this tweet](https://twitter.com/devoloAG/status/920253378873233408) | 2017-10-18 | 2017-10-18 |  |
 | DrayTek | [LINK](http://www.draytek.co.uk/information/our-technology/wpa2-krack-vulnerability) | DrayTek are investigating solutions for this and plan to issue appropriate updates (firmware) as soon as possible. First firmware updates are either announced (with patch version numbers provided) or even released (and then can be found at the [firmware download page](https://www.draytek.com/en/download/firmware/), e.g. VigorAP 902) | 2017-10-28 | 2017-10-28 |  |
 | ecobee | No Known Official Response | Twitter response [1](https://twitter.com/ecobee/status/920316685193707521) and [2](https://twitter.com/ecobee/status/920316741334552576): "ecobee is aware of the industry-wide vulnerability in WPA2 referred to as KRACK.   The security of our customers is very important to us and we have confirmed that ecobee device security is not impacted by this issue." Likely this means ecobee considers underlying https / ssl to be secure despite KRACK | 2017-10-17 | 2017-10-17 |  |
@@ -146,7 +146,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Linux | Patches: [LINK](https://w1.fi/security/2017-1/) | wpa_supplicant version 2.4 and above is affected. Linux's wpa_supplicant v2.6 is also vulnerable to the installation of an all-zero encryption key in the 4-way handshake. | 2017-10-16 | 2017-10-16 |  |
 | Logitech | No Known Official Response | N/A | 2017-10-29 | 2017-10-16 |  |
 | Luxul | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
-| Marantz | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
+| Marantz | No Known Official Response | N/A | 2017-10-29 | 2017-10-17 |  |
 | Marvell Semiconductor | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | MediaTek | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Meraki | [LINK](https://documentation.meraki.com/zGeneral_Administration/Support/802.11r_Vulnerability_(CVE%3A_2017-13082)_FAQ) | Fixed for Cisco Meraki in 24.11 and 25.7 | 2017-10-16 | 2017-10-16 |  |
