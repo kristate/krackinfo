@@ -195,6 +195,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Synology | [LINK 1](https://www.synology.com/en-global/releaseNote/DDSM) [LINK 1](https://www.synology.com/en-us/support/security/Synology_SA_17_60_KRACK) | Synology DiskStation Manager (DSM) with attached WiFi dongle and Synology Router Manager (SRM) are vulnerable to Krack. As of Version 6.1.3-15152-8: Fixed multiple security vulnerabilities regarding WPA/WPA2 protocols for wireless connections (CVE-2017-13077, CVE-2017-13078, CVE-2017-13079, CVE-2017-13080, CVE-2017-13081, CVE-2017-13082, CVE-2017-13084, CVE-2017-13086, CVE-2017-13087, CVE-2017-13088). | 2017-10-17 | 2017-10-17 |  |
 | Technicolor | No Known Official Response | N/A | 2017-10-29 | 2017-10-29 | |
 | Tesco | [LINK](https://twitter.com/Tesco/status/920254455135854592) | Tesco has chosen not to patch the Hudl: "There will be no further updates to the hudl software" | 2017-10-17 | 2017-10-17 |  |
+| Texas Instruments | [LINK](https://e2e.ti.com/support/wireless_connectivity/simplelink_wifi_cc31xx_cc32xx/f/968/t/632869) | Patches already provided | 2017-10-29 | 2017-10-29 |  |
 | Toshiba Commerce Solutions | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 15 Sep 2017 |
 | Toshiba Electronic Devices & Storage Corporation | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Toshiba Memory Corporation | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
