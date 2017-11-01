@@ -19,4 +19,10 @@ On 2017-10-31 and 2017-11-01, Apple started to roll out first official final rel
 | [CVE-2017-13087](https://nvd.nist.gov/vuln/detail/CVE-2017-13087) | unknown | unknown | unknown | unknown |
 | [CVE-2017-13088](https://nvd.nist.gov/vuln/detail/CVE-2017-13088) | unknown | unknown | unknown | unknown |
 
+A cell being filled with statement "unknown" indicates that as of writing there is no information available and thus it any of the following cases may hold true:
+
+* The corresponding software is not affected by this attack at all,
+* The corresponding software is affected, but the vendor did not detect this yet,
+* The corresponding software is affected, but the vendor is working on a solution, but did not release any patch yet,
+* The corresponding software is affected, but the vendor has already provided a patch in the meantime, but it is not listed in the table above.
 
