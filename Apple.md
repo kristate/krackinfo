@@ -23,6 +23,6 @@ A cell being filled with statement "unknown" indicates that as of writing there 
 
 * The corresponding software is not affected by this attack at all,
 * The corresponding software is affected, but the vendor did not detect this yet,
-* The corresponding software is affected, but the vendor is working on a solution, but did not release any patch yet,
-* The corresponding software is affected, but the vendor has already provided a patch in the meantime, but it is not listed in the table above.
+* The corresponding software is affected, the vendor is working on a solution, but did not release any patch yet,
+* The corresponding software is affected, the vendor has already provided a patch in the meantime, but it is not listed in the table above.
 
