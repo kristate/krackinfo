@@ -67,7 +67,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | MikroTik | X |  |  |
 | Mojo Networks | X |  |  |
 | Red Hat | X |  |  | 
-| Ruckus |  | X |  |
+| Ruckus | [X](https://support.ruckuswireless.com/krack-ruckus-wireless-support-resource-center) |  |  |
 | Synology | [X](https://www.synology.com/en-global/releaseNote/DDSM) |  |  |
 | SUSE / openSUSE | [X](https://bugzilla.suse.com/show_bug.cgi?id=1056061) | [X](https://bugzilla.suse.com/show_bug.cgi?id=1063479)  |  |
 | Turris Omnia |[X](https://forum.turris.cz/t/turris-os-3-8-4-is-out-with-krack-fix/5391)|  |  |
@@ -183,7 +183,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Red Hat, Inc. | This issue affects the versions of wpa_supplicant as shipped with Red Hat Enterprise Linux 6 and 7. [LINK](https://access.redhat.com/security/cve/cve-2017-13087) | Red Hat Security Advisories for Red Hat Enterprise Linux 7 [RHSA-2017:2911](https://access.redhat.com/errata/RHSA-2017:2911) and Red Hat Enterprise Linux 6 [RHSA-2017:2907](https://access.redhat.com/errata/RHSA-2017:2907) | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Ring | No Known Official Response | Per support "They promise to update public shortly, actively working with developers." | 2017-10-17 | 2017-10-17 |  |
 | Rosewill | No Known Official Response | N/A | 2017-10-25 | 2017-10-25 | |
-| Ruckus Wireless | [Security Advisory Bulletin](https://ruckus-www.s3.amazonaws.com/pdf/security/faq-security-advisory-id-101617-v1.0.pdf)  | More forthcoming. [LINK](https://theruckusroom.ruckuswireless.com/wi-fi/2017/10/16/commonsense-approach-uncommon-problem/) | 2017-10-17 | 2017-10-17 |  |
+| Ruckus Wireless | [KRACK Resource Center](https://support.ruckuswireless.com/krack-ruckus-wireless-support-resource-center)  | N/A | 2017-10-17 | 2017-10-17 |  |
 | Sagemcom | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 | |
 | Samsung Electronics | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
 | Sharp | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
