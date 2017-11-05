@@ -3,7 +3,7 @@
 From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 > In a key reinstallation attack, the adversary tricks a victim into reinstalling an already-in-use key. This is achieved by manipulating and replaying cryptographic handshake messages. When the victim reinstalls the key, associated parameters such as the incremental transmit packet number (i.e. nonce) and receive packet number (i.e. replay counter) are reset to their initial value. Essentially, to guarantee security, a key should only be installed and used once. Unfortunately, we found this is not guaranteed by the WPA2 protocol. By manipulating cryptographic handshakes, we can abuse this weakness in practice.
 
-***Unless a known patch has been applied, assume that all WPA2 enabled Wi-fi devices are vulnerable.***
+***Unless a known patch has been applied, assume that all WPA2-enabled Wi-Fi devices are vulnerable.***
 
 # ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Administrators: Remember to <a href="https://github.com/kristate/krackinfo/subscription">watch this page</a> for changes
 
@@ -13,12 +13,13 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 
 ## The Good
 * Should a vendor take responsibility, devices are for the most part updatable.
+* Access points are only affected, if they implement the standard 802.11r (a.k.a. Fast-BSS Transition).
 
 ## The Bad
 * Many devices do not have an easy way to apply updates.
 * A huge burden is placed on the consumer to keep their devices up to date
   * It may not be easy to search for all updates to all devices.
-* The attack works for both clients and access points
+* The attack affects both clients and access points
   * Updating an access point does not keep clients protected!
 
 ## The Ugly
@@ -38,6 +39,27 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 * Adversary can not recover WPA password.
 * Adversary can not inject packets. *(AES-CCMP ONLY)*
 
+### CVE List and Device Types Affected 
+The reinstallation attack is not a single attack, but a group consisting of ten (10) independent security flaws which do have a common underlying approach. The security holes may be exploited indepdently of each other, and thus have to be fixed individually (if a device is affected). As it is common in computer security, each of them got assigned to a Common Vulnerabilities and Exposures (CVE) number, which are aggregated in [VU #228519](http://www.kb.cert.org/vuls/id/228519) for better tracking.
+Based on a [statement provided by Zyxel](http://www.zyxel.com/support/announcement_wpa2_key_management.shtml) you may group these CVEs based on which communication party is affected:
+
+| Common Vulnerabilities and Exposures (CVE)                        | Party Affected |
+| ------------------------------------------------------------------|----------------|
+| [CVE-2017-13077](https://nvd.nist.gov/vuln/detail/CVE-2017-13077) | Wi-Fi clients  |
+| [CVE-2017-13078](https://nvd.nist.gov/vuln/detail/CVE-2017-13078) | Wi-Fi clients  |
+| [CVE-2017-13079](https://nvd.nist.gov/vuln/detail/CVE-2017-13079) | Wi-Fi clients  |
+| [CVE-2017-13080](https://nvd.nist.gov/vuln/detail/CVE-2017-13080) | Wi-Fi clients  |
+| [CVE-2017-13081](https://nvd.nist.gov/vuln/detail/CVE-2017-13081) | Wi-Fi clients  |
+| [CVE-2017-13082](https://nvd.nist.gov/vuln/detail/CVE-2017-13082) | Access Points, if implementing standard 802.11r |
+| [CVE-2017-13084](https://nvd.nist.gov/vuln/detail/CVE-2017-13084) | Wi-Fi clients  |
+| [CVE-2017-13086](https://nvd.nist.gov/vuln/detail/CVE-2017-13086) | Wi-Fi clients  |
+| [CVE-2017-13087](https://nvd.nist.gov/vuln/detail/CVE-2017-13087) | Wi-Fi clients  |
+| [CVE-2017-13088](https://nvd.nist.gov/vuln/detail/CVE-2017-13088) | Wi-Fi clients  |
+
+Access points, which are intended for the consumer market, typically do *not* implement the standard 802.11r. However, access points for the enterprise market may do so. 
+
+Based on the table above, it becomes apparent that the primary effort for correcting the security flaw is to be expected for the Wi-Fi clients.
+As of writing, there is no possibility known to safeguard Wi-Fi clients by changing the access point's behavior. This implies that patching the Wi-Fi device is the only way to fix the problem for Wi-Fi clients.
 
 ### Related Reading
 * https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/
