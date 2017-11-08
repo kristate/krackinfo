@@ -3012,11 +3012,11 @@
 | Google | Chromebook | relm_cheets | Braswell Chrome OS Device |  |  | 2017-10-19 | 2017-10-19 |
 | Google | Emulator | generic_x86 | Android SDK built for x86 |  |  | 2017-10-19 | 2017-10-19 |
 | Google | Galaxy S4 Google Play edition | jgedlte | GT-I9505G |  |  | 2017-10-19 | 2017-10-19 |
-| Google | Pixel 2 XL | taimen | Pixel 2 XL |  |  | 2017-10-19 | 2017-10-19 |
-| Google | Pixel 2 | walleye | Pixel 2 |  |  | 2017-10-19 | 2017-10-19 |
+| Google | Pixel 2 XL | taimen | Pixel 2 XL | [Yes](https://source.android.com/security/bulletin/2017-11-01) | Patched in security patch level 2017-11-06 | 2017-10-19 | 2017-11-08 |
+| Google | Pixel 2 | walleye | Pixel 2 | [Yes](https://source.android.com/security/bulletin/2017-11-01) | Patched in security patch level 2017-11-06 | 2017-10-19 | 2017-11-08 |
 | Google | Pixel C | dragon | Pixel C |  |  | 2017-10-19 | 2017-10-19 |
-| Google | Pixel XL | marlin | Pixel XL |  |  | 2017-10-19 | 2017-10-19 |
-| Google | Pixel | sailfish | Pixel |  |  | 2017-10-19 | 2017-10-19 |
+| Google | Pixel XL | marlin | Pixel XL | [Yes](https://source.android.com/security/bulletin/2017-11-01) | Patched in security patch level 2017-11-06 | 2017-10-19 | 2017-11-08 |
+| Google | Pixel | sailfish | Pixel | [Yes](https://source.android.com/security/bulletin/2017-11-01) | Patched in security patch level 2017-11-06 | 2017-10-19 | 2017-11-08 |
 | Google | Project Tango Tablet Development Kit | yellowstone | Project Tango Tablet Development Kit |  |  | 2017-10-19 | 2017-10-19 |
 | Google | Project Tango Tablet Development Kit | yellowstone | Yellowstone |  |  | 2017-10-19 | 2017-10-19 |
 | Gplus | FW6950 | GPLUS_FW6950 | GPLUS_FW6950 |  |  | 2017-10-19 | 2017-10-19 |
