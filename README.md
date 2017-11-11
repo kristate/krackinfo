@@ -207,7 +207,7 @@ As of writing, there is no possibility known to safeguard Wi-Fi clients by chang
 | Rosewill | No Known Official Response | N/A | 2017-10-25 | 2017-10-25 | |
 | Ruckus Wireless | [KRACK Resource Center](https://support.ruckuswireless.com/krack-ruckus-wireless-support-resource-center)  | N/A | 2017-10-17 | 2017-10-17 |  |
 | Sagemcom | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 | |
-| Samsung Electronics | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
+| Samsung Electronics | No Known Official Response | "We are aware of this problem and we are working on a patch, which we will provide as fast as possible" (translated from a [German answer in Samsung's EU forum](https://eu.community.samsung.com/t5/Mobil/KRACK-WPA2-Sicherheitsl%C3%BCcke-Sind-Samsung-Ger%C3%A4te-betroffen/td-p/299337)) | 2017-11-11 | 2017-11-11 | 28 Aug 2017 |
 | Sharp | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | SnapAV | No Known Official Response (See comment for unofficial response) | An email from G Paul Hess, Chief Product Officer states that Araknis Networks Wireless Access Points and Autonomic 1e Music Streamer are affected. "We are currently working on a firmware update, which will be available on SnapAV’s website, as well as OvrC." | 2017-10-16 | 2017-10-17 |  |
 | Sonicwall | [LINK](https://www.sonicwall.com/en-us/support/product-notification/wpa2-krack-exploit-a-sonicwall-alert) | N/A | 2017-10-17 | 2017-10-17 |  |
