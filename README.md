@@ -60,6 +60,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Extreme Networks | [X](https://extremeportal.force.com/ExtrArticleDetail?n=000018005) | [X](https://extremeportal.force.com/ExtrArticleDetail?n=000018005) |  |
 | Fedora | X |  |  |
 | FreeBSD | [X](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001806.html) |  |  |
+| Google | [X](https://source.android.com/security/bulletin/2017-11-01) |  |  |
 | Lenovo |  |  | ? |
 | LineageOS | [X](https://mobile.twitter.com/LineageAndroid/status/920143977256382464) |  |  |
 | LXDE |  | X |  |
@@ -89,7 +90,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Aerohive | [Link](https://boundless.aerohive.com/technology/Aerohive-Response-To-KRACK.html) | N/A | 2017-10-17 | 2017-10-17 |  |
 | Alcatel-Lucent | [LINK](https://www.al-enterprise.com//en/-/media/assets/internet/documents/sa-n0050_wpa2_key_reinstallation_vulnerabilities.pdf) | Support is suggested to go via the network vendors; patches are available for OmniAccess and OmniAccess Stellar WLAN products | 2017-10-29 | 2017-10-18 |  |
 | Amazon | No Known Official Response | "We are in the process of reviewing which of our devices may contain this vulnerability and will be issuing patches where needed." | 2017-10-29 | 2017-10-17 |  |
-| Android | No Known Official Response | Android 6.0 and above affected (Android uses wpa_supplicant and therefore is affected). | 2017-10-16 | 2017-10-16 |  |
+| Android | [Security Bulletin](https://source.android.com/security/bulletin/2017-11-01) | fixed with versions 5.0.2, 5.1.1, 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0 <br />Security patch level 2017-11-06 or later required to be fixed. <br />Distribution to vendors to downstream has started; vendors may need additional fixes from hardware suppliers. | 2017-11-11 | 2017-11-11 |  |
 | Apple | [General Security Updates](https://support.apple.com/en-us/HT201222) | [see details page](APPLE.md) | 2017-11-01 | 2017-11-01 |  |
 | Arch Linux | [wpa_supplicant](https://git.archlinux.org/svntogit/packages.git/commit/trunk?h=packages/wpa_supplicant&id=9c1bda00a846ff3b60e7c4b4f60b28ff4a8f7768), [hostapd](https://git.archlinux.org/svntogit/community.git/commit/trunk?h=packages/hostapd&id=d31735a09b4c25eaa69fb13b1031910ca3c29ee5) | N/A | 2017-10-16 | 2017-10-16 |  |
 | Arduino | No Known Official Response | EspressIf [fixed its ESP8266 SDK](https://github.com/espressif/ESP8266_NONOS_SDK/commit/b762ea222ee94b9ffc5e040f4bf78dd8ba4db596) in upstream (see also row "Espressif Systems" in this table below); [SDK Fix](https://github.com/esp8266/Arduino/issues/3725) is on the way | 2017-10-29 | 2017-10-29 |  |
