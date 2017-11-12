@@ -265,10 +265,10 @@
 | Nuvision | TM800A550L | TM800A550L | TM800A550L |  |  | 2017-10-19 | 2017-10-19 |
 | Nuvision | TM800A730M | TM800AM | TM800A730M |  |  | 2017-10-19 | 2017-10-19 |
 | Nuvision | TM800A740M | TM800AM | TM800A740M |  |  | 2017-10-19 | 2017-10-19 |
-| NVIDIA | SHIELD Android TV | foster | SHIELD Android TV |  |  | 2017-10-19 | 2017-10-19 |
-| NVIDIA | SHIELD Android TV | foster | SHIELD Console |  |  | 2017-10-19 | 2017-10-19 |
+| NVIDIA | SHIELD Android TV | foster | SHIELD Android TV | [Shield Experience Upgrade 6.1](https://shield.nvidia.com/support/nvidia-android-tv/faq/1) | Fix available | 2017-10-19 | 2017-11-12 |
+| NVIDIA | SHIELD Android TV | foster | SHIELD Console | [Shield Experience Upgrade 6.1](https://shield.nvidia.com/support/nvidia-android-tv/faq/1) | Fix available | 2017-10-19 | 2017-11-12 |
 | NVIDIA | SHIELD Tablet | shieldtablet | SHIELD Tablet |  |  | 2017-10-19 | 2017-10-19 |
-| NVIDIA | SHIELD TV | darcy | SHIELD Android TV |  |  | 2017-10-19 | 2017-10-19 |
+| NVIDIA | SHIELD TV | darcy | SHIELD Android TV | [Shield Experience Upgrade 6.1](https://shield.nvidia.com/support/nvidia-shield-tv/release-notes/1) | Fix available | 2017-10-19 | 2017-11-12 |
 | NVIDIA | Shield | roth | SHIELD |  |  | 2017-10-19 | 2017-10-19 |
 | NVIDIA | TegraNote | tegranote | Tegra Note 7 |  |  | 2017-10-19 | 2017-10-19 |
 | NVIDIA | TegraNote | tegranote | TegraNote-P1640 |  |  | 2017-10-19 | 2017-10-19 |
