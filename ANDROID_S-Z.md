@@ -96,14 +96,14 @@
 | Samsung | Galaxy A3 | a3ulte | SM-A300FU |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy A3 | a3ulte | SM-A300XU |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy A3 | a3ulte | SM-A300Y |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A3(2016) | a3xelte | SM-A310F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A3(2016) | a3xelte | SM-A310M |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A3(2016) | a3xelte | SM-A310X |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A3(2016) | a3xelte | SM-A310Y |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A3(2016) | a3xeltekx | SM-A310N0 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A3(2017) | a3y17lte | SM-A320F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A3(2017) | a3y17lte | SM-A320FL |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A3(2017) | a3y17lte | SM-A320X |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy A3(2016) | a3xelte | SM-A310F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy A3(2016) | a3xelte | SM-A310M | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy A3(2016) | a3xelte | SM-A310X | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy A3(2016) | a3xelte | SM-A310Y | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy A3(2016) | a3xeltekx | SM-A310N0 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy A3(2017) | a3y17lte | SM-A320F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy A3(2017) | a3y17lte | SM-A320FL | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy A3(2017) | a3y17lte | SM-A320X | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
 | Samsung | Galaxy A5 | a53g | SM-A500H |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy A5 | a5lte | SM-A500F |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy A5 | a5lte | SM-A500G |  |  | 2017-10-19 | 2017-10-19 |
@@ -121,24 +121,24 @@
 | Samsung | Galaxy A5 | a5ultelgt | SM-A500L |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy A5 | a5ulteskt | SM-A500F1 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy A5 | a5ulteskt | SM-A500S |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2016) | a5xelte | SM-A510F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2016) | a5xelte | SM-A510M |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2016) | a5xelte | SM-A510X |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2016) | a5xelte | SM-A510Y |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2016) | a5xeltecmcc | SM-A5108 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2016) | a5xeltektt | SM-A510K |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2016) | a5xeltelgt | SM-A510L |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2016) | a5xelteskt | SM-A510S |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2016) | a5xeltextc | SM-A510Y |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2016) | a5xltechn | SM-A5100 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2016) | a5xltechn | SM-A5100X |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2016) | a5xltechn | SM-A510XZ |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2017) | a5y17lte | SM-A520F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2017) | a5y17lte | SM-A520X |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2017) | a5y17ltecan | SM-A520W |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2017) | a5y17ltektt | SM-A520K |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2017) | a5y17ltelgt | SM-A520L |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A5(2017) | a5y17lteskt | SM-A520S |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy A5(2016) | a5xelte | SM-A510F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2016) | a5xelte | SM-A510M | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2016) | a5xelte | SM-A510X | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2016) | a5xelte | SM-A510Y | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2016) | a5xeltecmcc | SM-A5108 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2016) | a5xeltektt | SM-A510K | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2016) | a5xeltelgt | SM-A510L | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2016) | a5xelteskt | SM-A510S | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2016) | a5xeltextc | SM-A510Y | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2016) | a5xltechn | SM-A5100 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2016) | a5xltechn | SM-A5100X | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2016) | a5xltechn | SM-A510XZ | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2017) | a5y17lte | SM-A520F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2017) | a5y17lte | SM-A520X | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2017) | a5y17ltecan | SM-A520W | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2017) | a5y17ltektt | SM-A520K | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2017) | a5y17ltelgt | SM-A520L | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A5(2017) | a5y17lteskt | SM-A520S | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
 | Samsung | Galaxy A5x(2016) | a5xeltextc | SM-A510Y |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy A7 | a73g | SM-A700H |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy A7 | a7alte | SM-A700F |  |  | 2017-10-19 | 2017-10-19 |
@@ -159,8 +159,8 @@
 | Samsung | Galaxy A7(2016) | a7xelteskt | SM-A710S |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy A7(2016) | a7xeltextc | SM-A710Y |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy A7(2016) | a7xltechn | SM-A7100 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A7(2017) | a7y17lte | SM-A720F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy A7(2017) | a7y17lteskt | SM-A720S |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy A7(2017) | a7y17lte | SM-A720F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy A7(2017) | a7y17lteskt | SM-A720S | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
 | Samsung | Galaxy A8 | a8elte | SM-A800F |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy A8 | a8elte | SM-A800YZ |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy A8 | a8elteskt | SM-A800S |  |  | 2017-10-19 | 2017-10-19 |
@@ -509,24 +509,24 @@
 | Samsung | Galaxy Indulge | SCH-R915 | SCH-R915 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy Infinite | infinite3gduosctc | SCH-I759 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J | hltejs01tw | SGH-N075T |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Ace | j1acelte | SM-J110F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Ace | j1acelte | SM-J110G |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Ace | j1acelteltn | SM-J110M |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Ace | j1acevelte | SM-J111F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Ace | j1acevelte | SM-J111M |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Ace | j1pop3g | SM-J110H |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Ace | j1pop3g | SM-J110L |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Mini Prime | j1minive3g | SM-J106B |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Mini Prime | j1minive3g | SM-J106H |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Mini Prime | j1minive3gxtc | SM-J106B |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Mini Prime | j1minivelte | SM-J106M |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Mini | j1mini3g | SM-J105B |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Mini | j1mini3g | SM-J105H |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Mini | j1mini3gdx | SM-J105B |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Mini | j1mini3gxw | SM-J105H |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Mini | j1minilte | SM-J105F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Mini | j1minilte | SM-J105M |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1 Mini | j1minilte | SM-J105Y |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy J1 Ace | j1acelte | SM-J110F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Ace | j1acelte | SM-J110G | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Ace | j1acelteltn | SM-J110M | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Ace | j1acevelte | SM-J111F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Ace | j1acevelte | SM-J111M | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Ace | j1pop3g | SM-J110H | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Ace | j1pop3g | SM-J110L | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Mini Prime | j1minive3g | SM-J106B | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Mini Prime | j1minive3g | SM-J106H | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Mini Prime | j1minive3gxtc | SM-J106B | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Mini Prime | j1minivelte | SM-J106M | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Mini | j1mini3g | SM-J105B | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Mini | j1mini3g | SM-J105H | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Mini | j1mini3gdx | SM-J105B | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Mini | j1mini3gxw | SM-J105H | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Mini | j1minilte | SM-J105F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Mini | j1minilte | SM-J105M | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1 Mini | j1minilte | SM-J105Y | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
 | Samsung | Galaxy J1 | j13g | SM-J100H |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J1 | j13g | SM-J100ML |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J1 | j13gtfnvzw | SM-S777C |  |  | 2017-10-19 | 2017-10-19 |
@@ -545,9 +545,9 @@
 | Samsung | Galaxy J1 | j1xltecan | SM-J120W |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J1 | j1xqltespr | SM-J120P |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J1 | j1xqltetfnvzw | SM-S120VL |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1(2016) | j1x3g | SM-J120H |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1(2016) | j1xlte | SM-J120G |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J1(2016) | j1xlte | SM-J120ZN |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy J1(2016) | j1x3g | SM-J120H | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1(2016) | j1xlte | SM-J120G | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J1(2016) | j1xlte | SM-J120ZN | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
 | Samsung | Galaxy J2 Prime | grandpplte | SM-G532G |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J2 Prime | grandpplte | SM-G532M |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J2 | j23g | SM-J200H |  |  | 2017-10-19 | 2017-10-19 |
@@ -557,51 +557,51 @@
 | Samsung | Galaxy J2 | j2lte | SM-J200M |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J2 | j2lte | SM-J200Y |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J2 | j2ltedtv | SM-J200BT |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J2(2016) | j2xlte | SM-J210F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J2(2016) | j2xlteins | SM-J210F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J326AZ |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J327AZ |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pop | j3popelteatt | SAMSUNG-SM-J327A |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pop | j3popeltecan | SM-J327W |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pop | j3popeltetfntmo | SM-S337TL |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pop | j3poplteacg | SM-J327R7 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pop | j3popltelra | SM-J327R6 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pop | j3popltespr | SM-J327P |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pop | j3popltetfnvzw | SM-S327VL |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pop | j3poplteusc | SM-J327R4 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pop | j3popltevzw | SM-J327V |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pop | j3popltevzw | SM-J327VPP |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy J2(2016) | j2xlte | SM-J210F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J2(2016) | j2xlteins | SM-J210F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J326AZ | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J327AZ | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pop | j3popelteatt | SAMSUNG-SM-J327A | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pop | j3popeltecan | SM-J327W | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pop | j3popeltetfntmo | SM-S337TL | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pop | j3poplteacg | SM-J327R7 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pop | j3popltelra | SM-J327R6 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pop | j3popltespr | SM-J327P | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pop | j3popltetfnvzw | SM-S327VL | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pop | j3poplteusc | SM-J327R4 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pop | j3popltevzw | SM-J327V | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pop | j3popltevzw | SM-J327VPP | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
 | Samsung | Galaxy J3 Prime | j3popeltemtr | SM-J327T1 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J3 Prime | j3popeltetmo | SM-J327T |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pro | j3xpro6mltechn | SM-J3119S |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pro | j3xproltechn | SM-J3110 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pro | j3xproltectc | SM-J3119 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3 Pro | j3y17lte | SM-J330G |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy J3 Pro | j3xpro6mltechn | SM-J3119S | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pro | j3xproltechn | SM-J3110 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pro | j3xproltectc | SM-J3119 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3 Pro | j3y17lte | SM-J330G | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
 | Samsung | Galaxy J3 | j3ltectc | SM-J3109 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J3 | j3ltespr | SM-J320P |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J3 | j3popelteue | SM-J327U |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J3 | j3x3g | SM-J320H |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3ltekx | SM-J320N0 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3ltetfnvzw | SM-S320VL |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3ltetw | SM-J320Y |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3ltetw | SM-J320YZ |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3lteusc | SM-J320R4 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3ltevzw | SM-J320V |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3ltevzw | SM-J320VPP |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3ltexsa | SM-J320ZN |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3xlte | SM-J320F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3xlte | SM-J320G |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3xlte | SM-J320M |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3xlteaio | SAMSUNG-SM-J320AZ |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3xlteaio | SAMSUNG-SM-J321AZ |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3xlteatt | SAMSUNG-SM-J320A |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3xltebmc | SM-J320W8 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2016) | j3xnlte | SM-J320FN |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2017) | j3y17lte | SM-J330F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2017) | j3y17lte | SM-J330FN |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2017) | j3y17ltelgt | SM-J330L |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2017) | j3y17qltecmcc | SM-J3300 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J3(2017) | j3y17qltecmcc | SM-J3308 |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy J3(2016) | j3ltekx | SM-J320N0 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3ltetfnvzw | SM-S320VL | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3ltetw | SM-J320Y | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3ltetw | SM-J320YZ | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3lteusc | SM-J320R4 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3ltevzw | SM-J320V | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3ltevzw | SM-J320VPP | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3ltexsa | SM-J320ZN | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3xlte | SM-J320F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3xlte | SM-J320G | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3xlte | SM-J320M | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3xlteaio | SAMSUNG-SM-J320AZ | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3xlteaio | SAMSUNG-SM-J321AZ | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3xlteatt | SAMSUNG-SM-J320A | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3xltebmc | SM-J320W8 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2016) | j3xnlte | SM-J320FN | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2017) | j3y17lte | SM-J330F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2017) | j3y17lte | SM-J330FN | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2017) | j3y17ltelgt | SM-J330L | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2017) | j3y17qltecmcc | SM-J3300 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J3(2017) | j3y17qltecmcc | SM-J3308 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
 | Samsung | Galaxy J5 Prime | on5xelte | SM-G570F |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J5 Prime | on5xelte | SM-G570M |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J5 Prime | on5xelte | SM-G570Y |  |  | 2017-10-19 | 2017-10-19 |
@@ -618,38 +618,38 @@
 | Samsung | Galaxy J5 | j5ltekx | SM-J500N0 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J5 | j5nlte | SM-J500FN |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J5 | j5ylte | SM-J500Y |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2016) | j5x3g | SM-J510H |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2016) | j5xltecmcc | SM-J5108 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2016) | j5xnlte | SM-J510F |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy J5(2016) | j5x3g | SM-J510H | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2016) | j5xltecmcc | SM-J5108 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2016) | j5xnlte | SM-J510F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
 | Samsung | Galaxy J5(2016) | j5xnlte | SM-J510FN |No (security updates are from 1. August in last update for phone)  |Spoke with support, they did not indicated the patch will be with certainty, but they are patching most of the devices for KRACK  | 2017-10-19 | 2017-10-21 |
-| Samsung | Galaxy J5(2016) | j5xnlte | SM-J510FQ |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2016) | j5xnlte | SM-J510GN |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2016) | j5xnlte | SM-J510MN |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2016) | j5xnlte | SM-J510UN |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2016) | j5xnltektt | SM-J510K |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2016) | j5xnltelgt | SM-J510L |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2016) | j5xnlteskt | SM-J510S |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2017) | j5y17lte | SM-J530F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2017) | j5y17lte | SM-J530FM |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2017) | j5y17lte | SM-J530G |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2017) | j5y17lte | SM-J530GM |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2017) | j5y17ltektt | SM-J530K |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2017) | j5y17ltelgt | SM-J530L |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J5(2017) | j5y17lteskt | SM-J530S |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7 Max | j7maxlte | SM-G615F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7 Neo | j7velte | SM-J701F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7 Neo | j7velte | SM-J701M |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7 Neo | j7velte | SM-J701MT |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7 Pop | j7popelteaio | SAMSUNG-SM-J727AZ |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7 Pop | j7popelteatt | SAMSUNG-SM-J727A |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7 Pop | j7popelteskt | SM-J727S |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7 Pop | j7popeltetfntmo | SM-S737TL |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7 Pop | j7popelteue | SM-J727U |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7 Pop | j7popltespr | SM-J727P |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7 Pop | j7poplteusc | SM-J727R4 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7 Pop | j7popltevzw | SM-J727V |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7 Pop | j7popltevzw | SM-J727VPP |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7 Pop | j7popqltetfnvzw | SM-S727VL |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy J5(2016) | j5xnlte | SM-J510FQ | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2016) | j5xnlte | SM-J510GN | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2016) | j5xnlte | SM-J510MN | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2016) | j5xnlte | SM-J510UN | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2016) | j5xnltektt | SM-J510K | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2016) | j5xnltelgt | SM-J510L | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2016) | j5xnlteskt | SM-J510S | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2017) | j5y17lte | SM-J530F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2017) | j5y17lte | SM-J530FM | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2017) | j5y17lte | SM-J530G | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2017) | j5y17lte | SM-J530GM | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2017) | j5y17ltektt | SM-J530K | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2017) | j5y17ltelgt | SM-J530L | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J5(2017) | j5y17lteskt | SM-J530S | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7 Max | j7maxlte | SM-G615F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7 Neo | j7velte | SM-J701F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7 Neo | j7velte | SM-J701M | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7 Neo | j7velte | SM-J701MT | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7 Pop | j7popelteaio | SAMSUNG-SM-J727AZ | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7 Pop | j7popelteatt | SAMSUNG-SM-J727A | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7 Pop | j7popelteskt | SM-J727S | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7 Pop | j7popeltetfntmo | SM-S737TL | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7 Pop | j7popelteue | SM-J727U | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7 Pop | j7popltespr | SM-J727P | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7 Pop | j7poplteusc | SM-J727R4 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7 Pop | j7popltevzw | SM-J727V | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7 Pop | j7popltevzw | SM-J727VPP | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7 Pop | j7popqltetfnvzw | SM-S727VL | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
 | Samsung | Galaxy J7 Prime | j7popeltemtr | SM-J727T1 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J7 Prime | j7popeltetmo | SM-J727T |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J7 Prime | on7xelte | SM-G610F |  |  | 2017-10-19 | 2017-10-19 |
@@ -664,20 +664,20 @@
 | Samsung | Galaxy J7 | j7elte | SM-J700M |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J7 | j7ltechn | SM-J7008 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy J7(2015) | j7ltespr | SM-J700P |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7(2016) | j7eltemtr | SM-J700T1 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7(2016) | j7eltetmo | SM-J700T |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7(2016) | j7xelte | SM-J710F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7(2016) | j7xelte | SM-J710FQ |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7(2016) | j7xelte | SM-J710GN |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7(2016) | j7xelte | SM-J710MN |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7(2016) | j7xeltecmcc | SM-J7108 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7(2016) | j7xeltektt | SM-J710K |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7(2016) | j7xltectc | SM-J7109 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7(2017) | j7y17lte | SM-J730F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7(2017) | j7y17lte | SM-J730FM |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7(2017) | j7y17lte | SM-J730G |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7(2017) | j7y17lte | SM-J730GM |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy J7(2017) | j7y17ltektt | SM-J730K |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy J7(2016) | j7eltemtr | SM-J700T1 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7(2016) | j7eltetmo | SM-J700T | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7(2016) | j7xelte | SM-J710F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7(2016) | j7xelte | SM-J710FQ | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7(2016) | j7xelte | SM-J710GN | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7(2016) | j7xelte | SM-J710MN | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7(2016) | j7xeltecmcc | SM-J7108 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7(2016) | j7xeltektt | SM-J710K | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7(2016) | j7xltectc | SM-J7109 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7(2017) | j7y17lte | SM-J730F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7(2017) | j7y17lte | SM-J730FM | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7(2017) | j7y17lte | SM-J730G | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7(2017) | j7y17lte | SM-J730GM | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
+| Samsung | Galaxy J7(2017) | j7y17ltektt | SM-J730K | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-10-19 | 2017-11-13
 | Samsung | Galaxy J7+ | jadelte | SM-C710F |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy K Zoom | m2a3g | SM-C111 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy K Zoom | m2a3g | SM-C111M |  |  | 2017-10-19 | 2017-10-19 |
@@ -899,26 +899,26 @@
 | Samsung | Galaxy Note4 | trltetmo | SM-N910T3 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy Note4 | trlteusc | SM-N910R4 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy Note4 | trltevzw | SM-N910V |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | noblelte | SM-N9208 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | noblelte | SM-N920C |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | noblelte | SM-N920F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | noblelte | SM-N920G |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | noblelte | SM-N920I |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | noblelte | SM-N920X |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | noblelteacg | SM-N920R7 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | noblelteatt | SAMSUNG-SM-N920A |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | nobleltebmc | SM-N920W8 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | nobleltechn | SM-N9200 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | nobleltecmcc | SM-N9208 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | nobleltehk | SM-N9200 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | nobleltektt | SM-N920K |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | nobleltelgt | SM-N920L |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | nobleltelra | SM-N920R6 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | noblelteskt | SM-N920S |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | nobleltespr | SM-N920P |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | nobleltetmo | SM-N920T |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | noblelteusc | SM-N920R4 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note5 | nobleltevzw | SM-N920V |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy Note5 | noblelte | SM-N9208 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | noblelte | SM-N920C | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | noblelte | SM-N920F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | noblelte | SM-N920G | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | noblelte | SM-N920I | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | noblelte | SM-N920X | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | noblelteacg | SM-N920R7 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | noblelteatt | SAMSUNG-SM-N920A | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | nobleltebmc | SM-N920W8 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | nobleltechn | SM-N9200 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | nobleltecmcc | SM-N9208 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | nobleltehk | SM-N9200 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | nobleltektt | SM-N920K | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | nobleltelgt | SM-N920L | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | nobleltelra | SM-N920R6 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | noblelteskt | SM-N920S | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | nobleltespr | SM-N920P | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | nobleltetmo | SM-N920T | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | noblelteusc | SM-N920R4 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note5 | nobleltevzw | SM-N920V | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
 | Samsung | Galaxy Note7 | gracelte | SM-N930F |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy Note7 | gracelte | SM-N930X |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy Note7 | graceltektt | SM-N930K |  |  | 2017-10-19 | 2017-10-19 |
@@ -938,13 +938,13 @@
 | Samsung | Galaxy Note7 | graceqltevzw | SM-N930V |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy Note7 | SC-01J | SC-01J |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy Note7 | SCV34 | SCV34 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note8 | greatlte | SM-N950F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note8 | greatlteks | SM-N950N |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note8 | greatqlte | SM-N950U |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note8 | greatqltechn | SM-N9500 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note8 | greatqltecmcc | SM-N9508 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note8 | greatqltecs | SM-N950W |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy Note8 | greatqlteue | SM-N950U1 |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy Note8 | greatlte | SM-N950F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note8 | greatlteks | SM-N950N | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note8 | greatqlte | SM-N950U | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note8 | greatqltechn | SM-N9500 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note8 | greatqltecmcc | SM-N9508 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note8 | greatqltecs | SM-N950W | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy Note8 | greatqlteue | SM-N950U1 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
 | Samsung | Galaxy NX | u0lte | EK-GN120 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy NX | u0lte | EK-GN120A |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy NX | u0lteue | EK-GN120A |  |  | 2017-10-19 | 2017-10-19 |
@@ -1291,120 +1291,120 @@
 | Samsung | Galaxy S5 | lentislteskt | SM-G906S |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy S5 | SC-04F | SC-04F |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy S5 | SCL23 | SCL23 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Active | marinelteatt | SAMSUNG-SM-G890A |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | 404SC | 404SC |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | SC-04G | SC-04G |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | SCV31 | SCV31 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zerolte | SM-G925F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zerolte | SM-G925I |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zerolte | SM-G925X |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zerolteacg | SM-G925R7 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zerolteatt | SAMSUNG-SM-G925A |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zeroltebmc | SM-G925W8 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zeroltechn | SM-G9250 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zeroltektt | SM-G925K |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zeroltelgt | SM-G925L |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zeroltelra | SM-G925R6 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zerolteskt | SM-G925S |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zeroltespr | SM-G925P |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zeroltetmo | SM-G925T |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zerolteusc | SM-G925R4 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge | zeroltevzw | SM-G925V |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenlte | SM-G9287 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenlte | SM-G9287C |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenlte | SM-G928C |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenlte | SM-G928F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenlte | SM-G928G |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenlte | SM-G928I |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenlte | SM-G928X |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenlteatt | SAMSUNG-SM-G928A |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenltebmc | SM-G928W8 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenltechn | SM-G9280 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenltektt | SM-G928K |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenltekx | SM-G928N0 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenltelgt | SM-G928L |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenlteskt | SM-G928S |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenltespr | SM-G928P |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenltetmo | SM-G928T |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenlteusc | SM-G928R4 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 Edge+ | zenltevzw | SM-G928V |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | SC-05G | SC-05G |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zeroflte | SM-G920F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zeroflte | SM-G920I |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zeroflte | SM-G920X |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zeroflteacg | SM-G920R7 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zeroflteaio | SAMSUNG-SM-G920AZ |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zeroflteatt | SAMSUNG-SM-G920A |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zerofltebmc | SM-G920W8 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zerofltechn | SM-G9200 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zerofltechn | SM-G9208 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zerofltectc | SM-G9209 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zerofltektt | SM-G920K |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zerofltelgt | SM-G920L |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zerofltelra | SM-G920R6 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zerofltemtr | SM-G920T1 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zeroflteskt | SM-G920S |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zerofltespr | SM-G920P |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zerofltetfnvzw | SM-S906L |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zerofltetfnvzw | SM-S907VL |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zerofltetmo | SM-G920T |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zeroflteusc | SM-G920R4 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S6 | zerofltevzw | SM-G920V |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Active | poseidonlteatt | SAMSUNG-SM-G891A |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | hero2lte | SM-G935F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | hero2lte | SM-G935X |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | hero2ltebmc | SM-G935W8 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | hero2ltektt | SM-G935K |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | hero2ltelgt | SM-G935L |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | hero2lteskt | SM-G935S |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | hero2qlteatt | SAMSUNG-SM-G935A |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | hero2qltecctvzw | SM-G935VC |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | hero2qltechn | SM-G9350 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | hero2qltespr | SM-G935P |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | hero2qltetmo | SM-G935T |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | hero2qlteue | SM-G935U |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | hero2qlteusc | SM-G935R4 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | hero2qltevzw | SM-G935V |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | SC-02H | SC-02H |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 Edge | SCV33 | SCV33 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | herolte | SM-G930F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | herolte | SM-G930X |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroltebmc | SM-G930W8 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroltektt | SM-G930K |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroltelgt | SM-G930L |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | herolteskt | SM-G930S |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroqlteacg | SM-G930R7 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroqlteaio | SAMSUNG-SM-G930AZ |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroqlteatt | SAMSUNG-SM-G930A |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroqltecctvzw | SM-G930VC |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroqltechn | SM-G9300 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroqltechn | SM-G9308 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroqltelra | SM-G930R6 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroqltemtr | SM-G930T1 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroqltespr | SM-G930P |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroqltetfnvzw | SM-G930VL |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroqltetmo | SM-G930T |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroqlteue | SM-G930U |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroqlteusc | SM-G930R4 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S7 | heroqltevzw | SM-G930V |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8 Active | cruiserlteatt | SM-G892A |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8 | dreamlte | SM-G950F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8 | dreamlteks | SM-G950N |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8 | dreamqltecan | SM-G950W |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8 | dreamqltechn | SM-G9500 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8 | dreamqltecmcc | SM-G9508 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8 | dreamqltesq | SM-G950U |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8 | dreamqlteue | SM-G950U1 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8 | SC-02J | SC-02J |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8 | SCV36 | SCV36 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8+ | dream2lte | SM-G955F |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8+ | dream2lteks | SM-G955N |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8+ | dream2qltecan | SM-G955W |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8+ | dream2qltechn | SM-G9550 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8+ | dream2qltesq | SM-G955U |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8+ | dream2qlteue | SM-G955U1 |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8+ | SC-03J | SC-03J |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S8+ | SCV35 | SCV35 |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy S6 Active | marinelteatt | SAMSUNG-SM-G890A | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | 404SC | 404SC | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | SC-04G | SC-04G | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | SCV31 | SCV31 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zerolte | SM-G925F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zerolte | SM-G925I | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zerolte | SM-G925X | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zerolteacg | SM-G925R7 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zerolteatt | SAMSUNG-SM-G925A | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zeroltebmc | SM-G925W8 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zeroltechn | SM-G9250 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zeroltektt | SM-G925K | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zeroltelgt | SM-G925L | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zeroltelra | SM-G925R6 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zerolteskt | SM-G925S | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zeroltespr | SM-G925P | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zeroltetmo | SM-G925T | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zerolteusc | SM-G925R4 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge | zeroltevzw | SM-G925V | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenlte | SM-G9287 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenlte | SM-G9287C | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenlte | SM-G928C | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenlte | SM-G928F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenlte | SM-G928G | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenlte | SM-G928I | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenlte | SM-G928X | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenlteatt | SAMSUNG-SM-G928A | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenltebmc | SM-G928W8 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenltechn | SM-G9280 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenltektt | SM-G928K | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenltekx | SM-G928N0 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenltelgt | SM-G928L | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenlteskt | SM-G928S | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenltespr | SM-G928P | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenltetmo | SM-G928T | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenlteusc | SM-G928R4 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 Edge+ | zenltevzw | SM-G928V | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | SC-05G | SC-05G | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zeroflte | SM-G920F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zeroflte | SM-G920I | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zeroflte | SM-G920X | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zeroflteacg | SM-G920R7 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zeroflteaio | SAMSUNG-SM-G920AZ | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zeroflteatt | SAMSUNG-SM-G920A | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zerofltebmc | SM-G920W8 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zerofltechn | SM-G9200 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zerofltechn | SM-G9208 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zerofltectc | SM-G9209 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zerofltektt | SM-G920K | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zerofltelgt | SM-G920L | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zerofltelra | SM-G920R6 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zerofltemtr | SM-G920T1 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zeroflteskt | SM-G920S | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zerofltespr | SM-G920P | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zerofltetfnvzw | SM-S906L | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zerofltetfnvzw | SM-S907VL | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zerofltetmo | SM-G920T | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zeroflteusc | SM-G920R4 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S6 | zerofltevzw | SM-G920V | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Active | poseidonlteatt | SAMSUNG-SM-G891A | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | hero2lte | SM-G935F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | hero2lte | SM-G935X | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | hero2ltebmc | SM-G935W8 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | hero2ltektt | SM-G935K | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | hero2ltelgt | SM-G935L | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | hero2lteskt | SM-G935S | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | hero2qlteatt | SAMSUNG-SM-G935A | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | hero2qltecctvzw | SM-G935VC | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | hero2qltechn | SM-G9350 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | hero2qltespr | SM-G935P | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | hero2qltetmo | SM-G935T | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | hero2qlteue | SM-G935U | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | hero2qlteusc | SM-G935R4 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | hero2qltevzw | SM-G935V | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | SC-02H | SC-02H | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 Edge | SCV33 | SCV33 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | herolte | SM-G930F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | herolte | SM-G930X | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroltebmc | SM-G930W8 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroltektt | SM-G930K | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroltelgt | SM-G930L | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | herolteskt | SM-G930S | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroqlteacg | SM-G930R7 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroqlteaio | SAMSUNG-SM-G930AZ | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroqlteatt | SAMSUNG-SM-G930A | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroqltecctvzw | SM-G930VC | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroqltechn | SM-G9300 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroqltechn | SM-G9308 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroqltelra | SM-G930R6 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroqltemtr | SM-G930T1 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroqltespr | SM-G930P | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroqltetfnvzw | SM-G930VL | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroqltetmo | SM-G930T | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroqlteue | SM-G930U | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroqlteusc | SM-G930R4 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S7 | heroqltevzw | SM-G930V | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8 Active | cruiserlteatt | SM-G892A | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8 | dreamlte | SM-G950F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8 | dreamlteks | SM-G950N | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update  | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8 | dreamqltecan | SM-G950W | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8 | dreamqltechn | SM-G9500 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8 | dreamqltecmcc | SM-G9508 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update  | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8 | dreamqltesq | SM-G950U | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update  | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8 | dreamqlteue | SM-G950U1 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update  | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8 | SC-02J | SC-02J | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update  | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8 | SCV36 | SCV36 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update  | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8+ | dream2lte | SM-G955F | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update  | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8+ | dream2lteks | SM-G955N | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update  | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8+ | dream2qltecan | SM-G955W | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update  | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8+ | dream2qltechn | SM-G9550 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update  | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8+ | dream2qltesq | SM-G955U | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update  | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8+ | dream2qlteue | SM-G955U1 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update  | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8+ | SC-03J | SC-03J | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update  | 2017-10-19 | 2017-11-13 |
+| Samsung | Galaxy S8+ | SCV35 | SCV35 | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next monthly security update  | 2017-10-19 | 2017-11-13 |
 | Samsung | Galaxy Spica | GT-I5700 | GT-I5700 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy Spica | GT-I5700 | GT-I5700L |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy Spica | GT-I5700 | GT-I5700R |  |  | 2017-10-19 | 2017-10-19 |
@@ -1748,9 +1748,11 @@
 | Samsung | Galaxy TabS 8.4 | klimtwifi | SM-T700 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy TabS 8.4 | klimtwifikx | SM-T700 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy TabS2 9.7 | gts210veltevzw | SM-T818V |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy TabS2 L Refresh | ? | ? | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-11-13 | 2017-11-13 |
 | Samsung | Galaxy TabS3 | gts3llte | SM-T825 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy TabS3 | gts3llte | SM-T825Y |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy TabS3 | gts3lltechn | SM-T825C |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy TabS3 9.7 | ? | ? | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-11-13 | 2017-11-13 |
 | Samsung | Galaxy Tap Pro 10.1 | picassolte | SM-T525 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy Tap Pro 8.4 | mondrianwifi | SM-T320 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy Trend Duos | kyleichn | GT-S7562i |  |  | 2017-10-19 | 2017-10-19 |
@@ -1877,6 +1879,7 @@
 | Samsung | Nexus 10 | manta | Nexus 10 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Nexus S | crespo | Nexus S |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Nexus S | crespo4g | Nexus S 4G |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Note FE | ? | ? | planned with [SMR-NOV-2017](https://security.samsungmobile.com/securityUpdate.smsb) | with next quarterly security update following November 2017 | 2017-11-13 | 2017-11-13 |
 | Samsung | olleh | ik1 | SMT-E5015 |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | ProXpress M4580 | fiber-athena | samsung-printer-tablet |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Replenish | SPH-M580 | SPH-M580 |  |  | 2017-10-19 | 2017-10-19 |
