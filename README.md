@@ -186,6 +186,7 @@ As of writing, there is no possibility known to safeguard Wi-Fi clients by chang
 | Nikon | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nintendo | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nokia | No Known Official Response | "I have forwarded your support request to our Tier 3 team for their assistance. We appreciate your patience as we work to resolve your issue, and will get back in touch as soon as we have additional steps for you to take.", source: [#174](https://github.com/kristate/krackinfo/issues/174) | 2017-10-27 | 2017-10-27 |  |
+| Nvidia | [FIX](https://shield.nvidia.com/support/nvidia-android-tv/release-notes/1) | Android Security patch has been applied | 2017-11-12 | 2017-11-12 |  |
 | OmniROM | [LINK](https://blog.omnirom.org/development/2017/10/17/omni-builds-updated-krack/) | "all official OmniROM N builds have the fix included." | 2017-10-19 | 2017-10-19 |  |
 | OnePlus | No Known Official Response | "We encouraged you to stay tuned and keep track on our Community Forums and official website and other social media channels." | 2017-10-17 | 2017-10-16 |  |
 | Onkyo | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
