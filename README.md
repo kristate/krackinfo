@@ -168,7 +168,7 @@ As of writing, there is no possibility known to safeguard Wi-Fi clients by chang
 | Lenovo | [LINK](https://support.lenovo.com/de/de/product_security/len-17420) | Impact assessment apparently still ongoing | 2017-10-29 | 2017-10-29 |  |
 | LineageOS | [LINK](https://review.lineageos.org/#/q/topic:krack-n) | "All official 14.1 builds built after this tweet have been patched for KRACK.":[LINK](https://twitter.com/LineageAndroid/status/920143977256382464) | 2017-10-17 | 2017-10-17 |  |
 | Linux | Patches: [LINK](https://w1.fi/security/2017-1/) | wpa_supplicant version 2.4 and above is affected. Linux's wpa_supplicant v2.6 is also vulnerable to the installation of an all-zero encryption key in the 4-way handshake. | 2017-10-16 | 2017-10-16 |  |
-| Logitech | No Known Official Response | N/A | 2017-10-29 | 2017-10-16 |  |
+| Logitech | [LINK](https://community.logitech.com/s/question/0D55A000077ySvjSAE/harmony-hub-and-krack-wifi-wpa2-security) | Harmony: vendor is aware of the vulnerability; review in process | 2017-11-12 | 2017-11-12 |  |
 | Luxul | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Marantz | No Known Official Response | N/A | 2017-10-29 | 2017-10-17 |  |
 | Marvell Semiconductor | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
