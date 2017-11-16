@@ -3,7 +3,7 @@
 From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 > In a key reinstallation attack, the adversary tricks a victim into reinstalling an already-in-use key. This is achieved by manipulating and replaying cryptographic handshake messages. When the victim reinstalls the key, associated parameters such as the incremental transmit packet number (i.e. nonce) and receive packet number (i.e. replay counter) are reset to their initial value. Essentially, to guarantee security, a key should only be installed and used once. Unfortunately, we found this is not guaranteed by the WPA2 protocol. By manipulating cryptographic handshakes, we can abuse this weakness in practice.
 
-***Unless a known patch has been applied, assume that all WPA2 enabled Wi-fi devices are vulnerable.***
+***Unless a known patch has been applied, assume that all WPA2-enabled Wi-Fi devices are vulnerable.***
 
 # ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Administrators: Remember to <a href="https://github.com/kristate/krackinfo/subscription">watch this page</a> for changes
 
@@ -13,12 +13,13 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 
 ## The Good
 * Should a vendor take responsibility, devices are for the most part updatable.
+* Access points are only affected, if they implement the standard 802.11r (a.k.a. Fast-BSS Transition).
 
 ## The Bad
 * Many devices do not have an easy way to apply updates.
 * A huge burden is placed on the consumer to keep their devices up to date
   * It may not be easy to search for all updates to all devices.
-* The attack works for both clients and access points
+* The attack affects both clients and access points
   * Updating an access point does not keep clients protected!
 
 ## The Ugly
@@ -38,6 +39,27 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 * Adversary can not recover WPA password.
 * Adversary can not inject packets. *(AES-CCMP ONLY)*
 
+### CVE List and Device Types Affected 
+The reinstallation attack is not a single attack, but a group consisting of ten (10) independent security flaws which do have a common underlying approach. The security holes may be exploited indepdently of each other, and thus have to be fixed individually (if a device is affected). As it is common in computer security, each of them got assigned to a Common Vulnerabilities and Exposures (CVE) number, which are aggregated in [VU #228519](http://www.kb.cert.org/vuls/id/228519) for better tracking.
+Based on a [statement provided by Zyxel](http://www.zyxel.com/support/announcement_wpa2_key_management.shtml) you may group these CVEs based on which communication party is affected:
+
+| Common Vulnerabilities and Exposures (CVE)                        | Party Affected |
+| ------------------------------------------------------------------|----------------|
+| [CVE-2017-13077](https://nvd.nist.gov/vuln/detail/CVE-2017-13077) | Wi-Fi clients  |
+| [CVE-2017-13078](https://nvd.nist.gov/vuln/detail/CVE-2017-13078) | Wi-Fi clients  |
+| [CVE-2017-13079](https://nvd.nist.gov/vuln/detail/CVE-2017-13079) | Wi-Fi clients  |
+| [CVE-2017-13080](https://nvd.nist.gov/vuln/detail/CVE-2017-13080) | Wi-Fi clients  |
+| [CVE-2017-13081](https://nvd.nist.gov/vuln/detail/CVE-2017-13081) | Wi-Fi clients  |
+| [CVE-2017-13082](https://nvd.nist.gov/vuln/detail/CVE-2017-13082) | Access Points, if implementing standard 802.11r |
+| [CVE-2017-13084](https://nvd.nist.gov/vuln/detail/CVE-2017-13084) | Wi-Fi clients  |
+| [CVE-2017-13086](https://nvd.nist.gov/vuln/detail/CVE-2017-13086) | Wi-Fi clients  |
+| [CVE-2017-13087](https://nvd.nist.gov/vuln/detail/CVE-2017-13087) | Wi-Fi clients  |
+| [CVE-2017-13088](https://nvd.nist.gov/vuln/detail/CVE-2017-13088) | Wi-Fi clients  |
+
+Access points, which are intended for the consumer market, typically do *not* implement the standard 802.11r. However, access points for the enterprise market may do so. 
+
+Based on the table above, it becomes apparent that the primary effort for correcting the security flaw is to be expected for the Wi-Fi clients.
+As of writing, there is no possibility known to safeguard Wi-Fi clients by changing the access point's behavior. This implies that patching the Wi-Fi device is the only way to fix the problem for Wi-Fi clients.
 
 ### Related Reading
 * https://blog.cryptographyengineering.com/2017/10/16/falling-through-the-kracks/
@@ -97,6 +119,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Asus | [LINK](https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/) | New firmware available / Additionally, an email response from "security@asus.com" says that they are "co-working with chipset vendors for solutions and will release patched firmware for affected routers soon. If your router is RT-N12 D1, RT-N66U, RT-AC66U, RT-AC68U, RT-AC3200, RT-AC88U, RT-AC3100, RT-AC5300 or GT-AC5300 then your router is not affected by the WPA2 vulnerability in router and AP mode." | 2017-10-17 | 2017-10-26 |  |
 | AVM (FRITZ!Box)  | [LINK](https://en.avm.de/news/short-notes/2017/wpa2-flaw-fritzbox-on-broadband-connections-are-secure/), [LINK2](https://avm.de/service/aktuelle-sicherheitshinweise/) | WPA2 flaw – FRITZ!Box on broadband connections are secure. AVM has provided updates for its wireless repeaters and its Powerline product series. Download of new firmwares are available in the [download area](https://avm.de/nc/service/downloads/) | 2017-10-28 | 2017-10-28 |  |
 | Barracuda Networks | [LINK](https://community.barracudanetworks.com/forum/index.php?/topic/23525-security-advisories/page-2#entry84537) | Our investigations indicate that currently only Barracuda NextGen Firewall Wi-Fi Models used under Wi-Fi Client mode are affected. | 2017-10-17 | 2017-10-17 |  |
+| BearExtender / Bearifi | No Known Official Response | N/A | 2017-11-12 | 2017-11-12 |  |
 | Belkin, Linksys, and Wemo | [LINK@Linksys](https://www.linksys.com/us/support-article?articleNum=246427), [LINK@Belkin](http://www.belkin.com/us/support-article?articleNum=275531) | "We are still confirming all product skus affected, including Belkin Routers and Range Extenders, Linksys Routers, Adapters, Access Points, Bridges and Range Extenders and Wemo Products.  As mentioned, when firmware is available, it will be posted to the associated brands’ support page." | 2017-10-28 | 2017-10-28 |  |
 | bintec elmeg (Teldat Group) | [LINK](https://e2e.ti.com/support/wireless_connectivity/simplelink_wifi_cc31xx_cc32xx/f/968/t/632869) | APs do not have support for 802.11r and 802.11s (thus not affected in AP-only mode); APs in client mode may be affected: further investigations ongoing | 2017-10-29 | 2017-10-29 |  |
 | Broadcom / Cypress | [LINK](https://community.cypress.com/docs/DOC-13871) (Cypress community login required) | WICED Studio, `wpa_supplicant`, and linux releases in late October will address the relevant CVEs. | 2017-10-18 | 2017-10-18 |  |
@@ -126,12 +149,12 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Extreme Networks | [LINK](https://extremeportal.force.com/ExtrArticleDetail?n=000018005) | Patches available for ExtremeWireless, ExtremeWireless WiNG. ExtremeCloud and WLAN 8100/9100 patches still in development. | 2017-10-26 | 2017-10-25 | 2017-08-28 |
 | F5 Networks | [LINK](https://support.f5.com/csp/article/K23642330) | There is no impact; F5 products are not affected by this vulnerability. | 2017-10-19 | 2017-10-19 |  |
 | Fedora | Fedora [26](https://bodhi.fedoraproject.org/updates/wpa_supplicant-2.6-11.fc26) / [27 (beta)](https://bodhi.fedoraproject.org/updates/wpa_supplicant-2.6-11.fc27) | Status: Fixed Release: Stable (* Manual installation is possible) Arch: x86_64 and ARM (Raspberry PI) | 2017-10-17 | 2017-10-19 |  |
-| FortiNet | [LINK](http://www.fortiguard.com/psirt/FG-IR-17-196) | FortiAP 5.6.1 has been patched. All other patches are upcoming. | 2017-10-16 | 2017-10-18 |  |
+| FortiNet | [LINK](http://www.fortiguard.com/psirt/FG-IR-17-196) | Only affected in client / mesh leaf mode or when using 802.11r; patches available | 2017-11-07 | 2017-11-02 |  |
 | Foundry Brocade | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | FreeBSD Project | [Response](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001805.html), [patch](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001806.html) | Binary and source updates to base system available. Alternatively one can install the `security/wpa_supplicant` port or package in lieu of the same in base. | 2017-10-17 | 2017-10-17 | (?) |
-| Google | [LINK](https://source.android.com/security/bulletin/pixel/2017-11-01) | Nexus/Pixel devices: Security patch level 2017-11-06 or later required to be fixed. Note that security patch level 2017-11-05 is **not** sufficient. Distribution expected to happen with [December security update](https://arstechnica.com/gadgets/2017/11/pixel-wont-get-krack-fix-until-december-but-is-that-really-a-big-deal/).<br />Link to [first statement](https://www.cnet.com/au/news/google-to-patch-krack-impacted-devices-in-the-next-few-weeks/) | 2017-11-13 | 2017-11-13 |  |
+| Google | [Nexus/Pixel](https://source.android.com/security/bulletin/pixel/2017-11-01)<br />[ChromeOS Fix](https://productforums.google.com/forum/#!topic/chromebook-central/OFNTYYpOnFc) | Nexus/Pixel devices: Security patch level 2017-11-06 or later required to be fixed. Note that security patch level 2017-11-05 is **not** sufficient. Distribution expected to happen with [December security update](https://arstechnica.com/gadgets/2017/11/pixel-wont-get-krack-fix-until-december-but-is-that-really-a-big-deal/).<br />Link to [first statement](https://www.cnet.com/au/news/google-to-patch-krack-impacted-devices-in-the-next-few-weeks/) | 2017-11-13 | 2017-11-13 |  |
 | Hewlett Packard Enterprise / Aruba | [LINK@HPE](http://h22208.www2.hpe.com/eginfolib/securityalerts/Krack%20Attack/WPA2-KrackAttack.html), [Aruba Patch Info](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007.txt) - [Aruba FAQ](http://www.arubanetworks.com/assets/alert/ARUBA-PSA-2017-007_FAQ_Rev-1.pdf) | Analysis still ongoing. First Aruba | 2017-10-17 | 2017-10-17 | Aruba: 2017-08-28 |
-| Honeywell | No Known Official Response | N/A | 2017-10-29 | 2017-10-16 |  |
+| Honeywell | No Known Official Response | Impact [in assessment](https://github.com/kristate/krackinfo/issues/217); no fix available, yet | 2017-11-12 | 2017-11-12 |  |
 | Huawei | No Known Official Response | N/A | 2017-10-29 | 2017-10-16 |  |
 | I-O DATA | [LINK(JA)](http://www.iodata.jp/support/information/2017/wpa2/) | N/A | 2017-10-18 | 2017-10-18 |  |
 | IBM | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
@@ -147,7 +170,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Lenovo | [LINK](https://support.lenovo.com/de/de/product_security/len-17420) | Impact assessment apparently still ongoing | 2017-10-29 | 2017-10-29 |  |
 | LineageOS | [LINK](https://review.lineageos.org/#/q/topic:krack-n) | "All official 14.1 builds built after this tweet have been patched for KRACK.":[LINK](https://twitter.com/LineageAndroid/status/920143977256382464) | 2017-10-17 | 2017-10-17 |  |
 | Linux | Patches: [LINK](https://w1.fi/security/2017-1/) | wpa_supplicant version 2.4 and above is affected. Linux's wpa_supplicant v2.6 is also vulnerable to the installation of an all-zero encryption key in the 4-way handshake. | 2017-10-16 | 2017-10-16 |  |
-| Logitech | No Known Official Response | N/A | 2017-10-29 | 2017-10-16 |  |
+| Logitech | [LINK](https://community.logitech.com/s/question/0D55A000077ySvjSAE/harmony-hub-and-krack-wifi-wpa2-security) | Harmony: vendor is aware of the vulnerability; review in process | 2017-11-12 | 2017-11-12 |  |
 | Luxul | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Marantz | No Known Official Response | N/A | 2017-10-29 | 2017-10-17 |  |
 | Marvell Semiconductor | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
@@ -165,8 +188,9 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Nikon | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nintendo | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
 | Nokia | No Known Official Response | "I have forwarded your support request to our Tier 3 team for their assistance. We appreciate your patience as we work to resolve your issue, and will get back in touch as soon as we have additional steps for you to take.", source: [#174](https://github.com/kristate/krackinfo/issues/174) | 2017-10-27 | 2017-10-27 |  |
+| Nvidia | [FIX](https://shield.nvidia.com/support/nvidia-android-tv/release-notes/1) | Android Security patch has been applied | 2017-11-12 | 2017-11-12 |  |
 | OmniROM | [LINK](https://blog.omnirom.org/development/2017/10/17/omni-builds-updated-krack/) | "all official OmniROM N builds have the fix included." | 2017-10-19 | 2017-10-19 |  |
-| OnePlus | No Known Official Response | "We encouraged you to stay tuned and keep track on our Community Forums and official website and other social media channels." | 2017-10-17 | 2017-10-16 |  |
+| OnePlus | [LINK for OxygenOS 3.6.1](https://www.androidsage.com/2017/10/26/oxygen-os-3-6-1-for-oneplus-2/) [LINK for OxygenOS 4.5.14](https://forums.oneplus.net/threads/oxygenos-4-5-14-ota-for-the-oneplus-5.671640/) | N/A | 2017-11-12 | 2017-11-12 |  |
 | Onkyo | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Open-Mesh / CloudTrax | [LINK](https://help.cloudtrax.com/hc/en-us/articles/115001567804-KRACK-Bulletin) | An update is expected to be delivered to all of those that use automatic updates by the end over October 17th. | 2017-10-17 | 2017-10-17 |  |
 | OpenBSD | [LINK](https://marc.info/?l=openbsd-announce&m=150410604407872&w=2) | Errata patches for the wireless stack have been released for OpenBSD 6.1 and 6.0. State transition errors could cause reinstallation of old WPA keys. Binary updates for the amd64 and i386 platforms are available via the syspatch utility. Source code patches can be found on the respective errata pages. As this affects the kernel, a reboot will be needed after patching. | 2017-10-16 | 2017-10-16 |  |
@@ -174,6 +198,7 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Pakedge | No Known Official Response | Via @spike411 "They have acknowledged they have received my enquiry but don’t have any info about the state of this vulnerability in their products." | 2017-10-16 | 2017-10-16 |  |
 | Particle | [LINK](https://community.particle.io/t/krack-patch-eta/36759/5?u=zachary) | Once Cypress releases updates to WICED Studio, Particle will create system firmware releases. Users can then build their apps on the new system versions. | 2017-10-18 | 2017-10-18 |  |
 | Peplink | [LINK](https://forum.peplink.com/t/security-advisory-krack-wpa2-vulnerability-vu-228519/12715) | "We are developing firmware to address the vulnerability." ... "ETA for the firmware releases is within two weeks." | 2017-10-17 | 2017-10-17 | 2017-08-28 |
+| PetNet &amp; Electric Imp | [LINK](http://blog.electricimp.com/post/166480380360/security-news-key-reinstallation-attacks-krack) | Not affected, as all communication is TLS-secured; waiting for hardware vendors to provide fixes to allow incorporation into one of the next impOS versions | 2017-11-12 | 2017-11-12 |  |
 | pfSense | [RELEASES](https://www.netgate.com/blog/pfsense-2-4-1-release-now-available.html) [LINK](https://redmine.pfsense.org/issues/7951) | pfSense 2.4.1 & 2.3.5 releases (and later patches) contain "Fixes for the set of WPA2 Key Reinstallation Attack issues commonly known as KRACK" | 2017-10-29 | 2017-10-29 |  |
 | Pioneer | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | PLANEX | [LINK(JA)](http://www.planex.co.jp/news/info/20171019_info.shtml) | N/A | 2017-10-20 | 2017-10-20 |  |
@@ -213,7 +238,8 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 | Xfinity | No Known Official Response | N/A | 2017-10-17 | 2017-10-17 |  |
 | Xiaomi | [LINK](http://en.miui.com/thread-954223-1-1.html) | MIUI Beta 9 v7.10.19 for some of the [mobile devices](ANDROID_S-Z.md) released.  | 2017-10-22 | 2017-10-22 | 2017-07-28 |2
 | Xirrus | [LINK](https://www.xirrus.com/vulnerability-statements/) | As soon as the patch is released, it will be made available through the Xirrus Support Community. | 2017-10-17 | 2017-10-17 |  |
-| Yamaha | No Known Official Response | N/A | 2017-10-16 | 2017-10-16 |  |
+| Yamaha | No Known Official Response | N/A | 2017-11-12 | 2017-10-16 |  |
 | Yi (Xiaomi) | No Known Official Response | "Waiting on a reply" | 2017-10-17 | 2017-10-17 |  |
+| Zoom Telephonics | No Known Official Response  | sells amongst other Routers and Access Points; [some of them](https://github.com/kristate/krackinfo/issues/167) may also run as supplicants | 2017-11-12 | 2017-11-12 |  |
 | ZTE | No Known Official Response | Also see entry KPN | 2017-10-17 | 2017-10-20 |  |
 | ZyXEL | [LINK](http://www.zyxel.com/support/announcement_wpa2_key_management.shtml) | N/A | 2017-10-16 | 2017-10-16 | 28 Aug 2017 |
