@@ -265,10 +265,10 @@
 | Nuvision | TM800A550L | TM800A550L | TM800A550L |  |  | 2017-10-19 | 2017-10-19 |
 | Nuvision | TM800A730M | TM800AM | TM800A730M |  |  | 2017-10-19 | 2017-10-19 |
 | Nuvision | TM800A740M | TM800AM | TM800A740M |  |  | 2017-10-19 | 2017-10-19 |
-| NVIDIA | SHIELD Android TV | foster | SHIELD Android TV |  |  | 2017-10-19 | 2017-10-19 |
-| NVIDIA | SHIELD Android TV | foster | SHIELD Console |  |  | 2017-10-19 | 2017-10-19 |
+| NVIDIA | SHIELD Android TV | foster | SHIELD Android TV | [Shield Experience Upgrade 6.1](https://shield.nvidia.com/support/nvidia-android-tv/faq/1) | Fix available | 2017-10-19 | 2017-11-12 |
+| NVIDIA | SHIELD Android TV | foster | SHIELD Console | [Shield Experience Upgrade 6.1](https://shield.nvidia.com/support/nvidia-android-tv/faq/1) | Fix available | 2017-10-19 | 2017-11-12 |
 | NVIDIA | SHIELD Tablet | shieldtablet | SHIELD Tablet |  |  | 2017-10-19 | 2017-10-19 |
-| NVIDIA | SHIELD TV | darcy | SHIELD Android TV |  |  | 2017-10-19 | 2017-10-19 |
+| NVIDIA | SHIELD TV | darcy | SHIELD Android TV | [Shield Experience Upgrade 6.1](https://shield.nvidia.com/support/nvidia-shield-tv/release-notes/1) | Fix available | 2017-10-19 | 2017-11-12 |
 | NVIDIA | Shield | roth | SHIELD |  |  | 2017-10-19 | 2017-10-19 |
 | NVIDIA | TegraNote | tegranote | Tegra Note 7 |  |  | 2017-10-19 | 2017-10-19 |
 | NVIDIA | TegraNote | tegranote | TegraNote-P1640 |  |  | 2017-10-19 | 2017-10-19 |
@@ -303,10 +303,10 @@
 | OnePlus | One | A0001 | A0001 |  |  | 2017-10-19 | 2017-10-19 |
 | OnePlus | One | A0001 | One |  |  | 2017-10-19 | 2017-10-19 |
 | OnePlus | OnePlus | OnePlus | ONE E1003 |  |  | 2017-10-19 | 2017-10-19 |
-| OnePlus | OnePlus2 | OnePlus2 | ONE A2003 |  |  | 2017-10-19 | 2017-10-19 |
-| OnePlus | OnePlus3 | OnePlus3 | ONEPLUS A3000 |  |  | 2017-10-19 | 2017-10-19 |
-| OnePlus | OnePlus3T | OnePlus3T | ONEPLUS A3000 |  |  | 2017-10-19 | 2017-10-19 |
-| OnePlus | OnePlus5 | OnePlus5 | ONEPLUS A5000 |  |  | 2017-10-19 | 2017-10-19 |
+| OnePlus | OnePlus2 | OnePlus2 | ONE A2003 | [Oxygen OS 3.6.1](https://github.com/kristate/krackinfo/issues/212) | Fix available (distribution via OTA) | 2017-10-19 | 2017-11-12 |
+| OnePlus | OnePlus3 | OnePlus3 | ONEPLUS A3000 | [Hydrogen OS v5](https://www.androidsage.com/2017/11/08/oneplus-3t-update-wifi-krack-wpa2-blueborne-patch/) / [Oxygen OS 4.5.2](https://www.androidsage.com/2017/11/08/oneplus-3t-update-wifi-krack-wpa2-blueborne-patch/) | Fix available / release pending | 2017-10-19 | 2017-11-12 |
+| OnePlus | OnePlus3T | OnePlus3T | ONEPLUS A3000 | [Hydrogen OS v5](https://www.androidsage.com/2017/11/08/oneplus-3t-update-wifi-krack-wpa2-blueborne-patch/) / [Oxygen OS 4.5.2](https://www.androidsage.com/2017/11/08/oneplus-3t-update-wifi-krack-wpa2-blueborne-patch/) | Fix available / release pending | 2017-10-19 | 2017-11-12 |
+| OnePlus | OnePlus5 | OnePlus5 | ONEPLUS A5000 | [OxygenOS 4.5.14](https://forums.oneplus.net/threads/oxygenos-4-5-14-ota-for-the-oneplus-5.671640/) | Fix available | 2017-10-19 | 2017-11-12 |
 | OnePlus | X | OnePlus | ONE E1003 |  |  | 2017-10-19 | 2017-10-19 |
 | Onkyo | DP-CMX1 | Gravity_128 | DP-CMX1 |  |  | 2017-10-19 | 2017-10-19 |
 | Onkyo | DP-X1 | Rai_Zin_32 | DP-X1 |  |  | 2017-10-19 | 2017-10-19 |
