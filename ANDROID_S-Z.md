@@ -1263,7 +1263,7 @@
 | Samsung | Galaxy S5 | k3g | SM-G900H |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy S5 | klte | SM-G9008W |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy S5 | klte | SM-G9009W |  |  | 2017-10-19 | 2017-10-19 |
-| Samsung | Galaxy S5 | klte | SM-G900F |  |  | 2017-10-19 | 2017-10-19 |
+| Samsung | Galaxy S5 | klte | SM-G900F |  | Android 6.0.1, security patch level 2017-07-01: vulnerable to 4-way handshake and group key attack | 2017-10-19 | 2017-12-30 |
 | Samsung | Galaxy S5 | klte | SM-G900FQ |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy S5 | klte | SM-G900I |  |  | 2017-10-19 | 2017-10-19 |
 | Samsung | Galaxy S5 | klte | SM-G900M |  |  | 2017-10-19 | 2017-10-19 |
