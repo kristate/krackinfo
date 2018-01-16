@@ -39,6 +39,10 @@ From the KRACK <a href="https://www.krackattacks.com/">website</a>:
 * Adversary can not recover WPA password.
 * Adversary can not inject packets. *(AES-CCMP ONLY)*
 
+### Further information
+* Marthy Vanhoef gave an overview presentation including implications at the conference 34c3. A [recording of his session](https://ftp.darmstadt.ccc.de/congress/2017/h264-hd/34c3-9273-eng-deu-spa-KRACKing_WPA2_by_Forcing_Nonce_Reuse_hd.mp4) is available.
+* A [set of scripts](https://github.com/vanhoefm/krackattacks-scripts) has been made available which allows to check devices whether they are vulnerable.
+
 ### CVE List and Device Types Affected 
 The reinstallation attack is not a single attack, but a group consisting of ten (10) independent security flaws which do have a common underlying approach. The security holes may be exploited indepdently of each other, and thus have to be fixed individually (if a device is affected). As it is common in computer security, each of them got assigned to a Common Vulnerabilities and Exposures (CVE) number, which are aggregated in [VU #228519](http://www.kb.cert.org/vuls/id/228519) for better tracking.
 Based on a [statement provided by Zyxel](http://www.zyxel.com/support/announcement_wpa2_key_management.shtml) you may group these CVEs based on which communication party is affected:
