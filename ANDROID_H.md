@@ -1979,9 +1979,9 @@
 | Huawei | HONOR 4X | hwChe2 | Che2-L12 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Honor 5A | HWLYO-L6735 | HUAWEI LYO-L21 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Honor 5A | HWLYO-L6735 | LYO-L21 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | Honor 5C | HNNEM-H | NEM-L21 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | Honor 5C | HNNEM-H | NEM-L22 |  |  | 2017-10-19 | 2017-10-19 |
-| Huawei | Honor 5C | HNNEM-H | NEM-L51 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | Honor 5C / Honor 7 Lite | HNNEM-H | NEM-L21 | 2018-02 ? | Android Security patch level: 1 February 2018 | 2017-10-19 | 2018-03-23 |
+| Huawei | Honor 5C / Honor 7 Lite | HNNEM-H | NEM-L22 |  |  | 2017-10-19 | 2017-10-19 |
+| Huawei | Honor 5C / Honor 7 Lite | HNNEM-H | NEM-L51 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | Honor 5X | HNKIW-Q | KIW-L21 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | honor 5X | HNKIW-Q | KIW-L22 |  |  | 2017-10-19 | 2017-10-19 |
 | Huawei | honor 5X | HNKIW-Q | KIW-L23 |  |  | 2017-10-19 | 2017-10-19 |
